@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "勿信视频中广告，不定期更新，免费、禁止贩卖！",
+      "name": "勿信视频中广告，不定期更新，禁止贩卖！",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -35,7 +35,7 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
         "filter": "https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"
-      },
+    },
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582"
     },
     {"key":"卧龙","name":"🐉┃卧龙┃","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -2124,6 +2124,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://jianbian.chuqiuyu.tk",
-  "warningText": "勿信视频中广告，不定期更新，免费、禁止贩卖！",
+  "warningText": "勿信视频中广告，不定期更新，禁止贩卖！",
   "spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
 }
