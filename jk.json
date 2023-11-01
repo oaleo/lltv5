@@ -48,6 +48,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
     },
+    {"key":"csp_77","name":"🌈七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"卧龙资源","name":"🐉┃卧龙┃资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {
       "key": "zy_新浪资源",
