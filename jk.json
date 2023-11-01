@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "js_nangua",
-      "name": "🎃┃南瓜┃影视",
+      "name": "🎃┃南瓜┃",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -15,7 +15,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "💂‍┃阿里┃玩偶",
+      "name": "💂‍┃玩偶┃",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -27,6 +27,16 @@
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582"
     },
     {
+      "key": "加亮",
+      "name": "🌟┃加亮┃",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api.jialiangos.com:81/api.php/app/"
+    },
+    {
       "key": "csp_KungFu404",
       "name": "💠┃阿里┃设置",
       "type": 3,
@@ -35,26 +45,6 @@
       "filterable": 0,
       "changeable": 0,
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
-    },
-    {
-      "key": "js_baby",
-      "name": "👶┃宝宝┃合集",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
-    },
-    {
-      "key": "js_童趣",
-      "name": "🧗‍┃童趣┃搜视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tongqu.js"
     },
     {
       "key": "XYQH_JOJO",
@@ -112,14 +102,24 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
-      "key": "加亮",
-      "name": "🪔┃加亮┃影视",
+      "key": "js_baby",
+      "name": "👶┃宝宝┃合集",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://api.jialiangos.com:81/api.php/app/"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
+    },
+    {
+      "key": "js_童趣",
+      "name": "🧗‍┃童趣┃搜视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/tongqu.js"
     },
     {
       "key": "骑骑影院",
