@@ -26,16 +26,6 @@
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
     },
     {
-      "key": "js_nangua",
-      "name": "🎃┃南瓜┃影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
-    },
-    {
       "key": "csp_WoGG",
       "name": "💂‍┃玩偶┃4K",
       "type": 3,
@@ -47,6 +37,16 @@
         "filter": "https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"
     },
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582"
+    },
+    {
+      "key": "js_nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
     },
     {"key":"卧龙资源","name":"🐉┃卧龙┃资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {
