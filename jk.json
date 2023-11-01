@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "勿信视频中广告，不定期更新，免费、禁止贩卖！",
+      "name": "勿信视频中广告，不定期更新，禁止贩卖！",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
