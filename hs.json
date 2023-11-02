@@ -100,7 +100,7 @@
     },
     {
       "key": "csp_beijihu",
-      "name": "🦊┃极狐┃影视",
+      "name": "🎪┃极狐┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -120,16 +120,6 @@
       "filterable": 1
     },
     {
-      "key": "嘉良影视",
-      "name": "🌟┃嘉良┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://api.jialiangos.com:81/api.php/app/"
-    },
-    {
       "key": "XYQH_JOJO",
       "name": "🍁┃久久┃影视",
       "type": 3,
@@ -138,15 +128,15 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"
     },
     {
-      "key": "蜗牛影视",
+      "key": "蜗牛有广告",
       "name": "🐌┃蜗牛┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/蜗牛.json"
     },
     {
-      "key": "星星影视",
-      "name": "🌟┃星星┃影视",
+      "key": "鑫鑫影视",
+      "name": "🥇┃鑫鑫┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -155,8 +145,8 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
-      "key": "西瓜影院",
-      "name": "🎦┃西瓜┃影院",
+      "key": "骑骑影院",
+      "name": "🚵┃骑骑┃影院",
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
