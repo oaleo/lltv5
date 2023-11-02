@@ -100,15 +100,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/大师兄影视.js"
     },
 {"key": "csp_77","name": "👒酷云七七┃","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {
-      "key": "csp_Bttoo",
-      "name": "🍄┃比特┃2K",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
      {
       "key": "玉米",
       "name": "🌽┃玉米┃2K",
@@ -129,15 +120,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
-    },
-    {
-      "key":"csp_77",
-      "name":"🌈┃酷云┃七七",
-      "type":3,
-      "api":"csp_Kunyu77",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
     },
     {
       "key": "csp_beijihu",
