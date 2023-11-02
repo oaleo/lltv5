@@ -91,7 +91,7 @@
     },
     {
       "key": "js_大师兄",
-      "name": "🐵┃师兄┃影视",
+      "name": "🐵┃大师兄┃影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -122,7 +122,7 @@
     },
     {
       "key": "freeok",
-      "name": "🌟free┃BPQ",
+      "name": "🌟┃free┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -233,16 +233,6 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/cctv.py"
     },
     {
-      "key": "js_baby",
-      "name": "👶┃宝宝┃合集",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
-    },
-        {
       "key":"卧龙资源",
       "name":"🐉┃卧龙┃资源",
       "type":1,
@@ -345,6 +335,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/kuba.js"
+    },
+    {
+      "key": "js_baby",
+      "name": "👶┃宝宝┃合集",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
     },
     {
       "key": "csp_阿里七夜",
