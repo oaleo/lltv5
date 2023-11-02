@@ -90,6 +90,16 @@
       ]
     },
     {
+      "key": "js_大师兄",
+      "name": "🐵┃师兄┃影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/大师兄影视.js"
+    },
+    {
       "key":"csp_77",
       "name":"🌈┃酷云┃七七",
       "type":3,
