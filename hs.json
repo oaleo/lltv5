@@ -54,16 +54,6 @@
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582"
     },
     {
-      "key": "js_4KHDR",
-      "name": "👩‍⚕️┃玩偶┃姐姐",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/4KHDR.js"
-    },
-    {
       "key":"csp_77",
       "name":"🌈┃酷云┃七七",
       "type":3,
