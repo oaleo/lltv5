@@ -1,15 +1,15 @@
 {
   "urls": [
     {
-      "url": "clan://localhost/box/Tongyong.json",
+      "url": "clan://localhost/Tongyong.json",
       "name": "⚡️4K⚡️通用主线"
     },
     {
-      "url": "clan://localhost/box/V3.json",
+      "url": "clan://localhost/V3.json",
       "name": "4K⚡️V3版专线"
     },
     {
-      "url": "clan://localhost/box/cili.json",
+      "url": "clan://localhost/cili.json",
       "name": "4K⚡️磁力专线"
     }
   ]
