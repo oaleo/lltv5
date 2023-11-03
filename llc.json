@@ -1,11 +1,11 @@
 {
   "urls": [
     {
-      "ext": "./Tongyong.json"
+      "url": "https://jihulab.com/sy555/lh/-/raw/main/Tongyong.json",
       "name": "⚡️4K⚡️通用主线"
     },
     {
-      "ext": "./main/V3.json"
+      "url": "https://jihulab.com/sy555/lh/-/raw/main/V3.json",
       "name": "4K⚡️V3版专线"
     },
     {
