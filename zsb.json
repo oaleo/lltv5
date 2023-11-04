@@ -3,14 +3,14 @@
 
 {
 
-"warningText":"罗罗提示：勿信视频中任何广告，不定期更新，禁止贩卖！",    
+"warningText":"罗罗提示：勿信视频中任何广告，不定期更新！",    
 
 
 "sites":[
 
     {
       "key": "豆瓣",
-      "name": "💫勿信视频中任何广告，不定期更新，禁止贩卖！",
+      "name": "💫勿信视频中任何广告，不定期更新！",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -319,7 +319,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/live.txt",
+		    "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
