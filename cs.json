@@ -30,7 +30,7 @@
     },
     {
       "key": "js_555",
-      "name": "🌟┃555┃影视",
+      "name": "🌟┃555┃测试版",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "js_nangua",
-      "name": "🎃┃南瓜┃影视",
+      "name": "🎃┃南瓜┃测试版",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -319,7 +319,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/live.txt",
+		    "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
