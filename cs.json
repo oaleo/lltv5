@@ -3,14 +3,14 @@
 
 {
 
-"warningText":"罗罗提示：勿信视频中任何广告，不定期更新，禁止贩卖！",    
+"warningText":"罗罗提示：勿信视频中任何广告，不定期更新！",    
 
 
 "sites":[
 
     {
       "key": "豆瓣",
-      "name": "💫勿信视频中任何广告，不定期更新，禁止贩卖！",
+      "name": "💫勿信视频中任何广告，不定期更新！",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -30,7 +30,7 @@
     },
     {
       "key": "js_555",
-      "name": "🌟┃555┃测试版",
+      "name": "🌟┃罗罗┃测试1",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -40,7 +40,7 @@
     },
     {
       "key": "js_nangua",
-      "name": "🎃┃南瓜┃测试版",
+      "name": "🎃┃罗罗┃测试2",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
