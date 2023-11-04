@@ -19,16 +19,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
     },
     {
-      "key": "csp_KungFu404",
-      "name": "💠┃阿里云┃设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
-    },
-    {
       "key": "js_555",
       "name": "🌟┃罗罗┃测试1",
       "type": 3,
@@ -87,6 +77,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
+    },
+    {
+      "key": "csp_KungFu404",
+      "name": "💠┃阿里云┃设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
     }
 ],
 
