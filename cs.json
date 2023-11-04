@@ -3,7 +3,7 @@
 
 {
 
-"warningText":"罗罗提示：勿信视频中任何广告！",    
+"warningText":"温馨提示：勿信视频中任何广告！",    
 
 
 "sites":[
@@ -20,7 +20,7 @@
     },
     {
       "key": "csp_KungFu404",
-      "name": "💠┃阿里┃设置",
+      "name": "💠┃阿里云┃设置",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
@@ -47,8 +47,49 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
+    },
+    {
+      "key": "zy_新浪资源",
+      "name": "🏄🏻┃罗罗┃测试3",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "综艺",
+        "纪录片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "体育"
+      ]
+    },
+    {
+      "key": "js_baby",
+      "name": "👶┃罗罗┃测试4",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
     }
 ],
+
 
 
 "parses": [
