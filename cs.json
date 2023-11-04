@@ -19,24 +19,24 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
     },
     {
-      "key": "js_555",
-      "name": "🌟┃罗罗┃测试1",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/555.js"
-    },
-    {
       "key": "js_nangua",
-      "name": "🎃┃罗罗┃测试2",
+      "name": "🎃┃罗罗┃测试1",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
+    },
+    {
+      "key": "js_555",
+      "name": "🌟┃罗罗┃测试2",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/555.js"
     },
     {
       "key": "zy_新浪资源",
