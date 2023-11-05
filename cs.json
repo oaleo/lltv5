@@ -68,19 +68,19 @@
         "体育"
       ]
     },
+    {"key":"优酷","name":"🚛优酷(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
     {
-      "key": "js_baby",
-      "name": "👶┃罗罗┃测试4",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "key": "MV_vod",
+      "name": "🎻┃罗罗┃测试4",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
+      "filterable": 1
     },
     {
       "key": "csp_KungFu404",
-      "name": "💠┃阿里云┃设置",
+      "name": "🌤️┃阿里云┃设置",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
