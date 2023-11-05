@@ -86,72 +86,13 @@
 	"quickSearch": 1,
 	"filterable": 1,
 	"ext": "https://weixine.net/sub/kuqimv.json"
-},
-    {
-      "key": "Bili",
-      "name": "Bili",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://xhdwc.tk/json/bilibili.json"
     },
-    {
-      "key": "课堂教育",
-      "name": "课堂教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://xhdwc.tk/json/xx1.json"
-    },
-{
-	"key": "爱奇异",
-	"name": "🔥┃爱奇艺┃(官)",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://weixine.net/js/aiqiyi.js"
-}, {
-	"key": "优酷",
-	"name": "🔥┃优酷┃(官)",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://weixine.net/js/youku.js"
-}, {
-	"key": "腾讯",
-	"name": "🔥┃腾讯┃(官)",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://weixine.net/js/tengxun.js"
-}, {
-	"key": "芒果",
-	"name": "🔥┃芒果┃(官)",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://weixine.net/js/mangguo.js"
-}, {
-	"key": "搜狗",
-	"name": "🔥┃搜狗┃(官)",
-	"type": 3,
-	"api": "https://weixine.net/js/lib/drpy2.min.js",
-	"ext": "https://weixine.net/js/caigou.js"
-},
-    {
-      "key": "py_cctv",
-      "name": "🔥┃CCTV┃",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/cctv.py"
-    },
+{"key":"爱奇异","name":"🔥爱奇艺(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/aiqiyi.js"},
+{"key":"优酷","name":"🔥优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
+{"key":"腾讯","name":"🔥腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
+{"key":"芒果","name":"🔥芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
+{"key":"搜狗","name":"🔥搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
+{"key":"py_cctv","name": "🔥CCTV","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://weixine.net/py/py_cctv.py"},
     {
       "key": "csp_KungFu404",
       "name": "☁️┃阿里云┃设置",
