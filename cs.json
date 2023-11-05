@@ -87,6 +87,30 @@
 	"filterable": 1,
 	"ext": "https://weixine.net/sub/kuqimv.json"
 },
+    {
+      "key": "Bili",
+      "name": "Bili",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://xhdwc.tk/json/bilibili.json"
+    },
+    {
+      "key": "课堂教育",
+      "name": "课堂教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://xhdwc.tk/json/xx1.json"
+    },
 {
 	"key": "爱奇异",
 	"name": "🔥┃爱奇艺┃(官)",
