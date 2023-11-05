@@ -127,36 +127,6 @@
 	"filterable": 0,
 	"ext": "https://weixine.net/py/py_cctv.py"
 },
-{
-	"key": "高中教育",
-	"name": "🎦┃学习园地┃",
-	"type": 3,
-	"api": "csp_Bili",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://weixine.net/sub/Blixt.json"
-},
-{
-	"key": "学外语",
-	"name": "🎦┃外语学习┃",
-	"type": 3,
-	"api": "csp_Bili",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://weixine.net/sub/waiyu.json"
-},
-{
-	"key": "软件教程",
-	"name": "🎦┃软件教程┃",
-	"type": 3,
-	"api": "csp_Bili",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://weixine.net/sub/jiaocheng.json"
-},
     {
       "key": "csp_KungFu404",
       "name": "☁️┃阿里云┃设置",
@@ -706,11 +676,7 @@
         "vivovip.mmszxc.top",
         "qiu.xixiqiu.com",
         "cdnjs.hnfenxun.com",
-        "cms.qdwght.com",
-        "wan.51img1.com",
-        "iqiyi.hbuioo.com",
-        "vip.ffzyad.com",
-        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+        "cms.qdwght.com"
     ]
 }
 
