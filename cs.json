@@ -18,6 +18,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
     },
+    {"key":"优酷","name":"🚛优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
     {
       "key": "js_nangua",
       "name": "🎃┃罗罗┃测试1",
