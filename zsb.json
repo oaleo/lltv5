@@ -3,13 +3,13 @@
 
 {
 
-"warningText":"罗罗提示：勿信视频中任何广告！",    
+"warningText":"罗罗提示：勿信视频中任何广告！不定期更新",    
 
 
 "sites": [
     {
       "key": "豆瓣",
-      "name": "💫勿信视频中任何广告！",
+      "name": "💫勿信视频中任何广告！不定期更新",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -19,7 +19,7 @@
     },
     {
       "key": "csp_KungFu404",
-      "name": "💠┃阿里┃设置",
+      "name": "☁️┃阿里云┃设置",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
@@ -60,6 +60,28 @@
       },
       "jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582"
     },
+
+
+{
+	"key": "t4_wo",
+	"name": "🚛玩偶┃T4",
+	"type": 4,
+	"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
+}, 
+{
+	"key": "csp_WoGG",
+	"name": "🚛玩偶┃4K",
+	"type": 3,
+	"api": "csp_WoGG",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"jar": "https://weixine.net/ali.jar"
+},
+
     {
       "key": "csp_SNzy",
       "name": "🎬┃索尼┃4K",
@@ -160,7 +182,7 @@
     },
      {
       "key": "追忆",
-      "name": "🐿┃追忆┃4K",
+      "name": "⏳┃追忆┃4K",
       "type": 3,
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_AppSK",
@@ -230,16 +252,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/乐猪TV.js"
     },
     {
-      "key": "py_cctv",
-      "name": "❤️┃央视┃大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/cctv.py"
-    },
-    {
       "key":"卧龙资源",
       "name":"🐉┃卧龙┃资源",
       "type":1,
@@ -249,7 +261,7 @@
     },
     {
       "key": "zy_新浪资源",
-      "name": "🏄🏻┃新浪┃资源",
+      "name": "🏂┃新浪┃资源",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -344,18 +356,67 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/kuba.js"
     },
     {
-      "key": "js_baby",
-      "name": "👶┃宝宝┃合集",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "key": "MV_vod",
+      "name": "🤟┃Mtv┃合集",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/baby.js"
+      "filterable": 1
     },
     {
-      "key": "提示",
-      "name": "罗罗提示：勿信视频中任何广告！不定期更新，禁止贩卖！",
+	"key": "csp_xpath_kuqimv",
+	"name": "💃┃酷奇┃Mv",
+	"type": 3,
+	"api": "csp_XPath",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://weixine.net/sub/kuqimv.json"
+},
+{
+	"key": "爱奇异",
+	"name": "🔥┃爱奇艺┃(官)",
+	"type": 3,
+	"api": "https://weixine.net/js/lib/drpy2.min.js",
+	"ext": "https://weixine.net/js/aiqiyi.js"
+}, {
+	"key": "优酷",
+	"name": "🔥┃优酷┃(官)",
+	"type": 3,
+	"api": "https://weixine.net/js/lib/drpy2.min.js",
+	"ext": "https://weixine.net/js/youku.js"
+}, {
+	"key": "腾讯",
+	"name": "🔥┃腾讯┃(官)",
+	"type": 3,
+	"api": "https://weixine.net/js/lib/drpy2.min.js",
+	"ext": "https://weixine.net/js/tengxun.js"
+}, {
+	"key": "芒果",
+	"name": "🔥┃芒果┃(官)",
+	"type": 3,
+	"api": "https://weixine.net/js/lib/drpy2.min.js",
+	"ext": "https://weixine.net/js/mangguo.js"
+}, {
+	"key": "搜狗",
+	"name": "🔥┃搜狗┃(官)",
+	"type": 3,
+	"api": "https://weixine.net/js/lib/drpy2.min.js",
+	"ext": "https://weixine.net/js/caigou.js"
+}, {
+	"key": "py_cctv",
+	"name": "🔥┃CCTV┃",
+	"type": 3,
+	"api": "py_cctv",
+	"searchable": 0,
+	"quickSearch": 0,
+	"filterable": 0,
+	"ext": "https://weixine.net/py/py_cctv.py"
+},
+    {
+      "key": "罗罗提示",
+      "name": "罗罗提示：勿信视频中任何广告！不定期更新",
       "type": 3,
       "api": "360",
       "searchable": 1,
