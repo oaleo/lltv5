@@ -3,14 +3,14 @@
 
 {
 
-"warningText":"温馨提示：勿信视频中任何广告！",    
+"warningText":"罗罗提示：勿信视频中任何广告！不定期更新",    
 
 
 "sites":[
 
     {
       "key": "豆瓣",
-      "name": "💫勿信视频中任何广告！",
+      "name": "💫勿信视频中任何广告！不定期更新",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -126,6 +126,36 @@
 	"quickSearch": 0,
 	"filterable": 0,
 	"ext": "https://weixine.net/py/py_cctv.py"
+},
+{
+	"key": "高中教育",
+	"name": "🎦┃学习园地┃",
+	"type": 3,
+	"api": "csp_Bili",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://weixine.net/sub/Blixt.json"
+},
+{
+	"key": "学外语",
+	"name": "🎦┃外语学习┃",
+	"type": 3,
+	"api": "csp_Bili",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://weixine.net/sub/waiyu.json"
+},
+{
+	"key": "软件教程",
+	"name": "🎦┃软件教程┃",
+	"type": 3,
+	"api": "csp_Bili",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://weixine.net/sub/jiaocheng.json"
 },
     {
       "key": "csp_KungFu404",
