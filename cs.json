@@ -69,8 +69,18 @@
       ]
     },
     {
+      "key": "csp_XBPQ_348z",
+      "name": "🎲┃罗罗┃测试4",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
+    },
+    {
       "key": "MV_vod",
-      "name": "🤟┃罗罗┃测试4",
+      "name": "🎸┃罗罗┃测试5",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -79,7 +89,7 @@
     },
     {
 	"key": "csp_xpath_kuqimv",
-	"name": "💃┃罗罗┃测试5",
+	"name": "💃┃罗罗┃测试6",
 	"type": 3,
 	"api": "csp_XPath",
 	"searchable": 1,
