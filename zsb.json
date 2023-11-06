@@ -203,6 +203,16 @@
       "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
+      "key": "csp_XBPQ_348z",
+      "name": "🎲┃348┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
+    },
+    {
       "key": "荐片",
       "name": "🎯┃荐片┃影视",
       "type": 3,
@@ -328,7 +338,7 @@
     },
     {
       "key": "js_6V",
-      "name": "✡️┃六维┃磁力",
+      "name": "🧲┃六维┃磁力",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -338,7 +348,7 @@
     },
     {
       "key": "XYQH_电影港",
-      "name": "🛳┃港口┃磁力",
+      "name": "🧲┃港口┃磁力",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
@@ -347,7 +357,7 @@
     },
     {
       "key": "js_酷吧",
-      "name": "😎┃酷吧┃磁力",
+      "name": "🧲┃酷吧┃磁力",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -357,7 +367,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "🤟┃Mtv┃合集",
+      "name": "🎸┃Mtv┃合集",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
