@@ -184,11 +184,11 @@
       "key": "吾爱学堂高考",
       "name": " 💙┃高考┃课堂",
       "type": 3,
-      "api": "./lib/哔哩哔哩高考.json",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "https://jihulab.com/sy555/lh/-/raw/main/lib/哔哩哔哩高考.json",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔哩哔哩高考.json"
+      "ext": "https://jihulab.com/sy555/lh/-/raw/main/lib/哔哩哔哩高考.json"
     },
     {
       "key": "MV_vod",
