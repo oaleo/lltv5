@@ -385,7 +385,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+		    "url": "./lib/tvlive.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
