@@ -184,7 +184,7 @@
       "key": "吾爱学堂高考",
       "name": " 💙┃高考┃课堂",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "./lib/哔哩哔哩高考.json",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
