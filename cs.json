@@ -70,14 +70,14 @@
       }
     },
     {
-      "key": "js_大师兄",
-      "name": "🐵┃大师兄┃资源",
+      "key": "csp_XBPQ_348z",
+      "name": "🎲┃348┃资源",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/大师兄影视.js"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
     },
     {
       "key": "js_555",
@@ -128,14 +128,14 @@
       ]
     },
     {
-      "key": "csp_XBPQ_348z",
-      "name": "🎲┃348┃资源",
+      "key": "js_大师兄",
+      "name": "🐵┃大师兄┃资源",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/大师兄影视.js"
     },
     {
       "key": "MV_vod",
@@ -161,7 +161,6 @@
 {"key":"腾讯","name":"🔥腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
 {"key":"芒果","name":"🔥芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
 {"key":"搜狗","name":"🔥搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
-{"key":"py_cctv","name": "🔥CCTV","type": 3,"api":"py_cctv","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://weixine.net/py/py_cctv.py"},
     {
       "key": "csp_KungFu404",
       "name": "☁️┃阿里云┃设置",
