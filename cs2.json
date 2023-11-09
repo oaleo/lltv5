@@ -440,14 +440,6 @@
 "wallpaper":"https://tool.weetai.cn/api",
 
 
-"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "./lib/tvlive.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],   
-
 "rules": [
     {
       "name": "量子",
