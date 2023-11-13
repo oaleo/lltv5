@@ -183,12 +183,11 @@
       "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
     },
     {
-      "key": "drpy_js_色色",
-      "name": "涩涩🔞直播",
+      "key": "直转点",
+      "name": "�㊙️点播",
       "type": 3,
-      "api": "http://lgz.hk3.345123.xyz/json/drpy.min.js",
-      "ext": "http://lgz.hk3.345123.xyz/json/ss直播.js",
-      "playerType": "1"
+      "api": "http://lgz.hk3.345123.xyz/直转点.js",
+      "ext": "http://lgz.hk3.345123.xyz/直转点.txt"
     },
     {
       "key": "csp_KungFu404",
