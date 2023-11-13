@@ -162,8 +162,6 @@
 {"key":"腾讯","name":"🔥腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
 {"key":"芒果","name":"🔥芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
 {"key":"搜狗","name":"🔥搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
-    
-    
     {
       "key": "csp_xBPQ_色花堂",
       "name": "🔞色花堂",
