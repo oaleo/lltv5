@@ -183,11 +183,13 @@
       "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
     },
     {
-      "key": "直转点",
-      "name": "�㊙️点播",
-      "type": 3,
-      "api": "http://lgz.hk3.345123.xyz/直转点.js",
-      "ext": "http://lgz.hk3.345123.xyz/直转点.txt"
+      "key": "美少女",
+      "name": "🔞美少女",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "csp_KungFu404",
