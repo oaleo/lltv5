@@ -174,14 +174,6 @@
       "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
     },
     {
-      "key": "drpy_js_色色",
-      "name": "涩涩🔞直播",
-      "type": 3,
-      "api": "http://lgz.hk3.345123.xyz/json/drpy.min.js",
-      "ext": "http://lgz.hk3.345123.xyz/json/ss直播.js",
-      "playerType": "1"
-    },
-    {
       "key": "csp_KungFu404",
       "name": "☁️┃阿里云┃设置",
       "type": 3,
