@@ -87,6 +87,49 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/大师兄影视.js"
     },
     {
+      "key": "700K",
+      "name": "7️⃣┃700┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://700kan.cc/DyttShow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "今日更新$new#电影$1#电视剧$2#动漫$4#喜剧片$6#动作片$5#科幻片$8#恐怖片$9#国产剧$12"
+      }
+    },
+    {
+      "key": "Kanj",
+      "name": "👓┃看剧┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
+    },
+    {
+      "key": "csp_土豪",
+      "name": "👑┃土豪┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "module-item-pic\">&&<div class=\"module-item\">",
+        "副标题": "module-item-text\">&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:天空#飞速#闪电#无尽#卧龙]",
+        "线路标题": "+<span>&&</small>[替换:蓝光一线>>蓝光#超清高速>>超清#</span><small>>>🌸共]+集🌸",
+        "播放数组": "sort-item\"&&</div>",
+        "搜索url": "/vse/-------------.html?wd={wd}",
+        "搜索数组": "lazy lazyload\"&&<h3>",
+        "搜索副标题": "title=*>&&</a >",
+        "分类url": "https://www.tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#B站$50#纪录片$5#体育$56",
+        "筛选": "1",
+        "免嗅": "1"
+      }
+    },
+    {
       "key": "MV_vod",
       "name": "🎸┃MTV┃合集",
       "type": 1,
@@ -110,6 +153,229 @@
 {"key":"腾讯","name":"🔥腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
 {"key":"芒果","name":"🔥芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
 {"key":"搜狗","name":"🔥搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
+    {
+      "key": "🔞1",
+      "name": "🔞友情提示",
+      "type": 1,
+      "api": "cs"
+    },
+    {
+      "key": "🔞2",
+      "name": "🔞小撸怡情大撸伤身",
+      "type": 1,
+      "api": "cs"
+    },
+    {
+      "key": "🔞3",
+      "name": "🔞猛撸强撸灰飞烟灭",
+      "type": 1,
+      "api": "cs"
+    },
+    {
+      "key": "🈲",
+      "name": "🔞⬇️以下节目儿童🈲",
+      "type": 1,
+      "api": "csp"
+    },
+    {
+      "key": "1080资源",
+      "name": "┃1080┃资源",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_jiujiuzhobo",
+      "name": "🔞久久直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://lgz.hk3.345123.xyz/json/jiujiu.json",
+      "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
+    },
+    {
+      "key": "csp_jy",
+      "name": "🔞聚优直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://lgz.hk3.345123.xyz/json/juyou.json",
+      "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
+    },
+    {
+      "key": "drpy_js_色色",
+      "name": "涩涩🔞直播",
+      "type": 3,
+      "api": "http://lgz.hk3.345123.xyz/json/drpy.min.js",
+      "ext": "http://lgz.hk3.345123.xyz/json/ss直播.js",
+      "playerType": "1"
+    },
+    {
+      "key": "直转点",
+      "name": "🔞㊙️点播",
+      "type": 3,
+      "api": "http://lgz.hk3.345123.xyz/直转点.js",
+      "ext": "http://lgz.hk3.345123.xyz/直转点.txt"
+    },
+    {
+      "key": "csp_Alist1_lhg",
+      "name": "🔞罗汉果",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": "http://lgz.hk3.345123.xyz/json/lhg.txt",
+      "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/❤罗汉果.png"
+    },
+    {
+      "key": "csp_zhazhiji",
+      "name": "🔞女榨汁姬",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://lgz.hk3.345123.xyz/json/榨汁姬.json",
+      "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
+    },
+    {
+      "key": "csp_hwbl",
+      "name": "🔞黄网爆料",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "http://ys-i.ysepan.com/623748949/119900036/kykh75u554U6H3MJLM7I9b/Screenshot_20230817_116304.jpg",
+      "ext": {
+        "直接播放": "1",
+        "分类": "自拍偷拍$139#国产传媒$158#91仓库$246#另类仓库$327# 特色仓库$316#精品资源$161#中文字幕$176#大众精 品$164#番号大全$165#富二代区$166#热门视频$177# 伦理作品$109#91精选$376#自慰系列$145",
+        "搜索url": "https://kdf21jq-79dei-bs.hwblgo15.buzz/search/{wd}",
+        "图片": "< img src=\"&&\"",
+        "链接": "href=\"/info/&&\"",
+        "链接前缀": "https://kdf21jq-79dei-bs.hwblgo15.buzz/play/",
+        "分类url": "https://kdf21jq-79dei-bs.hwblgo15.buzz/type/{cateId}/{catePg}"
+      }
+    },
+    {
+      "key": "1026xyz",
+      "name": "🔞ccc1026视频",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "jar": "http://lgz.hk3.345123.xyz/json/xb.jar",
+      "ext": {
+        "直接播放": "1",
+        "数组": "class=\"video-pic loading\"&&</a",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"/detail/&&.html",
+        "链接前缀": "https://www.ccc1026.xyz/play/",
+        "链接后缀": "-1-1.html",
+        "分类url": "https://www.ccc1026.xyz/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "视频一区$1#视频二区$2#视频三区$3#国产精选$6#欧美大片$7#岛国大片$8#传媒影视$9#色情动漫$10#三级伦理$11#性爱直播$12#明星淫乱$13#SM调教$14#强奸轮奸$15#乱伦性爱$16#约炮探花$20#网曝泄密$21#萝莉少女$22#熟女人妻$23#绿帽淫妻$24#口爆颜射$25#自拍偷拍$26#男同女同$27#制服诱惑$28#AV解说$29",
+        "免嗅": "1"
+      }
+    },
+    {
+      "key": "timizy",
+      "name": "🔞甜蜜资源 ",
+      "type": 1,
+      "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "*皇冠资源",
+      "name": "🔞皇冠采集",
+      "type": 1,
+      "playerType": 2,
+      "api": "https://hghhh.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "155",
+      "name": "🔞155采集",
+      "type": 0,
+      "playerType": 2,
+      "api": "https://155api.com/api.php/provide/vod/at/xml",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "csp_xBPQ_91色",
+      "name": "🔞91色",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://lgz.hk3.345123.xyz/json/91色.json",
+      "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
+    },
+    {
+      "key": "麻豆村",
+      "name": "🔞麻豆村",
+      "type": 1,
+      "api": "https://madoucun.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "美少女",
+      "name": "🔞美少女",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zp011",
+      "name": "🔞78乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "香奶儿资源",
+      "name": "🔞香奶儿",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "kxgav",
+      "name": "🔞开心果",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_xBPQ_色花堂",
+      "name": "🔞色花堂",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/xBPQ/色花堂.json",
+      "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
+    },
     {
       "key": "csp_KungFu404",
       "name": "☁️┃阿里云┃设置",
