@@ -163,6 +163,14 @@
 {"key":"芒果","name":"🔥芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
 {"key":"搜狗","name":"🔥搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
     {
+      "key": "drpy_js_色色",
+      "name": "涩涩🔞直播",
+      "type": 3,
+      "api": "http://lgz.hk3.345123.xyz/json/drpy.min.js",
+      "ext": "http://lgz.hk3.345123.xyz/json/ss直播.js",
+      "playerType": "1"
+    },
+    {
       "key": "直转点",
       "name": "🔞㊙️点播",
       "type": 3,
