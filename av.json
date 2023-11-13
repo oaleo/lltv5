@@ -163,6 +163,17 @@
 {"key":"芒果","name":"🔥芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
 {"key":"搜狗","name":"🔥搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
     {
+      "key": "csp_jy",
+      "name": "🔞聚优直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://lgz.hk3.345123.xyz/json/juyou.json",
+      "jar": "http://lgz.hk3.345123.xyz/json/xb.jar"
+    },
+    {
       "key": "csp_KungFu404",
       "name": "☁️┃阿里云┃设置",
       "type": 3,
