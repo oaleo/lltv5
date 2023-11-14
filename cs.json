@@ -413,7 +413,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "./lib/tvlive.txt",
+		    "url": "http://dd.ma/43esfPFq",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
