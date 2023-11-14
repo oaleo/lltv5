@@ -7,15 +7,7 @@
 台湾彩虹电影,http://193.233.206.48:8090/live/rx3/413/dac0d1d0e5c4c4febb34fd55d060723d/index.m3u8
 台湾彩虹K,http://193.233.206.48:8090/live/rx3/406/51ea72993b31fb34a98de364f48d6c76/index.m3u8
 台湾彩虹e,http://193.233.206.48:8090/live/rx3/415/e59f5e3ae0b7961349fe259b21b4a9fb/index.m3u8
-台湾惊豔台,http://193.233.206.48:8090/live/rx3/409/7ce439e2933fb371169fc323d862923b/index.m3u8
 Passie,http://193.233.206.48:8090/live/rx3/461/f1e227e79064f445d431694b5d38dc24/index.m3u8
 台湾一本道,http://193.233.206.48:8090/live/rx3/414/051e24e543a869a6c093515b1de2f866/index.m3u8
 花花公子,http://193.233.206.48:8090/live/rx3/411/144204c74345cbb0b32872950b46766d/index.m3u8
 台湾东京热,http://193.233.206.48:8090/live/rx3/416/022a52378c121428111e52b901589148/index.m3u8
-
-JSTAR極限台,http://125.227.210.55:29351/VideoInput/play.ts
-奥視1,http://125.227.210.55:20845/VideoInput/play.ts
-奥視2,http://125.227.210.55:55643/VideoInput/play.ts
-奥視3,http://125.227.210.55:62697/VideoInput/play.ts
-驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
-香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
