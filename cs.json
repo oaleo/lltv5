@@ -18,7 +18,27 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
     },
-    {"key":"蚂蚁","name":"蚂蚁┃App","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},
+    {
+      "key": "蚂蚁",
+      "name": "┃蚂蚁┃资源",
+      "type": 3,
+      "api": "csp_Mayiys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 2,
+      "ext": "http://rzys.xyz"
+    },
+    {
+      "key": "快看",
+      "name": "┃快看┃资源",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "csp_XBPQ_348z",
       "name": "🎲┃348┃资源",
