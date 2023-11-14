@@ -1,5 +1,4 @@
-
-🦚港湾,#genre#
+港湾,#genre#
 角笼摔跤,http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 搏击频道,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 欧洲竞技,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
@@ -63,7 +62,7 @@ ELEVEN体育2台,https://fsv4.yj011.net/sat/tv741.flv
 中天新闻2,http://43.224.33.165:259/live.m3u8?c=2
 中天新闻2,http://lzoq.hk3.20212021.cf/daili/yg.php?id=cti2
 
-tvbs,http://27.102.128.25:8080/live/tvbs.m3u8
+
 
 CGTN,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 RHTK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -1169,63 +1168,6 @@ key#http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t1
 聊城公共,http://m3u8.channellive.lcbtv.com/nmip-media/channellive/channel101246/playlist.m3u8
 青州综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州文旅,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-
-🐯虎牙影视,#genre#
-虎牙电影1,http://epg.112114.xyz/huya/11602058
-虎牙电影2,http://epg.112114.xyz/huya/11601968
-虎牙电影3,http://epg.112114.xyz/huya/11342412
-虎牙电影4,http://epg.112114.xyz/huya/11342386
-虎牙电影5,http://epg.112114.xyz/huya/11601986
-虎牙电影6,http://epg.112114.xyz/huya/11601971
-虎牙电影7,http://epg.112114.xyz/huya/11336592
-虎牙电影8,http://epg.112114.xyz/huya/11342390
-虎牙电影9,http://epg.112114.xyz/huya/11352941
-虎牙电影10,http://epg.112114.xyz/huya/11279251
-虎牙电影11,http://epg.112114.xyz/huya/11602041
-虎牙电影12,http://epg.112114.xyz/huya/11352963
-虎牙电影13,http://epg.112114.xyz/huya/11342414
-虎牙电影14,http://epg.112114.xyz/huya/11602075
-虎牙电影15,http://epg.112114.xyz/huya/11352962
-虎牙电影16,http://epg.112114.xyz/huya/11336571
-虎牙电影17,http://epg.112114.xyz/huya/11342427
-虎牙电影18,http://epg.112114.xyz/huya/11336719
-虎牙电影19,http://epg.112114.xyz/huya/11352894
-虎牙电影20,http://epg.112114.xyz/huya/11352877
-虎牙电影21,http://epg.112114.xyz/huya/11602077
-虎牙电影22,http://epg.112114.xyz/huya/11601960
-虎牙电影23,http://epg.112114.xyz/huya/11352965
-虎牙电影25,http://epg.112114.xyz/huya/11342423
-虎牙电影26,http://epg.112114.xyz/huya/11352909
-虎牙电影27,http://epg.112114.xyz/huya/11352886
-虎牙电影28,http://epg.112114.xyz/huya/11602044
-
-星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-1905电影轮播频道,http://tv.aweitv.top/1905.php
-
-斗鱼电影6,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼电影6,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼电影6,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-斗鱼电影8,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-
-🎥院线影院,#genre#
-电影《狂怒沙暴》2023,http://mtw.so/69A2Ir
-动作喜剧《四大杀手》,http://mtw.so/5N1pIy
-电影《贵公子》2023,http://mtw.so/5N1pGi
-八角笼中,https://s6.bfzycdn.com/video/bajiaolongzhong/AI%E4%BF%AE%E5%A4%8DTC/index.m3u8
-八角笼中,https://vip.ffzy-online6.com/20230708/14674_1852156a/index.m3u8
-夺宝奇兵5命运转盘,https://s.xlzys.com/play/RdG2XD5b/index.m3u8
-犯罪都市2,https://visionularcdn.yishihui.com/output/longvideo/multitranscode/video/vpc/20220721/15188709Z4ImAC1mGHytQtBkkS20220722011000580195765-3HD.m3u8
-午夜出租车,https://txmov2.a.kwimgs.com/upic/2021/08/16/17/BMjAyMTA4MTYxNzI3MTlfMTI0MzE0NjMyOF81NTM2NjM3MzkzNV8yXzM=_b_B4ac8d02310b93305215c496928a6f8e6.mp4
-东京食尸鬼真人版,https://nos.netease.com/vodkgeyttp8/MzIyNTI2MzY0_502d59c7d41ffc674f6c6f77d4c990ec.mp4
-阿凡达2水之道国语版,https://bp-resource.bestv.com.cn/material/8e9fd77cb864f2dd5e70d093a4bba368/2023/0330/video/3f7c2769a3b443619caf6b8293d3c314_main.m3u8?auth_key=1680736291-8fd008e962e94eb8be3a75e0986488ee-0-1d51071ea6aba48b59dce970950f5fac
-阿凡达2009国语版 ,http://educms.feifan12.xyz/mux/mx/f27eddad3daabb8281e9b039086b9531.m3u8
-建党伟业,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTAzMzBfNDAzMDAxOTlfNjM2NjcyOTk4MTBfMF8z_b_B07c28e094dc566e52c8e35f1acaa30af.mp4
-建国大业,https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTA1MzlfNDAzMDAxOTlfNjM2Njc0MDAzNDRfMF8z_bF_Bea22e5faf449da965d3fdc48e21b4137.mp4
-全城通缉,https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDUzMTlfNDAzMDAxOTlfNjM2Nzg2NjEwNDRfMF8z_b_Bf1c40824eac16988fd87f2df97b48e75.mp4
-
-叶问：终极一战,https://txmov2.a.kwimgs.com/upic/2021/12/28/15/BMjAyMTEyMjgxNTIwMDhfNDAzMDAxOTlfNjM2Nzk5NTA4NzlfMF8z_b_B4b2db998ef301a0e3651596a86fdf015.mp4
-
-叶问,https://txmov2.a.kwimgs.com/upic/2020/12/14/17/BMjAyMDEyMTQxNzM1MzRfNDAzMDAxOTlfNDA3MDI0NzczMDJfMF8z_b_Bc617b3a6837c6897fc9155b08d0425a5.mp4
 
 🔞大人节目_8000,#genre#
 哺乳少妇挤奶给你喝,https://jieshi.xn--7mq2fw87lvzm.com/v1/images/2023/5f2656ea-30fb-11ee-93e9-525400388697.m3u8
