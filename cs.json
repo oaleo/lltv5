@@ -78,15 +78,26 @@
       ]
     },
     {
-      "key": "js_大师兄",
-      "name": "🐵┃大师兄┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/大师兄影视.js"
-    },
+            "key": "js_大师兄",
+                  "name": "🐵┃大师兄┃资源",
+                        "type": 3,
+                              "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "filterable": 1,
+                                                      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/大师兄影视.js"
+                                                          },
+    {
+            "key": "XBPQ_蚂蚁",
+                  "name": "🐜┃蚂蚁┃资源",
+                        "type": 3,
+                              "api": "csp_XBPQ",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "filterable": 1,
+                                                      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+                                                            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
+                                                                },
     {
       "key": "MV_vod",
       "name": "🎸┃MTV┃合集",
