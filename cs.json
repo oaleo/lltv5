@@ -26,7 +26,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
     },
     {
       "key": "js_555",
