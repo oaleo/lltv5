@@ -19,6 +19,19 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
     },
     {
+            "key": "js_nangua",
+                  "name": "🎃┃南瓜┃影视",
+                        "type": 3,
+                              "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "filterable": 1,
+                                                      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
+                                                          },
+    }
+
+
+    {
       "key": "csp_XBPQ_348z",
       "name": "🎲┃348┃资源",
       "type": 3,
