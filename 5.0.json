@@ -115,17 +115,6 @@
       ]
     },
     {
-      "key": "csp_XBPQ_348z",
-      "name": "┃348┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
-    },
-    {
       "key": "js_555",
       "name": "┃555┃资源",
       "type": 3,
@@ -148,17 +137,6 @@
       ]
     },
     {
-      "key": "js_mogu",
-      "name": "┃蘑菇┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/蘑菇.json"
-    },
-    {
       "key": "鑫鑫影视",
       "name": "┃鑫鑫┃资源",
       "type": 3,
@@ -167,17 +145,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "XBPQ_星辰",
-      "name": "┃星辰┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/星辰影视.json"
     },
     {
       "key": "XYQH_JOJO",
@@ -272,26 +239,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
-    {
-      "key": "js_电影先生",
-      "name": "┃DY┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/电影先生.js"
-    },
-    {
-      "key": "js_农民",
-      "name": "┃农民┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nongmin.js"
     },
     {
       "key": "csp_非凡资源",
