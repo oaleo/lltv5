@@ -158,14 +158,6 @@
       "filterable": 1
     },
     {
-      "key": "易看资源-伦理",
-      "name": "易看采集",
-      "type": 1,
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,
