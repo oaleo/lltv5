@@ -130,6 +130,15 @@
       ]
     },
     {
+      "key": "1080资源",
+      "name": "备用源8",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "MV_vod",
       "name": "┃MTV┃合集",
       "type": 1,
