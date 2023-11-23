@@ -20,7 +20,7 @@
     },
     {
       "key": "Kanj",
-      "name": "👓┃看剧┃资源",
+      "name": "┃看剧┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -69,7 +69,7 @@
     },
     {
       "key": "玉兔专场",
-      "name": "玉兔采集",
+      "name": "🔞玉兔采集",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/",
       "playUrl": "",
@@ -79,7 +79,7 @@
     },
     {
       "key": "色猫",
-      "name": "色猫采集",
+      "name": "🔞色猫采集",
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
       "playUrl": "",
@@ -91,7 +91,7 @@
     
     {
       "key": "csp_KungFu404",
-      "name": "☁️┃阿里云┃设置",
+      "name": "┃阿里┃设置",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
