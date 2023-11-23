@@ -86,6 +86,15 @@
       "filterable": 0
     },
     {
+      "key": "mygzycj.com",
+      "name": "美阅阁采集",
+      "type": 0,
+      "api": "http://mygzycj.com/api.php?ac=list",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,
