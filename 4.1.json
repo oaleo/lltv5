@@ -129,34 +129,15 @@
         "体育"
       ]
     },
-
-
-
-
     {
       "key": "MV_vod",
-      "name": "🎸┃MTV┃合集1",
+      "name": "🎸┃MTV┃合集",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-	    "key": "csp_xpath_kuqimv",
-      "name": "💃┃MTV┃合集2",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://weixine.net/sub/kuqimv.json"
-    },
-{"key":"爱奇异","name":"🔥爱奇艺(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/aiqiyi.js"},
-{"key":"优酷","name":"🔥优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
-{"key":"腾讯","name":"🔥腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
-{"key":"芒果","name":"🔥芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
-{"key":"搜狗","name":"🔥搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
     {
       "key": "csp_KungFu404",
       "name": "☁️┃阿里云┃设置",
