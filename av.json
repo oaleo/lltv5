@@ -77,7 +77,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
+    {
+      "key": "色猫",
+      "name": "色猫采集",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
   
     
     {
