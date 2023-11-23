@@ -8,103 +8,7 @@
 
 "sites":[
 
-    {
-      "key": "js_nangua",
-      "name": "🎃┃南瓜┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
-    },
-    {
-      "key": "csp_XBPQ_348z",
-      "name": "🎲┃348┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
-    },
-    {
-      "key": "js_555",
-      "name": "🌟┃555┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/555.js"
-    },
-    {
-      "key":"卧龙资源",
-      "name":"🐉┃卧龙┃资源",
-      "type":1,
-      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
-      "key": "zy_新浪资源",
-      "name": "🏂┃新浪┃资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    },
-    {
-      "key": "js_大师兄",
-      "name": "🐵┃大师兄┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/大师兄影视.js"
-    },
-    {
-      "key": "1080资源",
-      "name": "┃1080┃资源",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "700K",
-      "name": "7️⃣┃700┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://700kan.cc/DyttShow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "今日更新$new#电影$1#电视剧$2#动漫$4#喜剧片$6#动作片$5#科幻片$8#恐怖片$9#国产剧$12"
-      }
-    },
+    
     {
       "key": "Kanj",
       "name": "👓┃看剧┃资源",
@@ -116,52 +20,15 @@
       "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
     },
     {
-      "key": "csp_土豪",
-      "name": "👑┃土豪┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "key": "1080资源",
+      "name": "┃1080┃资源",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "数组": "module-item-pic\">&&<div class=\"module-item\">",
-        "副标题": "module-item-text\">&&</div>",
-        "线路数组": "data-dropdown-value=&&</div>[不包含:天空#飞速#闪电#无尽#卧龙]",
-        "线路标题": "+<span>&&</small>[替换:蓝光一线>>蓝光#超清高速>>超清#</span><small>>>🌸共]+集🌸",
-        "播放数组": "sort-item\"&&</div>",
-        "搜索url": "/vse/-------------.html?wd={wd}",
-        "搜索数组": "lazy lazyload\"&&<h3>",
-        "搜索副标题": "title=*>&&</a >",
-        "分类url": "https://www.tuhao.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#B站$50#纪录片$5#体育$56",
-        "筛选": "1",
-        "免嗅": "1"
-      }
+      "changeable": 1
     },
-    {
-      "key": "MV_vod",
-      "name": "🎸┃MTV┃合集",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-	"key": "csp_xpath_kuqimv",
-	"name": "💃┃酷奇┃MV",
-	"type": 3,
-	"api": "csp_XPath",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://weixine.net/sub/kuqimv.json"
-    },
-{"key":"爱奇异","name":"🔥爱奇艺(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/aiqiyi.js"},
-{"key":"优酷","name":"🔥优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
-{"key":"腾讯","name":"🔥腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
-{"key":"芒果","name":"🔥芒果(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
-{"key":"搜狗","name":"🔥搜狗(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
+    
     {
       "key": "155",
       "name": "🔞155采集",
@@ -191,6 +58,9 @@
       "quickSearch": 1,
       "filterable": 0
     },
+
+
+
     {
       "key": "csp_KungFu404",
       "name": "☁️┃阿里云┃设置",
