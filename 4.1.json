@@ -19,64 +19,59 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
     },
     {
-      "key": "49zy",
+      "key": "主力源",
       "name": "备用源1",
       "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
       "categories": [
-        "国产剧",
-        "纪录片",
-        "欧美剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
         "科幻片",
+        "动作片",
         "恐怖片",
-        "剧情片",
+        "纪录片",
+        "爱情片",
         "战争片",
+        "剧情片",
         "喜剧片",
-        "动画片",
-        "犯罪片",
-        "韩国剧",
-        "动漫",
-        "电影",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
+        "大陆剧",
+        "港澳剧",
         "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
         "日剧",
-        "电影解说",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "体育赛事",
-        "海外剧"
+        "泰剧"
       ]
     },
     {
-      "key": "csp_XBPQ_348z",
+      "key": "OXS",
       "name": "备用源2",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
+      "ext": {
+        "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "Kanj",
+      "name": "备用源3",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
     },
     {
       "key": "js_555",
-      "name": "备用源3",
+      "name": "备用源4",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -86,7 +81,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "备用源4",
+      "name": "备用源5",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -97,48 +92,8 @@
       ]
     },
     {
-      "key": "js_mogu",
-      "name": "备用源5",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/蘑菇.json"
-    },
-    {
-      "key": "鑫鑫影视",
-      "name": "备用源6",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "XBPQ_星辰",
-      "name": "备用源7",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/星辰影视.json"
-    },
-    {
-      "key": "XYQH_JOJO",
-      "name": "备用源8",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"
-    },
-    {
       "key":"卧龙资源",
-      "name":"备用源9",
+      "name":"备用源6",
       "type":1,
       "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable":1,
@@ -146,7 +101,7 @@
     },
     {
       "key": "zy_新浪资源",
-      "name": "备用源10",
+      "name": "备用源7",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -174,16 +129,10 @@
         "体育"
       ]
     },
-    {
-      "key": "js_大师兄",
-      "name": "备用源11",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/大师兄影视.js"
-    },
+
+
+
+
     {
       "key": "MV_vod",
       "name": "🎸┃MTV┃合集1",
