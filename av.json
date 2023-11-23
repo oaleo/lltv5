@@ -122,6 +122,24 @@
       "filterable": 1
     },
     {
+      "key": "kxgav.com",
+      "name": "开心果采集",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "msnii.com",
+      "name": "美少女采集",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,
