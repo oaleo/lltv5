@@ -95,6 +95,24 @@
       "filterable": 1
     },
     {
+      "key": "wmcj8.com",
+      "name": "无码采集",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "99zywcj.com",
+      "name": "99采集",
+      "type": 0,
+      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,
