@@ -77,6 +77,15 @@
       "filterable": 0
     },
     {
+      "key": "老鸭",
+      "name": "老鸭采集",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,
