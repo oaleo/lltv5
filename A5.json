@@ -398,26 +398,6 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
     },
     {
-      "key": "js_磁力熊",
-      "name": "‍┃贝尔┃磁力",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/bear.js"
-    },
-    {
-      "key": "js_酷吧",
-      "name": "┃酷吧┃磁力",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/kuba.js"
-    },
-    {
       "key": "XYQH_电影港",
       "name": "┃港口┃磁力",
       "type": 3,
