@@ -68,6 +68,15 @@
       "filterable": 0
     },
     {
+      "key": "鸡坤资源",
+      "name": "鸡坤采集",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,
