@@ -378,16 +378,6 @@
       }
     },
     {
-      "key": "js_大师兄",
-      "name": "┃大师兄┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/大师兄影视.js"
-    },
-    {
       "key": "js_6V",
       "name": "┃六维┃磁力",
       "type": 3,
@@ -398,24 +388,54 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
     },
     {
+      "key": "js_磁力熊",
+      "name": "‍┃贝尔┃磁力",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/bear.js"
+    },
+    {
+      "key": "js_酷吧",
+      "name": "┃酷吧┃磁力",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/kuba.js"
+    },
+    {
+      "key": "XYQH_电影港",
+      "name": "┃港口┃磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
+    },
+    {
+      "key": "js_大师兄",
+      "name": "┃大师兄┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/大师兄影视.js"
+    },
+    {
       "key": "MV_vod",
-      "name": "🎸┃Mv┃合集1",
+      "name": "🎸┃MTv┃合集",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_xpath_kuqimv",
-      "name": "💃┃Mv┃合集2",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://weixine.net/sub/kuqimv.json"
-    },
+
 {"key":"爱奇异","name":"🔥爱奇艺(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/aiqiyi.js"},
 {"key":"优酷","name":"🔥优酷(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
 {"key":"腾讯","name":"🔥腾讯(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
