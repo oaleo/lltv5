@@ -20,7 +20,7 @@
     },
     {
       "key": "js_nangua",
-      "name": "🎃┃南瓜┃资源",
+      "name": "┃南瓜┃资源",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "主力源",
-      "name": "🎦┃索尼┃资源",
+      "name": "┃索尼┃资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -58,7 +58,7 @@
     },
     {
       "key": "OXS",
-      "name": "🕵️┃O.Sir┃资源",
+      "name": "┃O.Sir┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -71,7 +71,7 @@
     },
     {
       "key": "49zy",
-      "name": "🦁┃49┃资源",
+      "name": "┃49┃资源",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -116,7 +116,7 @@
     },
     {
       "key": "csp_XBPQ_348z",
-      "name": "🎲┃348┃资源",
+      "name": "┃348┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -127,7 +127,7 @@
     },
     {
       "key": "js_555",
-      "name": "🌟┃555┃资源",
+      "name": "┃555┃资源",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -137,7 +137,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "🚈┃轻简┃资源",
+      "name": "┃轻简┃资源",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -149,7 +149,7 @@
     },
     {
       "key": "js_mogu",
-      "name": "🍄┃蘑菇┃资源",
+      "name": "┃蘑菇┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -160,7 +160,7 @@
     },
     {
       "key": "鑫鑫影视",
-      "name": "🥇┃鑫鑫┃资源",
+      "name": "┃鑫鑫┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -170,7 +170,7 @@
     },
     {
       "key": "XBPQ_星辰",
-      "name": "🌟┃星辰┃资源",
+      "name": "┃星辰┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -181,7 +181,7 @@
     },
     {
       "key": "XYQH_JOJO",
-      "name": "🍁┃JOJO┃资源",
+      "name": "┃JOJO┃资源",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
@@ -189,7 +189,7 @@
     },
     {
       "key":"卧龙资源",
-      "name":"🐉┃卧龙┃资源",
+      "name":"┃卧龙┃资源",
       "type":1,
       "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable":1,
@@ -197,7 +197,7 @@
     },
     {
       "key": "zy_新浪资源",
-      "name": "🏂┃新浪┃资源",
+      "name": "┃新浪┃资源",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -226,14 +226,185 @@
       ]
     },
     {
+      "key": "骑骑影院",
+      "name": "┃骑骑┃资源",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "js_影探",
+      "name": "┃侦探┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/侦探.js"
+    },
+    {
+      "key": "csp_appysv2_毛子",
+      "name": "┃毛子┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    },
+    {
+      "key": "csp_beijihu",
+      "name": "┃极狐┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "apv2_瑞丰",
+      "name": "┃瑞丰┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
+      "key": "js_电影先生",
+      "name": "┃DY┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/电影先生.js"
+    },
+    {
+      "key": "js_农民",
+      "name": "┃农民┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nongmin.js"
+    },
+    {
+      "key": "csp_非凡资源",
+      "name": "┃非凡┃资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "量子资源",
+      "name": "┃量子┃资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "js_轰轰",
+      "name": "‍┃轰轰┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/hoho.js"
+    },
+    {
+      "key": "js_changmeng",
+      "name": "┃畅梦┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/changmeng.js"
+    },
+    {
+      "key": "js_耐菲",
+      "name": "┃奈飞┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/鸭奈飞.js"
+    },
+    {
       "key": "js_大师兄",
-      "name": "🐵┃大师兄┃资源",
+      "name": "┃大师兄┃资源",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/大师兄影视.js"
+    },
+    {
+      "key": "js_6V",
+      "name": "┃六维┃磁力",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
     },
     {
       "key": "MV_vod",
