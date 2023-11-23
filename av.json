@@ -69,7 +69,7 @@
     },
     {
       "key": "鸡坤资源",
-      "name": "鸡坤采集",
+      "name": "🔞鸡坤采集",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "老鸭",
-      "name": "老鸭采集",
+      "name": "🔞老鸭采集",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -87,7 +87,7 @@
     },
     {
       "key": "mygzycj.com",
-      "name": "美阅阁采集",
+      "name": "🔞美阅阁采集",
       "type": 0,
       "api": "http://mygzycj.com/api.php?ac=list",
       "quickSearch": 1,
@@ -96,7 +96,7 @@
     },
     {
       "key": "wmcj8.com",
-      "name": "无码采集",
+      "name": "🔞无码采集",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "quickSearch": 1,
@@ -105,7 +105,7 @@
     },
     {
       "key": "99zywcj.com",
-      "name": "99采集",
+      "name": "🔞99采集",
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
       "quickSearch": 1,
@@ -114,7 +114,7 @@
     },
     {
       "key": "gdlsp.com",
-      "name": "老色胚采集",
+      "name": "🔞老色胚采集",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "quickSearch": 1,
@@ -123,7 +123,7 @@
     },
     {
       "key": "kxgav.com",
-      "name": "开心果采集",
+      "name": "🔞开心果采集",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "quickSearch": 1,
@@ -132,7 +132,7 @@
     },
     {
       "key": "msnii.com",
-      "name": "美少女采集",
+      "name": "🔞美少女采集",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "quickSearch": 1,
@@ -141,7 +141,7 @@
     },
     {
       "key": "api.apilyzy.com",
-      "name": "乐渔采集",
+      "name": "🔞乐渔采集",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "quickSearch": 1,
