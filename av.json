@@ -113,6 +113,15 @@
       "filterable": 1
     },
     {
+      "key": "gdlsp.com",
+      "name": "老色胚采集",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "玉兔专场",
       "name": "🔞玉兔采集",
       "type": 1,
