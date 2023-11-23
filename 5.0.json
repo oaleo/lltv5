@@ -70,17 +70,6 @@
       }
     },
     {
-    "key": "XBPQ_蚂蚁",
-    "name": "🐜┃蚂蚁┃资源",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-    "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
-    },
-    {
       "key": "49zy",
       "name": "🦁┃49┃资源",
       "type": 1,
@@ -192,7 +181,7 @@
     },
     {
       "key": "XYQH_JOJO",
-      "name": "🍁┃久久┃资源",
+      "name": "🍁┃JOJO┃资源",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
@@ -248,7 +237,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "🎸┃MTV┃合集",
+      "name": "🎸┃Mv┃合集",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -257,7 +246,7 @@
     },
     {
 	    "key": "csp_xpath_kuqimv",
-    	"name": "💃┃酷奇┃MV",
+    	"name": "💃┃Mv┃合集2",
     	"type": 3,
       "api": "csp_XPath",
       "searchable": 1,
