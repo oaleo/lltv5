@@ -48,7 +48,7 @@
       "filterable": 1
     },
     {
-      "key": "易看资源-伦理",
+      "key": "易看资源",
       "name": "🔞易看资源",
       "type": 1,
       "api": "https://api.yikanapi.com/api.php/provide/vod/",
