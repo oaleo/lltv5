@@ -38,15 +38,6 @@
       "changeable": 1
     },
     {
-      "key": "玖玖资源",
-      "name": "🔞玖玖资源",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "易看资源-伦理",
       "name": "🔞易看资源",
       "type": 1,
