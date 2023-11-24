@@ -56,6 +56,15 @@
       "filterable": 1
     },
     {
+      "key": "🔞AV资源",
+      "name": "🔞AV资源",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "易看资源-伦理",
       "name": "🔞易看资源",
       "type": 1,
