@@ -47,6 +47,15 @@
       "filterable": 1
     },
     {
+      "key": "环亚资源",
+      "name": "🔞环亚资源",
+      "type": 0,
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "易看资源-伦理",
       "name": "🔞易看资源",
       "type": 1,
