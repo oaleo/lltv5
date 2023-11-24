@@ -47,6 +47,15 @@
       "quickSearch": 1
     },
     {
+      "key": "KK写真资源",
+      "name": "🔞KK资源",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "155",
       "name": "🔞155采集",
       "type": 0,
