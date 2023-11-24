@@ -139,6 +139,15 @@
       "changeable": 1
     },
     {
+      "key": "CK资源",
+      "name": "备用源9",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "MV_vod",
       "name": "┃MTV┃合集",
       "type": 1,
