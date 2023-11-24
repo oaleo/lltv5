@@ -48,14 +48,6 @@
       "filterable": 1
     },
     {
-      "key": "一看资源",
-      "name": "🔞一看资源",
-      "type": 1,
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "155",
       "name": "🔞155采集",
       "type": 0,
