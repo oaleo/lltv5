@@ -139,13 +139,16 @@
       "changeable": 1
     },
     {
-      "key": "CK资源",
+      "key": "app_轻简",
       "name": "备用源9",
       "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "MV_vod",
