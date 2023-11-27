@@ -139,18 +139,6 @@
       "changeable": 1
     },
     {
-      "key": "app_轻简",
-      "name": "备用源9",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
       "key": "MV_vod",
       "name": "┃MTV┃合集",
       "type": 1,
