@@ -10,7 +10,7 @@
 
     {
       "key": "js_nangua",
-      "name": "┃南瓜┃资源",
+      "name": "┃南瓜┃",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "Kanj",
-      "name": "┃看剧┃资源",
+      "name": "┃看剧┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "1080资源",
-      "name": "┃1080┃资源",
+      "name": "┃1080┃",
       "type": 0,
       "api": "https://api.1080zyku.com/inc/api.php",
       "searchable": 1,
