@@ -38,6 +38,42 @@
       "changeable": 1
     },
     {
+      "key": "鸡坤资源",
+      "name": "🔞鸡坤采集",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "老鸭",
+      "name": "🔞老鸭采集",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "zp066",
+      "name": "🔞花椒采集",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "mygzycj.com",
+      "name": "🔞美阅阁采集",
+      "type": 0,
+      "api": "http://mygzycj.com/api.php?ac=list",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
       "key": "玖玖资源",
       "name": "🔞玖玖资源",
       "type": 0,
@@ -65,27 +101,27 @@
       "filterable": 1
     },
     {
+      "key": "JAV名优",
+      "name": "JAV名优",
+      "type": 0,
+      "api": "http://mygzycj.com/api.php?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "易看资源-伦理",
-      "name": "🔞易看资源",
+      "name": "🔞易看伦理",
       "type": 1,
       "api": "https://api.yikanapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "香奈奈资源",
-      "name": "🔞香奈奈资源",
+      "key": "香奶儿资源",
+      "name": "🔞香奶儿资源",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "KK写真资源",
-      "name": "🔞KK资源",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -98,33 +134,6 @@
       "api": "https://155api.com/api.php/provide/vod/at/xml",
       "searchable": 0,
       "quickSearch": 0
-    },
-    {
-      "key": "鸡坤资源",
-      "name": "🔞鸡坤采集",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "老鸭",
-      "name": "🔞老鸭采集",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "mygzycj.com",
-      "name": "🔞美阅阁采集",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
     },
     {
       "key": "wmcj8.com",
