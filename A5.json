@@ -80,22 +80,16 @@
       "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
     },
     {
-      "key": "CK资源",
-      "name": "┃CK┃资源",
+      "key": "app_轻简",
+      "name": "┃轻简┃资源",
       "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "CK资源2",
-      "name": "┃CK┃资源2",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "49zy",
@@ -151,18 +145,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/555.js"
-    },
-    {
-      "key": "app_轻简",
-      "name": "┃轻简┃资源",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
     },
     {
       "key": "鑫鑫影视",
@@ -394,6 +376,24 @@
         "筛选": "1",
         "免嗅": "1"
       }
+    },
+    {
+      "key": "CK资源",
+      "name": "┃CK┃资源",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "CK资源2",
+      "name": "┃CK┃资源2",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "js_大师兄",
