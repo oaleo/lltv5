@@ -12,21 +12,21 @@
       "key": "豆瓣",
       "name": "💫勿信视频中任何广告！不定期更新",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/douban.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/douban.js"
     },
     {
       "key": "js_nangua",
       "name": "┃南瓜┃资源",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
     },
     {
       "key": "主力源",
@@ -146,11 +146,11 @@
       "key": "js_555",
       "name": "┃555┃资源",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/555.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/555.js"
     },
     {
       "key": "app_轻简",
@@ -227,11 +227,11 @@
       "key": "js_影探",
       "name": "┃侦探┃资源",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/侦探.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/侦探.js"
     },
     {
       "key": "csp_appysv2_毛子",
@@ -327,31 +327,31 @@
       "key": "js_轰轰",
       "name": "‍┃轰轰┃资源",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/hoho.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/hoho.js"
     },
     {
       "key": "js_changmeng",
       "name": "┃畅梦┃资源",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/changmeng.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
     },
     {
       "key": "js_耐菲",
       "name": "┃奈飞┃资源",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/鸭奈飞.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/鸭奈飞.js"
     },
     {
       "key": "1080资源",
@@ -399,21 +399,21 @@
       "key": "js_大师兄",
       "name": "┃大师兄┃资源",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/大师兄影视.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/大师兄影视.js"
     },
     {
       "key": "js_6V",
       "name": "┃六维┃磁力",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/6V.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/6V.js"
     },
     {
       "key": "XYQH_电影港",
