@@ -12,11 +12,11 @@
       "key": "js_nangua",
       "name": "主力源",
       "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
     },
     {
       "key": "主力源",
