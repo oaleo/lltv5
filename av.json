@@ -19,6 +19,26 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
     },
     {
+      "key": "hnzy",
+      "name": "影视源┃HN┃",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
       "key": "Kanj",
       "name": "影视源┃KJ┃",
       "type": 3,
@@ -92,38 +112,12 @@
       "filterable": 1
     },
     {
-      "key": "AV资源",
-      "name": "🔞成人┃AV┃",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "JAV名优",
-      "name": "🔞成人┃JAV┃",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "易看资源-伦理",
-      "name": "🔞成人┃YK┃",
+      "key": "api.apilyzy.com",
+      "name": "🔞成人┃LY┃",
       "type": 1,
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "香奶儿资源",
-      "name": "🔞成人┃XNE┃",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "quickSearch": 1,
+      "searchable": 1,
       "filterable": 1
     },
     {
@@ -135,60 +129,9 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "wmcj8.com",
-      "name": "🔞成人┃WM┃",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "99zywcj.com",
-      "name": "🔞成人┃99┃",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gdlsp.com",
-      "name": "🔞成人┃LSP┃",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "kxgav.com",
-      "name": "🔞成人┃KXG┃",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "msnii.com",
-      "name": "🔞成人┃MSN┃",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "api.apilyzy.com",
-      "name": "🔞成人┃LY┃",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
+
+   
+    
   
     
     {
