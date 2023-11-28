@@ -19,9 +19,29 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
     },
     {
-      "key": "csp_荐片T4",
+      "key": "hnzy",
       "name": "主力源02",
-      "type": 4,
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "csp_荐片T4",
+      "name": "主力源03",
+      "type": 1,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
       "searchable": 1,
       "quickSearch": 1,
@@ -158,26 +178,6 @@
       "filterable": 1,
       "ext": "http://www.xb6v.com",
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
-      "key": "hnzy",
-      "name": "备用源10",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
     },
     {
       "key": "MV_vod",
