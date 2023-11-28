@@ -10,7 +10,7 @@
 
     {
       "key": "js_nangua",
-      "name": "┃南瓜┃",
+      "name": "影视源┃NG┃",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "Kanj",
-      "name": "┃看剧┃",
+      "name": "影视源┃KJ┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "1080资源",
-      "name": "┃1080┃",
+      "name": "影视源┃1080┃",
       "type": 0,
       "api": "https://api.1080zyku.com/inc/api.php",
       "searchable": 1,
@@ -39,7 +39,7 @@
     },
     {
       "key": "zp066",
-      "name": "🔞花椒采集",
+      "name": "🔞成人┃HJ┃",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -48,7 +48,7 @@
     },
     {
       "key": "鸡坤资源",
-      "name": "🔞鸡坤采集",
+      "name": "🔞成人┃JK┃",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -57,7 +57,7 @@
     },
     {
       "key": "老鸭",
-      "name": "🔞老鸭采集",
+      "name": "🔞成人┃LY┃",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -66,7 +66,7 @@
     },
     {
       "key": "mygzycj.com",
-      "name": "🔞美阅阁采集",
+      "name": "🔞成人┃MYG┃",
       "type": 0,
       "api": "http://mygzycj.com/api.php?ac=list",
       "quickSearch": 1,
@@ -75,7 +75,7 @@
     },
     {
       "key": "玖玖资源",
-      "name": "🔞玖玖资源",
+      "name": "🔞成人┃JJ┃",
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
@@ -84,7 +84,7 @@
     },
     {
       "key": "环亚资源",
-      "name": "🔞环亚资源",
+      "name": "🔞成人┃HY┃",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
       "searchable": 1,
