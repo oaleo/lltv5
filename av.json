@@ -8,35 +8,7 @@
 
 "sites":[
 
-    {
-      "key": "js_nangua",
-      "name": "┃南瓜┃",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
-    },
-    {
-      "key": "Kanj",
-      "name": "┃看剧┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
-    },
-    {
-      "key": "1080资源",
-      "name": "┃1080┃",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
     {
       "key": "zp066",
       "name": "🔞花椒采集",
