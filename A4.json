@@ -10,7 +10,7 @@
 
     {
       "key": "js_nangua",
-      "name": "主力源",
+      "name": "主力源01",
       "type": 3,
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -19,8 +19,28 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
     },
     {
+      "key": "hnzy",
+      "name": "主力源02",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
       "key": "主力源",
-      "name": "备用源1",
+      "name": "备用源01",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -47,8 +67,27 @@
       ]
     },
     {
+      "key": "Kanj",
+      "name": "备用源02",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
+    },
+    {
+      "key": "1080资源",
+      "name": "备用源03",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "OXS",
-      "name": "备用源2",
+      "name": "备用源04",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -59,19 +98,10 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
-    {
-      "key": "Kanj",
-      "name": "备用源3",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
-    },
+    
     {
       "key": "js_555",
-      "name": "备用源4",
+      "name": "备用源05",
       "type": 3,
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -81,7 +111,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "备用源5",
+      "name": "备用源06",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -93,7 +123,7 @@
     },
     {
       "key":"卧龙资源",
-      "name":"备用源6",
+      "name":"备用源07",
       "type":1,
       "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable":1,
@@ -101,7 +131,7 @@
     },
     {
       "key": "zy_新浪资源",
-      "name": "备用源7",
+      "name": "备用源08",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -130,13 +160,15 @@
       ]
     },
     {
-      "key": "1080资源",
-      "name": "备用源8",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
+      "key": "New6v",
+      "name": "备用源09",
+      "type": 3,
+      "api": "csp_New6v",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "http://www.xb6v.com",
+      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
       "key": "MV_vod",
