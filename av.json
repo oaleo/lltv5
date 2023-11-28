@@ -38,15 +38,7 @@
       "changeable": 1
     },
 
-    {
-      "key": "老鸭",
-      "name": "🔞老鸭采集",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    
     {
       "key": "mygzycj.com",
       "name": "🔞美阅阁采集",
