@@ -61,7 +61,7 @@
 
     {
       "key": "zp066",
-      "name": "🔞花椒采集",
+      "name": "🔞┃HJ┃",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -70,7 +70,7 @@
     },
     {
       "key": "鸡坤资源",
-      "name": "🔞鸡坤采集",
+      "name": "🔞┃JK┃",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -79,7 +79,7 @@
     },
     {
       "key": "老鸭",
-      "name": "🔞老鸭采集",
+      "name": "🔞┃LY┃",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
