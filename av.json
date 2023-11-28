@@ -140,15 +140,8 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "mygzycj.com",
-      "name": "🔞美阅阁采集",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
+
+
     {
       "key": "csp_KungFu404",
       "name": "┃阿里┃设置",
