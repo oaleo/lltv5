@@ -91,15 +91,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "99zywcj.com",
-      "name": "🔞99采集",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "msnii.com",
       "name": "🔞美少女采集",
