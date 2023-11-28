@@ -38,6 +38,15 @@
       "changeable": 1
     },
     {
+      "key": "zp066",
+      "name": "🔞花椒采集",
+      "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "鸡坤资源",
       "name": "🔞鸡坤采集",
       "type": 1,
@@ -49,15 +58,6 @@
     {
       "key": "老鸭",
       "name": "🔞老鸭采集",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "zp066",
-      "name": "🔞花椒采集",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
