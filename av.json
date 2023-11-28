@@ -92,15 +92,7 @@
       "quickSearch": 0
     },
     
-    {
-      "key": "msnii.com",
-      "name": "🔞美少女采集",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
+
     
   
     
