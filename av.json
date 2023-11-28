@@ -90,20 +90,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    
-    
-  
-    
-    {
-      "key": "csp_KungFu404",
-      "name": "┃阿里┃设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://jihulab.com/sy555/cs/-/raw/main/jar/alibaba.jar"
     }
 ],
 
