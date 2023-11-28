@@ -122,15 +122,6 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "麻豆村",
-      "name": "🔞麻豆村",
-      "type": 1,
-      "api": "https://madoucun.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
 
 
     {
