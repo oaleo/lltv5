@@ -92,39 +92,12 @@
       "filterable": 1
     },
     {
-      "key": "AV资源",
-      "name": "🔞AV资源",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "JAV名优",
-      "name": "🔞JAV名优",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "易看资源-伦理",
-      "name": "🔞易看伦理",
+      "name": "🔞易看采集",
       "type": 1,
       "api": "https://api.yikanapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "香奶儿资源",
-      "name": "🔞香奶儿资源",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "155",
@@ -149,15 +122,6 @@
       "name": "🔞99采集",
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gdlsp.com",
-      "name": "🔞老色胚采集",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
