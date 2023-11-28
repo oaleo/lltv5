@@ -9,71 +9,8 @@
 "sites":[
 
     {
-      "key": "hnzy",
-      "name": "┃红牛┃资源",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-    {
-      "key": "dmzy",
-      "name": "┃大漠┃资源",
-      "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "3D 电影",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-    {
-      "key": "csp_XYQHiker_‍dyx",
-      "name": "┃宙磁┃资源",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json",
-      "jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-    },
-    {
-      "key": "New6v",
-      "name": "┃新6V┃资源",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.xb6v.com",
-      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
       "key": "js_nangua",
-      "name": "┃南瓜┃资源",
+      "name": "┃南瓜┃",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
@@ -83,7 +20,7 @@
     },
     {
       "key": "Kanj",
-      "name": "┃看剧┃资源",
+      "name": "┃看剧┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -93,7 +30,7 @@
     },
     {
       "key": "1080资源",
-      "name": "┃1080┃资源",
+      "name": "┃1080┃",
       "type": 0,
       "api": "https://api.1080zyku.com/inc/api.php",
       "searchable": 1,
@@ -136,7 +73,6 @@
       "searchable": 1,
       "filterable": 1
     },
-    
     {
       "key": "玖玖资源",
       "name": "🔞玖玖资源",
@@ -172,34 +108,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "麻豆村",
-      "name": "🔞麻豆村",
-      "type": 1,
-      "api": "https://madoucun.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "❤淫水机资源",
-      "name": "🔞淫水机资源",
-      "type": 0,
-      "playerType": 2,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-      "key": "18",
-      "name": "🔞夜猫资源",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://jihulab.com/ymz1231/jar/-/raw/main/fm.jar;md5;12256c49c78305f2bedfd09b5d786620"
     },
     {
       "key": "易看资源-伦理",
@@ -292,7 +200,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/duomv/xduo/-/raw/main/alibaba.jar"
+      "jar": "https://jihulab.com/sy555/cs/-/raw/main/jar/alibaba.jar"
     }
 ],
 
