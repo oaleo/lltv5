@@ -113,15 +113,6 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "api.apilyzy.com",
-      "name": "🔞乐渔采集",
-      "type": 1,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
 
 
     {
