@@ -1,14 +1,12 @@
 //全部数据来自网络和各大佬资源整合
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
 
-
 {
 
 "warningText":"友情提示：勿信视频中任何广告！不定期更新",    
 
 
 "sites":[
-
 
     {
       "key": "豆瓣",
@@ -968,13 +966,12 @@
     }
   ],
 
-
 "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-    ]
+  ]
 }
 
 
