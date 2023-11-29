@@ -95,6 +95,25 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    {      
+      "key": "一起看 ",
+      "name": "┃一起┃2K",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "js_changmeng",
+      "name": "┃畅梦┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
+    },
     {
       "key": "OXS",
       "name": "┃O.Sir┃资源",
@@ -275,16 +294,6 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/侦探.js"
     },
     {
-      "key": "csp_appysv2_毛子",
-      "name": "┃毛子┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
-    {
       "key": "csp_beijihu",
       "name": "┃极狐┃资源",
       "type": 3,
@@ -375,36 +384,6 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/hoho.js"
     },
     {
-      "key": "js_changmeng",
-      "name": "┃畅梦┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
-    },
-    {
-      "key": "js_耐菲",
-      "name": "┃奈飞┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/鸭奈飞.js"
-    },
-    {
-      "key": "700K",
-      "name": "┃700┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://700kan.cc/DyttShow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "今日更新$new#电影$1#电视剧$2#动漫$4#喜剧片$6#动作片$5#科幻片$8#恐怖片$9#国产剧$12"
-      }
-    },
-    {
       "key": "csp_土豪",
       "name": "┃土豪┃资源",
       "type": 3,
@@ -428,32 +407,34 @@
       }
     },
     {
-      "key": "CK资源",
-      "name": "┃CK┃资源",
-      "type": 1,
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "CK资源2",
-      "name": "┃CK┃资源2",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "js_大师兄",
-      "name": "┃大师兄┃资源",
+      "key": "js_耐菲",
+      "name": "┃奈飞┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/大师兄影视.js"
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/鸭奈飞.js"
+    },
+    {
+      "key": "700K",
+      "name": "┃700┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://700kan.cc/DyttShow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "今日更新$new#电影$1#电视剧$2#动漫$4#喜剧片$6#动作片$5#科幻片$8#恐怖片$9#国产剧$12"
+      }
+    },
+    {
+      "key": "js_6V",
+      "name": "┃6V┃磁力",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/6V.js"
     },
     {
       "key": "New6v",
@@ -467,14 +448,13 @@
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
-      "key": "js_6V",
-      "name": "┃6V┃磁力",
+      "key": "XYQH_电影港",
+      "name": "┃港口┃磁力",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/6V.js"
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
     },
     {
 	      "key": "csp_XYQHiker_‍dyx",
@@ -486,15 +466,6 @@
       "filterable": 1,
       "ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json",
       "jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-    },
-    {
-      "key": "XYQH_电影港",
-      "name": "┃港口┃磁力",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
     },
     {
       "key": "MV_vod",
@@ -995,6 +966,7 @@
     }
   ],
 
+/*
 "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
@@ -1002,3 +974,14 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+*/
+
+
+"ads": [    
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "http://itvba.xyz/tv/jar/fty1020.jar"  ],
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "warningText": "大吉大利",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"}
