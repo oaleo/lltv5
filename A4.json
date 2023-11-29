@@ -63,7 +63,7 @@
     {
       "key": "csp_荐片T4",
       "name": "┃荐片┃资源",
-      "type": 2,
+      "type": 4,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
       "searchable": 1,
       "quickSearch": 1,
