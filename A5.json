@@ -541,16 +541,6 @@
       }
     },
     {
-      "key": "js_6V",
-      "name": "┃6V┃磁力",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/6V.js"
-    },
-    {
       "key": "XYQH_电影港",
       "name": "┃港口┃磁力",
       "type": 3,
@@ -562,7 +552,16 @@
 
 
 
-
+    {
+      "key": "js_6V",
+      "name": "┃6V┃磁力",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/6V.js"
+    },
     {
       "key": "New6v",
       "name": "┃新6V┃磁力",
