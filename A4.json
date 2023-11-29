@@ -63,7 +63,7 @@
     {
       "key": "csp_荐片T4",
       "name": "┃荐片┃资源",
-      "type": 3,
+      "type": 2,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
       "searchable": 1,
       "quickSearch": 1,
@@ -189,19 +189,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Aid",
-      "name": "┃急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
     },
     {
       "key": "csp_KungFu404",
