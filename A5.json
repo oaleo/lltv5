@@ -1,12 +1,11 @@
 //全部数据来自网络和各大佬资源整合
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
 
+
 {
-
-"warningText":"友情提示：勿信视频中任何广告！不定期更新",    
-
-
-"sites":[
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
 
     {
       "key": "豆瓣",
@@ -966,7 +965,7 @@
     }
   ],
 
-/*
+
 "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
@@ -974,9 +973,9 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
-*/
 
 
+/*
 "ads": [    
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
@@ -985,3 +984,4 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "warningText": "大吉大利",
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"}
+*/
