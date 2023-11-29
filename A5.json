@@ -3,8 +3,8 @@
 
 {
 
-"spider":"./jar/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+"warningText":"友情提示：勿信视频中任何广告！不定期更新",    
+
 
 "sites":[
 
@@ -95,10 +95,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    
-    {
+    {      
       "key": "一起看 ",
-      "name": "🎉一起┃App",
+      "name": "┃一起┃2K",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -971,6 +970,10 @@
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
-    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ]
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
+    "http://itvba.xyz/tv/jar/fty1020.jar"  ],  
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "warningText": "大吉大利",
+    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1
+
 }
