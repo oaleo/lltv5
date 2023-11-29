@@ -41,15 +41,6 @@
       ]
     },
     {
-      "key": "77",
-      "name": "┃七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "hnzy",
       "name": "┃红牛┃资源",
       "type": 1,
@@ -72,7 +63,7 @@
     {
       "key": "csp_荐片T4",
       "name": "┃荐片┃资源",
-      "type": 1,
+      "type": 3,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
       "searchable": 1,
       "quickSearch": 1,
