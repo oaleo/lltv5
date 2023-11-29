@@ -588,12 +588,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-{"key":"爱奇异","name":"┃爱奇艺┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/aiqiyi.js"},
-{"key":"优酷","name":"┃优酷┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
-{"key":"腾讯","name":"┃腾讯┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
-{"key":"芒果","name":"┃芒果┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
-{"key":"搜狗","name":"┃搜狗┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
     {
       "key": "csp_Dm84",
       "name": "┃动漫┃巴士",
@@ -672,7 +666,14 @@
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
     },
+
+
     
+{"key":"爱奇异","name":"┃爱奇艺┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/aiqiyi.js"},
+{"key":"优酷","name":"┃优酷┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
+{"key":"腾讯","name":"┃腾讯┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
+{"key":"芒果","name":"┃芒果┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
+{"key":"搜狗","name":"┃搜狗┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/caigou.js"},
     {
       "key": "csp_KungFu404",
       "name": "┃阿里┃设置",
