@@ -3,6 +3,9 @@
 
 {
 
+"warningText":"友情提示：勿信视频中任何广告！不定期更新",    
+
+
 "sites":[
 
     {
@@ -16,34 +19,26 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
     },
     {
-      "key": "南坊",
-      "name": "┃南坊┃App",
+      "key": "Kanj",
+      "name": "┃西瓜┃App",
       "type": 3,
-      "api": "csp_AppMao",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsiwNM6dXSwTArm5em8Lv8ppXgro"
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
     },
     {
-      "key": "繁星",
-      "name": "┃繁星┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
-    },
-    {      
-      "key": "一起看 ",
-      "name": "┃一起┃App",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "key": "app_轻简",
+      "name": "┃轻简┃App",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "77",
@@ -53,26 +48,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "嘿嘿",
-      "name": "┃嘿嘿┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
-    },
-    {
-      "key": "js_changmeng",
-      "name": "┃畅梦┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
     },
     {
       "key": "hnzy",
@@ -93,6 +68,15 @@
         "剧情片",
         "战争片"
       ]
+    },
+    {
+      "key": "csp_荐片T4",
+      "name": "┃荐片┃资源",
+      "type": 1,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "主力源",
@@ -122,6 +106,7 @@
         "泰剧"
       ]
     },
+    
     {
       "key": "1080资源",
       "name": "┃1080┃资源",
@@ -132,6 +117,20 @@
       "changeable": 1
     },
     {
+      "key": "OXS",
+      "name": "┃O.Sir┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    
+    {
       "key": "js_555",
       "name": "┃555┃资源",
       "type": 3,
@@ -141,18 +140,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/555.js"
     },
-    {
-      "key": "app_轻简",
-      "name": "┃轻简┃资源",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
+    
     {
       "key":"卧龙资源",
       "name":"┃卧龙┃资源",
@@ -192,13 +180,15 @@
       ]
     },
     {
-      "key": "csp_Dm84",
-      "name": "┃动漫┃巴士",
+      "key": "New6v",
+      "name": "┃新6V┃磁力",
       "type": 3,
-      "api": "csp_Dm84",
+      "api": "csp_New6v",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "http://www.xb6v.com",
+      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
       "key": "MV_vod",
@@ -209,76 +199,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Aid",
-      "name": "┃急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
-      "key": "少儿教育",
-      "name": "┃少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "┃小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "┃初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "┃高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
-    },
-    
     {
       "key": "csp_KungFu404",
       "name": "┃阿里┃设置",
@@ -558,6 +478,14 @@
 "wallpaper":"https://tool.weetai.cn/api",
 
 
+"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://agit.ai/leevi/duo/raw/branch/master/v.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],   
+
 "rules": [
     {
       "name": "量子",
@@ -763,26 +691,10 @@
     }
   ],
 
-
-
-/*
 "ads": [
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
-}
-*/
-
-
-
-"ads": [
-    "wan.51img1.com",
-    "iqiyi.hbuioo.com",
-    "vip.ffzyad.com",
-    "http://itvba.xyz/tv/jar/fty1020.jar"  ],
-    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-    "warningText": "友情提示：勿信视频中任何广告！不定期更新",
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"
 }
