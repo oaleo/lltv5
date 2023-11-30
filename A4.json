@@ -8,16 +8,7 @@
 
 "sites":[
 
-    {
-      "key": "豆瓣",
-      "name": "💫勿信视频中任何广告！不定期更新",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/douban.js"
-    },
+    
     {
       "key": "feiyun",
       "name": "飞云┃App",
@@ -30,7 +21,7 @@
     },
     {
       "key": "js_nangua",
-      "name": "┃南瓜┃App",
+      "name": "南瓜┃App",
       "type": 3,
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -40,7 +31,7 @@
     },
     {
       "key": "js_影探",
-      "name": "┃影探┃资源",
+      "name": "影探┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -50,7 +41,7 @@
     },
     {
       "key": "hnzy",
-      "name": "┃红牛┃资源",
+      "name": "红牛┃资源",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
@@ -70,7 +61,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "┃索尼┃资源",
+      "name": "索尼┃资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -97,8 +88,31 @@
       ]
     },
     {
+      "key": "saohuo",
+      "name": "骚火┃直连",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "playerType": "2",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;r1dau0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "https://hkjx.hhplayer.com+\"url\"*\"&&\""
+      }
+    },
+    {
       "key": "app_轻简",
-      "name": "┃轻简┃资源",
+      "name": "轻简┃资源",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -110,7 +124,7 @@
     },
     {
       "key": "js_changmeng",
-      "name": "┃畅梦┃资源",
+      "name": "畅梦┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -120,7 +134,7 @@
     },
     {
       "key": "OXS",
-      "name": "┃O.Sir┃资源",
+      "name": "O.Sir┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -133,7 +147,7 @@
     },
     {
       "key": "js_555",
-      "name": "┃555┃资源",
+      "name": "555┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -143,7 +157,7 @@
     },
     {
       "key": "Kanj",
-      "name": "┃西瓜┃资源",
+      "name": "西瓜┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -153,7 +167,7 @@
     },
     {
       "key": "1080资源",
-      "name": "┃1080┃资源",
+      "name": "1080┃资源",
       "type": 0,
       "api": "https://api.1080zyku.com/inc/api.php",
       "searchable": 1,
@@ -162,7 +176,7 @@
     },  
     {
       "key":"卧龙资源",
-      "name":"┃卧龙┃资源",
+      "name":"卧龙┃资源",
       "type":1,
       "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable":1,
@@ -170,7 +184,7 @@
     },
     {
       "key": "zy_新浪资源",
-      "name": "┃新浪┃资源",
+      "name": "新浪┃资源",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -200,7 +214,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "┃非凡┃资源",
+      "name": "非凡┃资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -237,7 +251,7 @@
     },
     {
       "key": "量子资源",
-      "name": "┃量子┃资源",
+      "name": "量子┃资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -263,7 +277,7 @@
     },
     {
       "key": "js_6V",
-      "name": "┃6V┃磁力",
+      "name": "6V┃磁力",
       "type": 3,
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -273,7 +287,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "┃MTV┃合集",
+      "name": "MTV┃合集",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -282,7 +296,7 @@
     },
     {
       "key": "csp_KungFu404",
-      "name": "┃阿里┃设置",
+      "name": "阿里┃设置",
       "type": 3,
       "api": "csp_KungFu404",
       "searchable": 1,
