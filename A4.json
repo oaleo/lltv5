@@ -9,6 +9,16 @@
 "sites":[
 
     {
+      "key": "豆瓣",
+      "name": "💫勿信视频中任何广告！不定期更新",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/douban.js"
+    },
+    {
       "key": "js_nangua",
       "name": "┃南瓜┃App",
       "type": 3,
