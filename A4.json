@@ -60,7 +60,7 @@
         "战争片"
       ]
     },
-    {"key":"csp_大师兄","name":"┃大师兄┃App","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/dsxys.json"},
+    {"key":"csp_大师兄","name":"┃大师兄┃App","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/sy555/cs/-/raw/main/lib/dsxys.json"},
     {
       "key": "主力源",
       "name": "┃索尼┃资源",
