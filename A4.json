@@ -19,39 +19,6 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
     },
     {
-      "key": "Kanj",
-      "name": "┃西瓜┃App",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
-    },
-    
-    {
-      "key": "app_轻简",
-      "name": "┃轻简┃App",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "js_changmeng",
-      "name": "┃畅梦┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
-    },
-    {
       "key": "js_影探",
       "name": "┃影探┃资源",
       "type": 3,
@@ -109,15 +76,27 @@
         "泰剧"
       ]
     },
-    
     {
-      "key": "1080资源",
-      "name": "┃1080┃资源",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
+      "key": "app_轻简",
+      "name": "┃轻简┃资源",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "js_changmeng",
+      "name": "┃畅梦┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
     },
     {
       "key": "OXS",
@@ -132,7 +111,6 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
-    
     {
       "key": "js_555",
       "name": "┃555┃资源",
@@ -143,7 +121,25 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/555.js"
     },
-    
+    {
+      "key": "Kanj",
+      "name": "┃西瓜┃App",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
+    },
+    {
+      "key": "1080资源",
+      "name": "┃1080┃资源",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },  
     {
       "key":"卧龙资源",
       "name":"┃卧龙┃资源",
