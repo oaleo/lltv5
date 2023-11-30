@@ -28,6 +28,7 @@
       "changeable": 1,
       "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
     },
+    
     {
       "key": "app_轻简",
       "name": "┃轻简┃App",
@@ -39,6 +40,26 @@
         "综艺",
         "动漫"
       ]
+    },
+    {
+      "key": "js_changmeng",
+      "name": "┃畅梦┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
+    },
+    {
+      "key": "js_影探",
+      "name": "┃影探┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/侦探.js"
     },
     {
       "key": "hnzy",
@@ -60,9 +81,8 @@
         "战争片"
       ]
     },
-    {"key":"csp_大师兄","name":"┃大师兄┃App","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/sy555/cs/-/raw/main/lib/dsxys.json"},
     {
-      "key": "主力源",
+      "key": "索尼资源",
       "name": "┃索尼┃资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
