@@ -19,15 +19,6 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/douban.js"
     },
     {
-	  "key": "t4_wo",
-    "name": "┃玩偶┃T4",
-    "type": 4,
-    "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-    }, 
-    {
       "key": "js_nangua",
       "name": "┃南瓜┃App",
       "type": 3,
