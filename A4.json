@@ -2,7 +2,8 @@
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
 
 {
-
+"spider": "./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
+"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "warningText":"友情提示：勿信视频中任何广告！不定期更新",    
 
 
