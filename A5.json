@@ -26,6 +26,23 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
+      "key": "csp_WoGG",
+      "name": "阿里 ┃ 玩偶[4K]",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
+    },
+    {
+      "key": "drpy_js_荐片",
+      "name": "荐片 | 影视[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
+    },
+    {
       "key": "js_nangua",
       "name": "┃南瓜┃App",
       "type": 3,
