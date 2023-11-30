@@ -6,19 +6,8 @@
 "warningText":"友情提示：勿信视频中任何广告！不定期更新",    
 
 
-"sites":[
-
-    
-    {
-      "key": "feiyun",
-      "name": "飞云┃App",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/fy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+"sites":[ 
+  
     {
       "key": "js_nangua",
       "name": "南瓜┃App",
@@ -38,6 +27,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
+      "key": "feiyun",
+      "name": "飞云┃App",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "js_影探",
