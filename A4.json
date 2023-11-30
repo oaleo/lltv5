@@ -19,37 +19,24 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/douban.js"
     },
     {
-      "key": "csp_WoGG",
-	      "name": "💂‍┃玩偶┃4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
-        "filter": "https://jihulab.com/sy555/cs/-/raw/main/json/wogg.json"
-      },
-      "jar": "https://jihulab.com/sy555/cs/-/raw/main/jar/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582"
+	  "key": "t4_wo",
+    "name": "┃玩偶┃T4",
+    "type": 4,
+    "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    }, 
+    {
+    "key": "csp_WoGG",
+    "name": "🚛玩偶┃4K",
+    "type": 3,
+    "api": "csp_WoGG",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "https://weixine.net/ali.jar"
     },
-{
-	"key": "t4_wo",
-	"name": "🚛玩偶┃T4",
-	"type": 4,
-	"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1
-}, 
-{
-	"key": "csp_WoGG",
-	"name": "🚛玩偶┃4K",
-	"type": 3,
-	"api": "csp_WoGG",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"jar": "https://weixine.net/ali.jar"
-},
     {
       "key": "js_nangua",
       "name": "┃南瓜┃App",
