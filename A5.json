@@ -15,6 +15,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/douban.js"
     },
+    /*
     {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥┃4K弹幕",
@@ -35,13 +36,7 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
     },
-    {
-      "key": "drpy_js_荐片",
-      "name": "荐片 | 影视[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
-    },
+    */
     {
       "key": "js_nangua",
       "name": "┃南瓜┃App",
