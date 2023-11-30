@@ -28,16 +28,6 @@
     "filterable": 1
     }, 
     {
-    "key": "csp_WoGG",
-    "name": "🚛玩偶┃4K",
-    "type": 3,
-    "api": "csp_WoGG",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "https://weixine.net/ali.jar"
-    },
-    {
       "key": "js_nangua",
       "name": "┃南瓜┃App",
       "type": 3,
