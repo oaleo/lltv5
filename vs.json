@@ -45,6 +45,17 @@
       "quickSearch": 1,
       "changeable": 0
     },
+    {
+      "key": "csp_YQKAPP",
+      "name": "一起看┃App",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-aws.11ty.top"
+    },
 
     /*
     {
@@ -201,7 +212,7 @@
     },
     {
       "key": "夜猫",
-      "name": "夜猫┃影视",
+      "name": "夜猫┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -935,6 +946,12 @@
       "filterable": 0,
       "changeable": 0,
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/alibaba.jar"
+    }
+    {
+      "key": "提示",
+      "name": "💫勿信视频中任何广告！不定期更新",
+      "type": 1,
+      "api": "cs"
     }
 ],
 
