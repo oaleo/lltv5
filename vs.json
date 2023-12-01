@@ -200,19 +200,6 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/侦探.js"
     },
     {
-      "key": "jptv",
-      "name": "鸡婆┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.jipo.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-        "分类": "电影$1#剧集$2#动漫$3#综艺$4#B站影视$50"
-      }
-    },
-    {
       "key": "夜猫",
       "name": "夜猫┃影视",
       "type": 3,
@@ -720,6 +707,19 @@
     },
 
     /*
+    {
+      "key": "jptv",
+      "name": "鸡婆┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.jipo.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#动漫$3#综艺$4#B站影视$50"
+      }
+    },
     {
       "key": "Kanj",
       "name": "西瓜┃资源",
