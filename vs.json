@@ -923,6 +923,16 @@
       "changeable": 0,
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/alibaba.jar"
     }
+    {
+      "key": "提示",
+      "name": "💫勿信视频中任何广告！不定期更新",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": ""
+    }
 ],
 
 
