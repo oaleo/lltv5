@@ -9,11 +9,11 @@
       "key": "豆瓣",
       "name": "💫勿信视频中任何广告！不定期更新",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/douban.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
     /*
     {
@@ -41,11 +41,11 @@
       "key": "js_nangua",
       "name": "南瓜┃App",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
     {
       "key": "南坊",
@@ -61,8 +61,8 @@
       "key": "feiyun",
       "name": "飞云┃App",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/fy.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -387,11 +387,11 @@
       "key": "js_changmeng",
       "name": "畅梦┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/changmeng.js"
     },
     {
       "key": "app_轻简",
@@ -466,11 +466,11 @@
       "key": "js_影探",
       "name": "影探┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/侦探.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/侦探.js"
     },
     {
       "key": "dmzy",
@@ -681,11 +681,11 @@
       "key": "js_轰轰",
       "name": "‍轰轰┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/hoho.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/hoho.js"
     },
 
 
@@ -695,11 +695,11 @@
       "key": "js_555",
       "name": "555┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/555.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/555.js"
     },
     {
       "key": "Kanj",
@@ -760,11 +760,11 @@
       "key": "js_耐菲",
       "name": "鸭奈飞┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/鸭奈飞.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/鸭奈飞.js"
     },
     {
       "key": "700K",
@@ -792,11 +792,11 @@
       "key": "js_6V",
       "name": "6V┃磁力",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/6V.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/6V.js"
     },
     {
       "key": "New6v",
@@ -923,7 +923,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/sy555/cs/-/raw/main/jar/alibaba.jar"
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/alibaba.jar"
     }
 ],
 
@@ -1426,7 +1426,7 @@
     "wan.51img1.com",
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
-    "https://jihulab.com/sy555/cs/-/raw/main/jar/fty.jar"  ],
+    "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar"  ],
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "warningText": "友情提示：勿信视频中任何广告！不定期更新",
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1"
