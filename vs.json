@@ -15,28 +15,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
-    /*
-    {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "玩偶┃[4K]",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
-    },
-    */
     {
       "key": "js_nangua",
       "name": "南瓜┃App",
@@ -69,6 +47,26 @@
     },
 
     /*
+    {
+      "key": "玩偶哥哥",
+      "name": "玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "玩偶┃[4K]",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
+    },
     {
       "key": "南坊",
       "name": "南坊┃App",
@@ -688,10 +686,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/hoho.js"
     },
-
-
-
-
     {
       "key": "js_555",
       "name": "555┃资源",
@@ -702,6 +696,17 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/555.js"
     },
+    {
+      "key": "csp_荐片T4",
+      "name": "荐片┃资源",
+      "type": 1,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    /*
     {
       "key": "Kanj",
       "name": "西瓜┃资源",
@@ -724,15 +729,6 @@
         "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
-    },
-    {
-      "key": "csp_荐片T4",
-      "name": "荐片┃资源",
-      "type": 1,
-      "api": "http://home.jundie.top:9520/spider/csp_JP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_土豪",
@@ -777,18 +773,10 @@
         "分类": "今日更新$new#电影$1#电视剧$2#动漫$4#喜剧片$6#动作片$5#科幻片$8#恐怖片$9#国产剧$12"
       }
     },
-    {
-      "key": "XYQH_电影港",
-      "name": "港口┃磁力",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
-    },
+    */
 
 
-
+    
     {
       "key": "js_6V",
       "name": "6V┃磁力",
@@ -809,6 +797,15 @@
       "filterable": 1,
       "ext": "http://www.xb6v.com",
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+    },
+    {
+      "key": "XYQH_电影港",
+      "name": "港口┃磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
     },
     {
 	      "key": "csp_XYQHiker_‍dyx",
