@@ -707,6 +707,15 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/555.js"
     },
     {
+    "key": "drpy_js_荐片",
+    "name": "影视 | 荐片[js]",
+    "type": 3,
+    "api": "./js/drpy2.min.js",
+    "ext": "./js/荐片.js",
+    "playerType": "1"
+    },
+/*
+    {
       "key": "csp_荐片T4",
       "name": "荐片┃资源",
       "type": 1,
@@ -715,8 +724,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-    /*
     {
       "key": "jptv",
       "name": "鸡婆┃资源",
