@@ -19,6 +19,44 @@
       "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
     },
     {
+      "key": "路人",
+      "name": "🖼┃画画┃影视",
+      "api": "csp_AppYs",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "996",
+      "name": "🥃┃九六┃影视",
+      "type": 3,
+      "filterable": 1,
+      "api": "csp_Panda",
+      "ext": {
+        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+        "筛选": "1"
+      }
+    },
+    {
+      "key": "bttwo",
+      "name": "✌┃BTtwo┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/两个BT.js"
+    },
+    {
+      "key": "Libvio",
+      "name": "💐┃Lib┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/LIBVIO.js"
+    },
+
+
+    {
     "key": "drpy_js_荐片",
     "name": "荐片|App",
     "type": 3,
