@@ -95,6 +95,14 @@
       "ext": "https://czz9.com/"
     },
     {
+      "key": "厂长",
+      "name": "厂长┃资源",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
+    },
+    {
       "key": "新6V",
       "name": "新6V┃资源",
       "type": 3,
