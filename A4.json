@@ -22,8 +22,8 @@
     "key": "drpy_js_荐片",
     "name": "荐片|App",
     "type": 3,
-    "api": "./js/drpy2.min.js",
-    "ext": "./js/荐片.js",
+    "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+    "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/荐片.js",
     "playerType": "1"
     },
     {
@@ -53,6 +53,34 @@
       "playerType": "2",
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
+    },
+    {
+      "key": "索尼资源",
+      "name": "索尼┃资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "科幻片",
+        "动作片",
+        "恐怖片",
+        "纪录片",
+        "爱情片",
+        "战争片",
+        "剧情片",
+        "喜剧片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧"
+      ]
     },
     {
       "key": "js_影探",
@@ -285,34 +313,6 @@
         "恐怖片",
         "剧情片",
         "战争片"
-      ]
-    },
-    {
-      "key": "索尼资源",
-      "name": "索尼┃资源",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "科幻片",
-        "动作片",
-        "恐怖片",
-        "纪录片",
-        "爱情片",
-        "战争片",
-        "剧情片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧"
       ]
     },
     {
