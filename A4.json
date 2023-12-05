@@ -48,7 +48,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "Czs┃App",
+      "name": "厂长┃资源",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -57,6 +57,7 @@
       "changeable": 1,
       "ext": "https://czz9.com/"
     },
+/*
     {
       "key": "厂长",
       "name": "厂长┃资源",
@@ -65,6 +66,7 @@
       "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
     },
+*/
     {
       "key": "索尼资源",
       "name": "索尼┃资源",
