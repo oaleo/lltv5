@@ -131,7 +131,7 @@
 				"分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
 				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
 			}
-		}, 
+		},
     {
       "key": "js_影探",
       "name": "影探┃资源",
