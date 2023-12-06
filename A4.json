@@ -106,16 +106,29 @@
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/%E5%98%89%E9%9D%93.js"
     },
-    { "key":"零柒",
-      "name":"零柒┃资源",
-      "type":1,
-      "api":"http://xzcjz.com/api.php/provide/vod/at/json",
-      "searchable":1,
-      "changeable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "categories":["国产动漫","电影","连续剧","国产剧","香港剧","韩国剧","欧美剧","动作","喜剧","爱情","科幻","古装片","历史片","大陆综艺","港台综艺","日韩综艺","动画","欧美动漫","日本动漫"]
-    }, 
+    {
+      "key": "快云资源",
+      "name": "快云┃资源",
+      "type": 1,
+      "api": "https://kuaiyun-api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
+    },
     {
       "key": "js_影探",
       "name": "影探┃资源",
