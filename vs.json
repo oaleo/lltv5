@@ -189,16 +189,6 @@
         "纪录片"
       ]
     },
-    {
-      "key": "新6V",
-      "name": "新6V┃资源",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
     
 /*
     {
@@ -963,13 +953,23 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/6V.js"
     },
     {
+      "key": "新6V",
+      "name": "新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
+    {
       "key": "XYQH_电影港",
       "name": "港口┃磁力",
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/json/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/%E6%B8%AF%E5%8F%A3.json"
     },
     {
 	      "key": "csp_XYQHiker_‍dyx",
@@ -979,8 +979,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json",
-      "jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/dyg.json",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/json/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "MV_vod",
