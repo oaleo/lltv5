@@ -43,14 +43,15 @@
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
-      "key": "feiyun",
+      "key": "飞云",
       "name": "飞云┃App",
       "type": 3,
+      "playerType":2,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js",
+      "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
     {
       "key": "暴风采集",
