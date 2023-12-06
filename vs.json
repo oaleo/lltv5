@@ -29,8 +29,8 @@
       "key": "荐片",
       "name": "荐片┃App",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/JP.js"
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
     {
       "key": "迷你",
@@ -46,8 +46,8 @@
       "key": "feiyun",
       "name": "飞云┃App",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/fy.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -108,7 +108,7 @@
       "name": "厂长┃资源",
       "type": 3,
       "playerType": "2",
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
     },
 */
