@@ -1044,19 +1044,46 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/360.js"
     },
-
-    {"key":"drpy_js_腾云驾雾","name":"👑腾腾官源👑","type":3,"playerType":2,
- "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
-
-{"key":"drpy_js_百忙无果","name":"👑芒芒官源👑","type":3,"playerType":2,
-"api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
-
-{"key":"drpy_js_奇珍异兽","name":"👑艺艺官源👑","type":3,"playerType":2,
-"api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"},
-
-{"key":"drpy_yh","name":"👑优优官源👑","type":3,"playerType":2,"api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E4%BC%98%E9%85%B7.js"},
-
-{"key":"drpy_js_菜狗","name":"👑狗狗官源👑","type":3,"playerType":2,"api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js","ext":"https://codeberg.org/ymz123/ymz/raw/branch/main/json/%E8%8F%9C%E7%8B%97.js"},  
+    {
+      "key":"drpy_js_腾云驾雾",
+      "name":"腾讯┃(官)",
+      "type":3,
+      "playerType":2,
+      "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"
+    },
+    {
+      "key":"drpy_js_百忙无果",
+      "name":"芒果┃(官)",
+      "type":3,
+      "playerType":2,
+      "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
+    },
+    {
+      "key":"drpy_js_奇珍异兽",
+      "name":"爱奇艺┃(官)",
+      "type":3,
+      "playerType":2,
+      "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"
+    },
+    {
+      "key":"drpy_yh",
+      "name":"优酷┃(官)",
+      "type":3,
+      "playerType":2,
+      "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E4%BC%98%E9%85%B7.js"
+    },
+    {
+      "key":"drpy_js_菜狗",
+      "name":"搜狗┃(官)",
+      "type":3,
+      "playerType":2,
+      "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext":"https://codeberg.org/ll8000/iav/raw/branch/main/js/%E8%8F%9C%E7%8B%97.js"
+    },  
 /*
 {"key":"优酷","name":"优酷┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
 {"key":"腾讯","name":"腾讯┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
