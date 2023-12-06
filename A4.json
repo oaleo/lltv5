@@ -12,18 +12,18 @@
       "key": "js_nangua",
       "name": "👇点主页切换影视源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
     {
     "key": "drpy_js_荐片",
     "name": "荐片┃App",
     "type": 3,
-    "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-    "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/荐片.js",
+    "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+    "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/荐片.js",
     "playerType": "1"
     },
     {
@@ -40,8 +40,8 @@
       "key": "feiyun",
       "name": "飞云┃App",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/fy.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -63,7 +63,7 @@
       "name": "厂长┃资源",
       "type": 3,
       "playerType": "2",
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
     },
 */
@@ -99,11 +99,11 @@
       "key": "js_影探",
       "name": "影探┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/侦探.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/侦探.js"
     },
     {
       "key": "路人",
@@ -352,11 +352,11 @@
       "key": "js_changmeng",
       "name": "畅梦┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/changmeng.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/changmeng.js"
     },
     {
       "key": "OXS",
@@ -375,11 +375,11 @@
       "key": "js_555",
       "name": "555┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/555.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/555.js"
     },
     {
       "key": "Kanj",
@@ -505,11 +505,11 @@
       "key": "js_6V",
       "name": "6V┃磁力",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/6V.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/6V.js"
     },
     {
       "key": "MV_vod",
@@ -528,7 +528,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/sy555/cs/-/raw/main/jar/alibaba.jar"
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/alibaba.jar"
     }
 ],
 
