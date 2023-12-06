@@ -1040,7 +1040,7 @@
 
 
 {"key": "drpy_js_360影视","name": "360┃(官)","type": 3,"api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js","ext": "https://jihulab.com/sy555/vs/-/raw/main/js/360.js"},
-{"key":"爱奇异","name":"爱奇艺┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/aiqiyi.js"},
+{"key":"爱奇异","name":"爱奇艺┃(官)","type":3,"api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/sy555/vs/-/raw/main/js/爱奇艺.js"},
 {"key":"优酷","name":"优酷┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/youku.js"},
 {"key":"腾讯","name":"腾讯┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/tengxun.js"},
 {"key":"芒果","name":"芒果┃(官)","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/mangguo.js"},
