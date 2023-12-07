@@ -22,6 +22,15 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
     {
+            "key": "NanGua",
+                  "name": "🎃南瓜┃影视",
+                        "type": 3,
+                              "api": "csp_NanGua",
+                                    "searchable": 1,
+                                          "changeable": 1,
+                                                "ext": "null$$$1"
+                                                    },
+    {
       "key": "南瓜",
       "name": "南瓜┃App",
       "type": 3,
