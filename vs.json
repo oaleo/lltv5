@@ -602,22 +602,6 @@
       ]
     },
     {
-      "key": "saohuo",
-      "name": " 骚火┃资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/骚火.js"
-    },
-    {
-      "key": "爱看影视",
-      "name": "爱看┃资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/爱看.js"
-    },
-    {
       "key": "骑骑影院",
       "name": "骑骑┃资源",
       "type": 3,
@@ -634,16 +618,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
-    {
-      "key": "js_轰轰",
-      "name": "‍轰轰┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/hoho.js"
     },
     {
       "key": "js_555",
@@ -669,6 +643,7 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
     },
+/*
     {
       "key": "玩偶哥哥",
       "name": "玩偶┃4K弹幕",
@@ -679,6 +654,9 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
+*/
+
+
     {
       "key": "南坊",
       "name": "南坊┃资源",
@@ -843,6 +821,7 @@
 
 //以下需肥猫适配
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/*
     {
       "key": "蓝猫动漫",
       "name": "蓝猫┃动漫",
@@ -857,6 +836,7 @@
       "api": "csp_Panda",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
+*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
