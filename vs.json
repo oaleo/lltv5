@@ -1,6 +1,22 @@
- {"spider":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
-"warningText":"友情提示：勿信视频中任何广告！不定期更新",
+/*
+{
+"spider":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
 "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+"warningText":"友情提示：勿信视频中任何广告！不定期更新",
+
+{
+"spider":"https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+"warningText":"友情提示：勿信视频中任何广告！不定期更新",
+*/
+
+
+{
+  "spider": "https://jihulab.com/sy555/vs/-/raw/main/jar/fan.txt;md5;be6121b5c37471b191114027123912d2",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+
+
+
 "sites":[
          
    {
@@ -81,7 +97,7 @@
         "纪录片"
       ]
     },
-    /*
+    
     {
       "key": "一起看 ",
       "name": "一起看┃App",
@@ -91,7 +107,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    */
+/*
     {
       "key": "csp_YQKAPP",
       "name": "一起看┃App",
@@ -103,6 +119,7 @@
       "filterable": 1,
       "ext": "https://api-aws.11ty.top"
     },
+*/
     {
       "key": "厂长",
       "name": "厂长┃资源",
