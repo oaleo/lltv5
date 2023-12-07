@@ -851,6 +851,16 @@
     },
 /*
     {
+      "key": "Kanj",
+      "name": "西瓜┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
+    },
+    {
       "key": "csp_荐片T4",
       "name": "荐片┃资源",
       "type": 1,
@@ -949,6 +959,16 @@
       "ext": "http://www.xb6v.com",
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
+    {
+      "key": "新6V",
+      "name": "新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://www.xb6v.com/"
+    },
     */
 
 
@@ -964,15 +984,17 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/6V.js"
     },
     {
-      "key": "新6V",
+      "key": "New6v",
       "name": "新6V┃磁力",
       "type": 3,
-      "api": "csp_SixV",
+      "api": "csp_New6v",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
+      "filterable": 1,
+      "ext": "http://www.xb6v.com",
+      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
+    
     {
       "key": "XYQH_电影港",
       "name": "港口┃磁力",
