@@ -35,7 +35,7 @@
       "name": "迷你┃App",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://codeberg.org/ll8000/iav/raw/branch/main/jar/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
