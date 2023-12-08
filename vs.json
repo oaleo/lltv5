@@ -43,28 +43,6 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/4KHDR.json"
     },
     {
-      "key":"4KHDR",
-      "name":"HDR磁┃4K",
-      "type":3,
-      "api":"csp_XYQHikerAL",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/spider.txt",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/4KHDR.json"
-    },
-    { 
-      "key": "csp_XYQHikerlg4k", 
-      "name": "HD┃4K", 
-      "type": 3, 
-      "api": "csp_XYQHiker", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1, 
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/spider.txt",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/4KHDR.json"     
-    },
-    {
       "key": "js_nangua",
       "name": "畅梦┃App",
       "type": 3,
