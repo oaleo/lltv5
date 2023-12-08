@@ -31,6 +31,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    {"key":"4KHDR","name":"HDR磁┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/sy555/vs/-/raw/main/js/4khdr.js"},
     {
       "key": "js_nangua",
       "name": "畅梦┃App",
