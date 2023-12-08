@@ -83,7 +83,7 @@
     },
     {
       "key": "暴风采集",
-      "name": "暴风┃App",
+      "name": "暴风┃资源",
       "type": 1,
       "api": "https://app.bfzyapi.com/api.php/provide/vod/",
       "playUrl": "",
