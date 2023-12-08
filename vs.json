@@ -35,11 +35,10 @@
       "key": "4KHDR",
       "name": "4KHDR|网盘",
       "type": 3,
-      "api": "csp_FourKHDR",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 60,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/4khdr.js"
     },
     {
@@ -955,6 +954,15 @@
       "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E4%BC%98%E9%85%B7.js"
     },
+    {
+      "key": "sohu",
+      "name": "搜狐┃(官)",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },  
     {
       "key":"drpy_js_菜狗",
       "name":"搜狗┃(官)",
