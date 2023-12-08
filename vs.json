@@ -32,28 +32,6 @@
       "changeable": 1
     },
     {
-      "key": "4KHDR",
-      "name": "4KHDR|网盘",
-      "type": 3,
-      "api": "csp_XYQHiker", 
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/spider.txt",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/4KHDR.json"
-    },
-    {
-      "key": "js_nangua",
-      "name": "畅梦┃App",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/changmeng.js"
-    },
-    {
       "key": "荐片",
       "name": "荐片┃App",
       "type": 3,
@@ -80,6 +58,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
+    },
+    {
+      "key": "js_nangua",
+      "name": "畅梦┃App",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/changmeng.js"
     },
     {
       "key": "暴风采集",
