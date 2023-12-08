@@ -42,15 +42,15 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/4khdr.js"
     },
     {
-     "key": "csp_XBPQ_6V",
-     "name": "Vip┃4K",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/vip.jar",
-     "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/6Vip.json"
+      "key":"4KHDR",
+      "name":"HDR磁┃4K",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/spider.txt",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/4KHDR.json"
     },
     {
       "key": "影巢",
@@ -61,7 +61,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xry.jar",
-      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
     },
     { 
       "key": "csp_XYQHikerlg4k", 
@@ -808,6 +808,19 @@
       "ext": "http://www.xb6v.com",
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
+/*
+    {
+     "key": "csp_XBPQ_6V",
+     "name": "Vip┃4K",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/vip.jar",
+     "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/6Vip.json"
+    },
+*/
     {
       "key": "XYQH_电影港",
       "name": "港口┃磁力",
