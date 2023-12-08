@@ -35,11 +35,12 @@
       "key": "4KHDR",
       "name": "4KHDR|网盘",
       "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "api": "csp_FourKHDR",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/4khdr.js"
+      "timeout": 60,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/4KHDR.json"
     },
     {
       "key":"4KHDR",
@@ -51,17 +52,6 @@
       "filterable":1,
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/spider.txt",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/4KHDR.json"
-    },
-    {
-      "key": "影巢",
-      "name": "影巢┃4K",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xry.jar",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
     },
     { 
       "key": "csp_XYQHikerlg4k", 
