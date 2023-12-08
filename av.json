@@ -69,28 +69,19 @@
     },
 
     {
-      "key": "155",
-      "name": "🔞┃155",
-      "type": 0,
-      "playerType": 2,
-      "api": "https://155api.com/api.php/provide/vod/at/xml",
-      "searchable": 0,
-      "quickSearch": 0
+      "key": "鸡坤资源",
+      "name": "🔞┃JK",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "zp066",
       "name": "🔞┃HJ",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "鸡坤资源",
-      "name": "🔞┃JK",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -106,7 +97,15 @@
       "filterable": 0
     },
     */
-    
+    {
+      "key": "155",
+      "name": "🔞┃155",
+      "type": 0,
+      "playerType": 2,
+      "api": "https://155api.com/api.php/provide/vod/at/xml",
+      "searchable": 0,
+      "quickSearch": 0
+    },
 
 
     
