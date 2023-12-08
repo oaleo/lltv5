@@ -10,13 +10,13 @@
 
     {
       "key": "js_nangua",
-      "name": "NG┃资源",
+      "name": "CM┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/changmeng.js"
     },
     {
       "key": "hnzy",
@@ -39,15 +39,18 @@
       ]
     },
     {
-      "key": "荐片",
-      "name": "JP┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
+      "key": "*CK资源",
+      "name": "Ck┃资源",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
     {
       "key": "Kanj",
-      "name": "西瓜┃资源",
+      "name": "XG┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
