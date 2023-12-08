@@ -42,6 +42,28 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/4khdr.js"
     },
     {
+      "key": "影巢",
+      "name": "巢巢┃4K",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./jar/xry.jar",
+      "ext": "http://127.0.0.1:9978/file/lxhfans/token.txt"
+    },
+    { 
+      "key": "csp_XYQHikerlg4k", 
+      "name": "云云┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "jar": "./jar/spider.txt",
+      "ext": "./json/4KHDR.json"     
+    },
+    {
       "key": "js_nangua",
       "name": "畅梦┃App",
       "type": 3,
