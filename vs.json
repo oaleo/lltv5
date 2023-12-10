@@ -131,9 +131,10 @@
     {
       "key": "奈落",
       "name": "奈落┃资源",
-                        "type": 3,
-                              "api": "csp_XBPQ",
-                                    "ext": {
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar",
+      "ext": {
                                             "线路数组": "data-dropdown-value=&&</div>",
                                                     "播放数组": "<div class=\"scroll-content&&</div>",
                                                             "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
@@ -142,14 +143,15 @@
                                                                                   }
                                                                                       },
     {
-            "key": "csp_AppMr",
-                  "name": "明明┃资源",
-                        "type": 3,
-                              "api": "csp_AppMr",
-                                    "searchable": 1,
-                                          "quickSearch": 1,
-                                                "filterable": 1
-                                                    },
+      "key": "csp_AppMr",
+      "name": "明明┃资源",
+      "type": 3,
+      "api": "csp_AppMr",
+      "jar":"https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "爱迪影视",
       "name": "爱迪┃资源",
