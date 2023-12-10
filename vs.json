@@ -216,7 +216,7 @@
       "key": "cjzy_暴风资源",
       "name": "暴风┃资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "categories": [
       "国产剧",
