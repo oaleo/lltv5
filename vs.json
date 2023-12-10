@@ -710,7 +710,7 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需饭总适配
-
+/*
     {
       "key": "csp_WoGG",
       "name": "玩偶┃4K",
@@ -721,18 +721,17 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$http://tvfan.xxooo.cf/"
     },
-
+*/
     {
       "key": "玩偶哥哥",
-      "name": "玩偶┃4K弹幕",
+      "name": "玩偶┃4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-
     {
       "key": "鑫鑫影视",
       "name": "星星┃资源",
