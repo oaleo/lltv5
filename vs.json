@@ -117,6 +117,67 @@
                                                                                                                                                                                                                                                               ]
                                                                                                                                                                                                                                                                   },
     {
+      "key": "快影",
+      "name": "快影┃资源",
+                        "type": 3,
+                              "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+                                    "api": "csp_AppYsV2",
+                                          "playerType": 2,
+                                                "searchable": 1,
+                                                      "quickSearch": 1,
+                                                            "changeable": 1,
+                                                                  "ext": "http://iosa.xn--654a.cc/api.php/app/"
+                                                                      },
+    {
+      "key": "奈落",
+      "name": "奈落┃资源",
+                        "type": 3,
+                              "api": "csp_XBPQ",
+                                    "ext": {
+                                            "线路数组": "data-dropdown-value=&&</div>",
+                                                    "播放数组": "<div class=\"scroll-content&&</div>",
+                                                            "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
+                                                                    "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+                                                                            "分类": "电影$1#剧集$2#综艺$4#动漫$3"
+                                                                                  }
+                                                                                      },
+    {
+            "key": "csp_AppMr",
+                  "name": "明明┃资源",
+                        "type": 3,
+                              "api": "csp_AppMr",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "filterable": 1
+                                                    },
+    {
+      "key": "爱迪影视",
+      "name": "爱迪┃资源",
+                        "type": 3,
+                              "playerType": "2",
+                                    "api": "csp_AppYsV2",
+                                          "ext": "https://api123.adys.app/xgapp.php/v3/"
+                                              },
+    {
+      "key": "DiDuan",
+      "name": "高端┃资源",
+                        "type": 3,
+                              "api": "csp_Ddrk",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "changeable": 1
+                                                    },
+    {
+      "key": "Vofl",
+      "name": "VOF┃资源",
+                        "type": 3,
+                              "api": "csp_Voflix",
+                                    "searchable": 1,
+                                          "quickSearch": 1,
+                                                "changeable": 1
+                                                    },
+    
+    {
       "key": "暴风采集",
       "name": "暴风┃资源",
       "type": 1,
@@ -146,6 +207,34 @@
         "纪录片"
       ]
     },
+/*
+    {
+      "key": "cjzy_暴风资源",
+      "name": "暴风┃资源",
+                        "type": 1,
+                              "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+                                    "playUrl": "",
+                                          "categories": [
+                                                  "国产剧",
+                                                          "国产动漫",
+                                                                  "大陆综艺",
+                                                                          "港台综艺",
+                                                                                  "香港剧",
+                                                                                          "台湾剧",
+                                                                                                  "日本剧",
+                                                                                                          "欧美剧",
+                                                                                                                  "泰国剧",
+                                                                                                                          "日本动漫",
+                                                                                                                                  "日本综艺",
+                                                                                                                                          "综艺频道",
+                                                                                                                                                  "新马泰综艺",
+                                                                                                                                                          "纪录片",
+                                                                                                                                                                  "科幻片",
+                                                                                                                                                                          "喜剧片",
+                                                                                                                                                                                  "战争片"
+                                                                                                                                                                                        ]
+                                                                                                                                                                                            },
+*/
     {
       "key": "厂长",
       "name": "厂长┃资源",
