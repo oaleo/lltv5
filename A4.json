@@ -134,7 +134,7 @@
       "name": "VOF┃资源",
       "type": 3,
       "api": "csp_Voflix",
-      "jar":"https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"
+      "jar": "https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
