@@ -187,6 +187,7 @@
       "api": "https://app.bfzyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "categories": [
+        "今日更新",
         "国产剧",
         "香港剧",
         "台湾剧",
