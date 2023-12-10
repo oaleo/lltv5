@@ -179,7 +179,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    
+/*
     {
       "key": "暴风采集",
       "name": "暴风┃资源",
@@ -187,7 +187,6 @@
       "api": "https://app.bfzyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "categories": [
-        "今日更新",
         "国产剧",
         "香港剧",
         "台湾剧",
@@ -212,15 +211,16 @@
         "新马泰综艺"
       ]
     },
-/*
+*/
     {
       "key": "cjzy_暴风资源",
       "name": "暴风┃资源",
-                        "type": 1,
-                              "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-                                    "playUrl": "",
-                                          "categories": [
-                                                  "国产剧",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "categories": [
+      "今日更新",
+      "国产剧",
                                                           "国产动漫",
                                                                   "大陆综艺",
                                                                           "港台综艺",
@@ -239,7 +239,6 @@
                                                                                                                                                                                   "战争片"
                                                                                                                                                                                         ]
                                                                                                                                                                                             },
-*/
     {
       "key": "厂长",
       "name": "厂长┃资源",
