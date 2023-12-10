@@ -217,7 +217,7 @@
       "name": "暴风┃资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://bfzyplayer.com/player/?url=",
+      "playUrl": "",
       "categories": [
       "国产剧",
                                                           "国产动漫",
