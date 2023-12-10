@@ -18,14 +18,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
-    {
-      "key": "豪华资源",
-      "name": "豪华┃资源",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
 /*
     {
       "key": "玩偶哥哥",
@@ -67,6 +59,72 @@
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
+       {
+               "key": "豪华资源",
+                     "name": "豪华┃资源",
+                           "type": 1,
+                                 "api": "https://hhzyapi.com/api.php/provide/vod/",
+                                       "searchable": 1,
+                                             "quickSearch": 1,
+                                                   "categories": [
+                                                         "内地剧",
+                                                               "香港剧",
+                                                                     "欧美剧",
+                                                                           "韩剧",
+                                                                                 "日剧",
+                                                                                       "马泰剧",
+                                                                                             "台湾剧",
+                                                                                                   "动作片",
+                                                                                                         "喜剧片",
+                                                                                                               "科幻片",
+                                                                                                                     "战争片",
+                                                                                                                           "爱情片",
+                                                                                                                                 "灾难片",
+                                                                                                                                       "悬疑片",
+                                                                                                                                             "犯罪片",
+                                                                                                                                                   "剧情片",
+                                                                                                                                                         "纪录片",
+                                                                                                                                                               "动画片",
+                                                                                                                                                                     "中国动漫",
+                                                                                                                                                                           "日本动漫",
+                                                                                                                                                                                 "欧美动漫",
+                                                                                                                                                                                       "大陆综艺",
+                                                                                                                                                                                             "日韩综艺",
+                                                                                                                                                                                                   "港台综艺",
+                                                                                                                                                                                                         "欧美综艺"
+                                                                                                                                                                                                             ]
+                                                                                                                                                                                                                 },
+        {
+                "key": "暴风采集",
+                      "name": "暴风┃资源",
+                            "type": 1,
+                                  "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+                                        "playUrl": "",
+                                              "categories": [
+                                                      "国产剧",
+                                                              "香港剧",
+                                                                      "台湾剧",
+                                                                              "日本剧",
+                                                                                      "韩国剧",
+                                                                                              "欧美剧",
+                                                                                                      "泰国剧",
+                                                                                                              "动作片",
+                                                                                                                      "喜剧片",
+                                                                                                                              "科幻片",
+                                                                                                                                      "剧情片",
+                                                                                                                                              "爱情片",
+                                                                                                                                                      "恐怖片",
+                                                                                                                                                              "战争片",
+                                                                                                                                                                      "纪录片",
+                                                                                                                                                                              "国产动漫",
+                                                                                                                                                                                      "日本动漫",
+                                                                                                                                                                                              "综艺频道",
+                                                                                                                                                                                                      "大陆综艺",
+                                                                                                                                                                                                              "港台综艺",
+                                                                                                                                                                                                                      "日本综艺",
+                                                                                                                                                                                                                              "新马泰综艺"
+                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                        },
     {
       "key": "Czsapp",
       "name": "厂长┃资源",
