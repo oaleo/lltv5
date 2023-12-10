@@ -958,12 +958,12 @@
 
 //以下需肥猫适配
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-/*
     {
       "key": "蓝猫动漫",
       "name": "蓝猫┃动漫",
       "type": 3,
       "api": "csp_Panda",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
       "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     },
     {
@@ -971,9 +971,9 @@
       "name": "樱花┃动漫",
       "type": 3,
       "api": "csp_Panda",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
-*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
