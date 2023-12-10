@@ -38,6 +38,14 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
+        {
+                "key":"drpy_js_腾云驾雾",
+                      "name":"腾讯┃(官)",
+                            "type":3,
+                                  "playerType":2,
+                                        "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+                                              "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"
+                                                  },
     {
       "key": "迷你",
       "name": "迷你┃App",
