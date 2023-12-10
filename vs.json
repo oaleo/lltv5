@@ -1298,27 +1298,6 @@
 //解析
 "parses": [
     {
-      "name": "聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-  
-    {
-      "name": "玩偶",
-      "type": 0,
-      "url": "http://api.888484.xyz/jiexi/米太硬.php?url="
-    },
-    {
       "name": "罗罗精选1",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
