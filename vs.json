@@ -319,126 +319,7 @@
       ]
     },
 */
-
-
-
-
-
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "49zy",
-      "name": "49┃资源",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "纪录片",
-        "欧美剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片",
-        "动画片",
-        "犯罪片",
-        "韩国剧",
-        "动漫",
-        "电影",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
-        "日剧",
-        "电影解说",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "体育赛事",
-        "海外剧"
-      ]
-    },
-    {
-      "key": "js_555",
-      "name": "555┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/555.js"
-    },
-    {
-      "key": "1080资源",
-      "name": "1080┃资源",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "*CK资源",
-      "name": "Ck┃资源",
-      "type": 1,
-      "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
-    },
-    {
-      "key": "Libvio",
-      "name": "Lib┃资源",
-      "type": 3,
-      "playerType": "1",
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/LIBVIO.js"
-    },
-/*
-    {
-      "key": "Lib",
-      "name": "利播┃直连",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pro/"
-    },
-*/
-    {
-      "key": "Vofl",
-      "name": "VOF┃资源",
-      "type": 3,
-      "api": "csp_Voflix",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "bttwo",
-      "name": "BTtwo┃资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/两个BT.js"
-    },
-
-
 
 
 
@@ -454,6 +335,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+    },
+    {
+      "key": "Kanj",
+      "name": "西瓜┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": ""
     },
     {
       "key": "荐片",
@@ -545,17 +437,6 @@
 
 //以下需适配
 //"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "Kanj",
-      "name": "西瓜┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
-    },
     {
       "key": "迷你",
       "name": "迷你┃资源",
