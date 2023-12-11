@@ -316,16 +316,6 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/%E5%98%89%E9%9D%93.js"
     },
     {
-      "key": "Vofl",
-      "name": "VOF┃资源",
-      "type": 3,
-      "api": "csp_Voflix",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "js_影探",
       "name": "影探┃资源",
       "type": 3,
@@ -387,6 +377,16 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
+    },
+    {
+      "key": "Vofl",
+      "name": "VOF┃资源",
+      "type": 3,
+      "api": "csp_Voflix",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "js_555",
