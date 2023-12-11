@@ -151,7 +151,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "非凡2┃资源",
+      "name": "非凡┃资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -159,6 +159,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+/*
     {
       "key": "csp_非凡资源",
       "name": "非凡┃资源",
@@ -196,6 +197,7 @@
         "欧美综艺"
       ]
     },
+*/
     {
       "key": "量子资源",
       "name": "量子┃资源",
