@@ -327,7 +327,7 @@
       "key": "app_轻简",
       "name": "轻简┃资源",
       "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/"
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
