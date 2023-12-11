@@ -251,15 +251,6 @@
       "api": "https://kuaiyun-api.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
-    },
-    /*{
-      "key": "快云资源",
-      "name": "快云┃资源",
-      "type": 1,
-      "api": "https://kuaiyun-api.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 0,
       "categories": [
         "国产剧",
@@ -276,7 +267,6 @@
         "纪录片"
       ]
     },
-    */
     {
       "key": "app_轻简",
       "name": "轻简┃资源",
