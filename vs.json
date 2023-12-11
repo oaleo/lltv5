@@ -64,7 +64,6 @@
       "name": "暴风┃资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-//备用:"api": "https://app.bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
