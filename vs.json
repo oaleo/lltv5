@@ -268,26 +268,6 @@
       ]
     },
     {
-      "key": "app_轻简",
-      "name": "轻简┃资源",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key":"卧龙资源",
-      "name":"卧龙┃资源",
-      "type":1,
-      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
       "key": "zy_新浪资源",
       "name": "新浪┃资源",
       "type": 1,
@@ -317,6 +297,28 @@
         "体育"
       ]
     },
+/*
+    {
+      "key": "app_轻简",
+      "name": "轻简┃资源",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key":"卧龙资源",
+      "name":"卧龙┃资源",
+      "type":1,
+      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+*/
 
 
 
