@@ -10,7 +10,7 @@
   
     {
       "key": "豪华资源",
-      "name": "👇点首页切换资源，首选电信网络",
+      "name": "👇点主页切换影视源，首选电信网络",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
