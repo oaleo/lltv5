@@ -203,111 +203,6 @@
         "战争片"
       ]
     },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下无需适配
-    {
-      "key": "js_nangua",
-      "name": "南瓜┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
-    },
-    {
-      "key": "荐片",
-      "name": "荐片┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
-    },
-    {
-      "key": "飞云",
-      "name": "飞云┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
-    },
-    
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需影音天堂适配
-    {
-      "key": "Vofl",
-      "name": "VOF┃资源",
-      "type": 3,
-      "api": "csp_Voflix",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "耐落",
-      "name": "耐落┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "ext": {
-      "线路数组": "data-dropdown-value=&&</div>",
-      "播放数组": "<div class=\"scroll-content&&</div>",
-      "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
-      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
-      "分类": "电影$1#剧集$2#综艺$4#动漫$3"
-    }
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "影视范┃资源",
-      "type": 3,
-      "api": "csp_AppMr",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-    {
-      "key": "厂长",
-      "name": "厂长┃资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
-    },
-/*
-    {
-      "key": "Czsapp",
-      "name": "厂长┃资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://czz9.com/"
-    },
-*/
-
-
-    
-    {
-      "key": "视界",
-      "name": "嘉靓┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/%E5%98%89%E9%9D%93.js"
-    },
     {
       "key": "快云资源",
       "name": "快云┃资源",
@@ -332,131 +227,6 @@
       ]
     },
     {
-      "key": "js_影探",
-      "name": "影探┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/侦探.js"
-    },
-    {
-      "key": "云播",
-      "name": "云播┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": {
-        "影片类型": "分类：&&主演",
-        "导演": "导演：</span>&&</p>",
-        "主演": "主演：</span>&&</p>",
-        "简介": "class=\"sketch content\">&&</span>",
-        "数组": "myui-vodlist__thumb&&</a>",
-        "标题": "title=\"&&\"",
-        "副标题": "pic-tag pic-tag-top\">&&</span>",
-        "图片": "data-original=\"&&\"",
-        "链接": "href=\"&&\"",
-        "搜索模式": "1",
-        "搜索url": "http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-        "搜索二次截取": "\"list\":[&&]",
-        "搜索数组": "{&&}",
-        "搜索标题": "\"name\":\"&&\"",
-        "搜索图片": "\"pic\":\"&&\"",
-        "搜索链接": "http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html",
-        "嗅探词": ".m3u8#mp4",
-        "线路数组": "</a><h3&&/h3>",
-        "线路标题": "title\">&&<",
-        "播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
-        "播放标题": ">&&<",
-        "播放列表": "<a&&/a>",
-        "分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-    {
-      "key": "淘剧",
-      "name": "淘剧┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": {
-        "主页url": "http://dyxz.tv",
-        "数组": "<div class=\"stui-vodlist__box\">&&</div>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": "v3.toutiaovod.com#.m3u8#.mp4#/tos/",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索url": "http://dyxz.tv/search.php;post;searchword={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "<a data-toggle=\"tab\"&&/a>",
-        "线路标题": ">&&<",
-        "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
-        "影片年代": "年份：&&</p>",
-        "影片地区": "地区：&&<span",
-        "影片类型": "类型：&&</a>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "更新：&&</p>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
-    {
-      "key": "黑狐",
-      "name": "黑狐┃资源",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
-      "api": "csp_XBPQ",
-      "ext": {
-        "站名": "黑狐影院",
-        "主页url": "http://fagmn.com",
-        "数组": "class=\"stui-vodlist__box\"&&</a",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-        "过滤词": "/hls/#php",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-        "线路标题": ">&&<",
-        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-        "状态": "地区：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "简介：&&</div>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-      }
-    },
-    {
       "key": "app_轻简",
       "name": "轻简┃资源",
       "type": 1,
@@ -468,44 +238,7 @@
         "动漫"
       ]
     },
-    {
-      "key":"卧龙资源",
-      "name":"卧龙┃资源",
-      "type":1,
-      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
-      "key": "zy_新浪资源",
-      "name": "新浪┃资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    },
+    
     {
       "key": "csp_非凡资源",
       "name": "非凡┃资源",
@@ -615,16 +348,6 @@
       ]
     },
     {
-      "key": "js_555",
-      "name": "555┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/555.js"
-    },
-    {
       "key": "1080资源",
       "name": "1080┃资源",
       "type": 0,
@@ -642,6 +365,126 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
+    },
+    {
+      "key":"卧龙资源",
+      "name":"卧龙┃资源",
+      "type":1,
+      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key": "zy_新浪资源",
+      "name": "新浪┃资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "综艺",
+        "纪录片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "体育"
+      ]
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下无需适配
+    {
+      "key": "js_nangua",
+      "name": "南瓜┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+    },
+    {
+      "key": "荐片",
+      "name": "荐片┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
+    },
+    {
+      "key": "飞云",
+      "name": "飞云┃资源",
+      "type": 3,
+      "playerType":2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
+    },
+    {
+      "key": "厂长",
+      "name": "厂长┃资源",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
+    },
+/*
+    {
+      "key": "Czsapp",
+      "name": "厂长┃资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://czz9.com/"
+    },
+*/
+    {
+      "key": "视界",
+      "name": "嘉靓┃资源",
+      "type": 3,
+      "playerType":2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/%E5%98%89%E9%9D%93.js"
+    },
+    {
+      "key": "js_影探",
+      "name": "影探┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/侦探.js"
+    },
+    {
+      "key": "js_555",
+      "name": "555┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/555.js"
     },
     {
       "key": "Libvio",
@@ -663,8 +506,6 @@
       "ext": "https://www.libvio.pro/"
     },
 */
-    
-    
     {
       "key": "bttwo",
       "name": "BTtwo┃资源",
@@ -673,6 +514,58 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/两个BT.js"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需影音天堂适配
+    {
+      "key": "Vofl",
+      "name": "VOF┃资源",
+      "type": 3,
+      "api": "csp_Voflix",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "耐落",
+      "name": "耐落┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "ext": {
+      "线路数组": "data-dropdown-value=&&</div>",
+      "播放数组": "<div class=\"scroll-content&&</div>",
+      "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
+      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+      "分类": "电影$1#剧集$2#综艺$4#动漫$3"
+    }
+    },
+    {
+      "key": "csp_AppMr",
+      "name": "影视范┃资源",
+      "type": 3,
+      "api": "csp_AppMr",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
     
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -836,17 +729,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://haozhansou.com/"
-    },
-    {
-      "key": "快影",
-      "name": "快影┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
     },
     {
       "key": "csp_Bttoo",
@@ -1203,6 +1085,121 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#B站$50#纪录片$5#体育$56",
         "筛选": "1",
         "免嗅": "1"
+      }
+    },
+      {
+      "key": "云播",
+      "name": "云播┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": {
+        "影片类型": "分类：&&主演",
+        "导演": "导演：</span>&&</p>",
+        "主演": "主演：</span>&&</p>",
+        "简介": "class=\"sketch content\">&&</span>",
+        "数组": "myui-vodlist__thumb&&</a>",
+        "标题": "title=\"&&\"",
+        "副标题": "pic-tag pic-tag-top\">&&</span>",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索模式": "1",
+        "搜索url": "http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+        "搜索二次截取": "\"list\":[&&]",
+        "搜索数组": "{&&}",
+        "搜索标题": "\"name\":\"&&\"",
+        "搜索图片": "\"pic\":\"&&\"",
+        "搜索链接": "http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html",
+        "嗅探词": ".m3u8#mp4",
+        "线路数组": "</a><h3&&/h3>",
+        "线路标题": "title\">&&<",
+        "播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
+        "播放标题": ">&&<",
+        "播放列表": "<a&&/a>",
+        "分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "淘剧",
+      "name": "淘剧┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "ext": {
+        "主页url": "http://dyxz.tv",
+        "数组": "<div class=\"stui-vodlist__box\">&&</div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "嗅探词": "v3.toutiaovod.com#.m3u8#.mp4#/tos/",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索url": "http://dyxz.tv/search.php;post;searchword={wd}",
+        "搜索模式": "1",
+        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索后缀": "/view/",
+        "线路数组": "<a data-toggle=\"tab\"&&/a>",
+        "线路标题": ">&&<",
+        "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
+        "影片年代": "年份：&&</p>",
+        "影片地区": "地区：&&<span",
+        "影片类型": "类型：&&</a>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "更新：&&</p>",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "免嗅": "0",
+        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+      }
+    },
+    {
+      "key": "黑狐",
+      "name": "黑狐┃资源",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "黑狐影院",
+        "主页url": "http://fagmn.com",
+        "数组": "class=\"stui-vodlist__box\"&&</a",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "嗅探词": ".m3u8#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+        "过滤词": "/hls/#php",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+        "搜索模式": "1",
+        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索后缀": "/view/",
+        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+        "线路标题": ">&&<",
+        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+        "状态": "地区：&&</p>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "简介：&&</div>",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "免嗅": "0",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
 
