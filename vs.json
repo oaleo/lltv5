@@ -135,6 +135,16 @@
     },
 */    
     {
+      "key": "js_nangua",
+      "name": "南瓜┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+    },
+    {
       "key": "索尼资源",
       "name": "索尼┃资源",
       "type": 1,
@@ -478,16 +488,7 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
-    {
-      "key": "js_nangua",
-      "name": "南瓜┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
-    },
+    
     {
       "key": "荐片",
       "name": "荐片┃资源",
