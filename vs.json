@@ -1683,7 +1683,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://codeberg.org/ll8000/jav/raw/branch/main/live.txt",
+		    "url": "https://jihulab.com/sy555/by/-/raw/main/live.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
