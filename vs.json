@@ -557,16 +557,6 @@
       "分类": "电影$1#剧集$2#综艺$4#动漫$3"
     }
     },
-    {
-      "key": "csp_AppMr",
-      "name": "影视范┃资源",
-      "type": 3,
-      "api": "csp_AppMr",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
 
 
@@ -910,6 +900,16 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
 */
+    {
+      "key": "csp_AppMr",
+      "name": "影视范┃资源",
+      "type": 3,
+      "api": "csp_AppMr",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "Auete",
       "name": "奥特┃直连",
