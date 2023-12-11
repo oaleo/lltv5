@@ -10,7 +10,7 @@
 
 
 "sites":[
-         
+/*         
    {
       "key": "豆瓣",
       "name": "👇点首页切换影视源",
@@ -21,6 +21,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
+*/
     {
       "key": "js_nangua",
       "name": "南瓜┃App",
@@ -31,28 +32,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
-    {
-      "key": "一起看 ",
-      "name": "一起┃App",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-/*
-    {
-      "key": "csp_YQKAPP",
-      "name": "一起┃App",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api-aws.11ty.top"
-    },
-*/
+
     {
       "key": "荐片",
       "name": "荐片┃App",
@@ -808,7 +788,27 @@
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
     },
+        {
+      "key": "一起看 ",
+      "name": "一起看┃资源",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 /*
+    {
+      "key": "csp_YQKAPP",
+      "name": "一起┃App",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api-aws.11ty.top"
+    },
     {
       "key": "南瓜",
       "name": "南瓜┃App",
@@ -1125,12 +1125,13 @@
       "changeable": 1,
       "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
     },
-/*
+
     {
       "key": "csp_荐片T4",
       "name": "荐片┃资源",
       "type": 1,
       "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1140,6 +1141,7 @@
       "name": "鸡婆┃资源",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1153,6 +1155,7 @@
       "name": "O.Sir┃资源",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1166,6 +1169,7 @@
       "name": "土豪┃资源",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1189,6 +1193,7 @@
       "name": "鸭奈飞┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1199,6 +1204,7 @@
       "name": "700┃资源",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": {
         "分类url": "https://700kan.cc/DyttShow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
         "分类": "今日更新$new#电影$1#电视剧$2#动漫$4#喜剧片$6#动作片$5#科幻片$8#恐怖片$9#国产剧$12"
@@ -1284,12 +1290,13 @@
       "name": "新6V┃磁力",
       "type": 3,
       "api": "csp_SixV",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
     },
-*/
+
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "csp_KungFu404",
