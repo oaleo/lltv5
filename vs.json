@@ -135,26 +135,6 @@
     },
 */    
     {
-      "key": "hnzy",
-      "name": "红牛┃资源",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-    {
       "key": "索尼资源",
       "name": "索尼┃资源",
       "type": 1,
@@ -183,14 +163,13 @@
       ]
     },
     {
-      "key": "dmzy",
-      "name": "大漠┃资源",
+      "key": "hnzy",
+      "name": "红牛┃资源",
       "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod/",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "searchable": 1,
       "filterable": 0,
       "categories": [
-        "3D 电影",
         "欧美剧",
         "韩剧",
         "日剧",
@@ -203,42 +182,6 @@
         "战争片"
       ]
     },
-    {
-      "key": "快云资源",
-      "name": "快云┃资源",
-      "type": 1,
-      "api": "https://kuaiyun-api.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
-    },
-    {
-      "key": "app_轻简",
-      "name": "轻简┃资源",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    
     {
       "key": "csp_非凡资源",
       "name": "非凡┃资源",
@@ -303,6 +246,101 @@
       ]
     },
     {
+      "key": "dmzy",
+      "name": "大漠┃资源",
+      "type": 1,
+      "api": "https://damozy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "3D 电影",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
+    },
+    {
+      "key": "快云资源",
+      "name": "快云┃资源",
+      "type": 1,
+      "api": "https://kuaiyun-api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片"
+      ]
+    },
+    {
+      "key": "app_轻简",
+      "name": "轻简┃资源",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key":"卧龙资源",
+      "name":"卧龙┃资源",
+      "type":1,
+      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key": "zy_新浪资源",
+      "name": "新浪┃资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "综艺",
+        "纪录片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "体育"
+      ]
+    },
+    
+    {
       "key": "49zy",
       "name": "49┃资源",
       "type": 1,
@@ -366,44 +404,7 @@
       "filterable": 0,
       "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
-    {
-      "key":"卧龙资源",
-      "name":"卧龙┃资源",
-      "type":1,
-      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
-      "key": "zy_新浪资源",
-      "name": "新浪┃资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    },
+    
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     {
