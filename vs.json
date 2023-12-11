@@ -10,18 +10,7 @@
 
 
 "sites":[
-/*         
-   {
-      "key": "豆瓣",
-      "name": "👇点首页切换影视源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
-    },
-*/
+
     {
       "key": "豪华资源",
       "name": "👇点首页切换影视源",
@@ -61,20 +50,21 @@
       ]
     },
     {
-      "key": "js_nangua",
-      "name": "南瓜┃资源",
+      "key": "豆瓣",
+      "name": "豆瓣┃推荐",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
     {
       "key": "暴风资源",
       "name": "暴风┃资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+//备用:"api": "https://app.bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -111,39 +101,6 @@
         "电影解说"
       ]
     },
-/*
-    {
-      "key": "暴风采集",
-      "name": "暴风┃资源",
-      "type": 1,
-      "api": "https://app.bfzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "韩国剧",
-        "欧美剧",
-        "泰国剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "剧情片",
-        "爱情片",
-        "恐怖片",
-        "战争片",
-        "纪录片",
-        "国产动漫",
-        "日本动漫",
-        "综艺频道",
-        "大陆综艺",
-        "港台综艺",
-        "日本综艺",
-        "新马泰综艺"
-      ]
-    },
-*/    
     {
       "key": "索尼资源",
       "name": "索尼┃资源",
@@ -191,6 +148,16 @@
         "剧情片",
         "战争片"
       ]
+    },
+    {
+      "key": "csp_非凡资源",
+      "name": "非凡2┃资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_非凡资源",
@@ -475,6 +442,16 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     
+    {
+      "key": "js_nangua",
+      "name": "南瓜┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+    },
     {
       "key": "荐片",
       "name": "荐片┃资源",
