@@ -388,6 +388,7 @@
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
+/*
     {
       "key": "厂长",
       "name": "厂长┃资源",
@@ -396,7 +397,7 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
     },
-/*
+*/
     {
       "key": "Czsapp",
       "name": "厂长┃资源",
@@ -408,7 +409,7 @@
       "changeable": 1,
       "ext": "https://czz9.com/"
     },
-*/
+
     {
       "key": "视界",
       "name": "嘉靓┃资源",
