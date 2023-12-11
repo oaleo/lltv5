@@ -345,7 +345,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": ""
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
     },
     {
       "key": "荐片",
