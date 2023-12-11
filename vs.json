@@ -224,27 +224,6 @@
       ]
     },
     {
-      "key": "dmzy",
-      "name": "大漠┃资源",
-      "type": 1,
-      "api": "https://damozy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "3D 电影",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-    {
       "key": "快云资源",
       "name": "快云┃资源",
       "type": 1,
@@ -317,6 +296,27 @@
       "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable":1,
       "quickSearch":1
+    },
+    {
+      "key": "dmzy",
+      "name": "大漠┃资源",
+      "type": 1,
+      "api": "https://damozy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "3D 电影",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片"
+      ]
     },
 */
 
