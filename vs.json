@@ -98,6 +98,7 @@
       "name": "花海┃资源",
       "api": "csp_AppYs",
       "type": 3,
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
