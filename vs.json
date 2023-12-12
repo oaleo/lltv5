@@ -91,16 +91,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
-    },
-    {
-      "key": "花海",
-      "name": "花海┃资源",
-      "api": "csp_AppYs",
-      "type": 3,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#午夜$fenlei5"
     },
     {
       "key": "荐片",
@@ -480,6 +471,15 @@
 //以下需适配
 //"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
+    {
+      "key": "花海",
+      "name": "花海┃资源",
+      "api": "csp_AppYs",
+      "type": 3,
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
     {
       "key": "jptv",
       "name": "鸡婆┃资源",
