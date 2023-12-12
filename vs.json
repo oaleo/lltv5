@@ -94,6 +94,14 @@
       "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
     },
     {
+      "key": "花海",
+      "name": "花海┃资源",
+      "api": "csp_AppYs",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
+    {
       "key": "荐片",
       "name": "荐片┃资源",
       "type": 3,
