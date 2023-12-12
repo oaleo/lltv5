@@ -60,6 +60,68 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
     {
+      "key": "耐落",
+      "name": "耐落┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "ext": {
+      "线路数组": "data-dropdown-value=&&</div>",
+      "播放数组": "<div class=\"scroll-content&&</div>",
+      "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
+      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+      "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
+    },
+    {
+      "key": "js_nangua",
+      "name": "南瓜┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+    },
+    {
+      "key": "Kanj",
+      "name": "西瓜┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
+    },
+    {
+      "key": "荐片",
+      "name": "荐片┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
+    },
+    {
+      "key": "飞云",
+      "name": "飞云┃资源",
+      "type": 3,
+      "playerType":2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
+    },
+    {
+      "key": "迷你",
+      "name": "迷你┃资源",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
       "key": "暴风资源",
       "name": "暴风┃资源",
       "type": 1,
@@ -348,46 +410,7 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
-    
-    {
-      "key": "js_nangua",
-      "name": "南瓜┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
-    },
-    {
-      "key": "Kanj",
-      "name": "西瓜┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
-    },
-    {
-      "key": "荐片",
-      "name": "荐片┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
-    },
-    {
-      "key": "飞云",
-      "name": "飞云┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
-    },
+/*
     {
       "key": "厂长",
       "name": "厂长┃资源",
@@ -396,7 +419,6 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
     },
-/*
     {
       "key": "Czsapp",
       "name": "厂长┃资源",
@@ -438,20 +460,7 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需影音天堂适配
     
-    {
-      "key": "耐落",
-      "name": "耐落┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "ext": {
-      "线路数组": "data-dropdown-value=&&</div>",
-      "播放数组": "<div class=\"scroll-content&&</div>",
-      "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
-      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
-      "分类": "电影$1#剧集$2#综艺$4#动漫$3"
-    }
-    },
+    
 
 
 
@@ -460,16 +469,7 @@
 
 //以下需适配
 //"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {
-      "key": "迷你",
-      "name": "迷你┃资源",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
+    
     {
       "key": "jptv",
       "name": "鸡婆┃资源",
