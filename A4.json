@@ -192,7 +192,7 @@
       "key": "视界",
       "name": "嘉靓┃资源",
       "type": 3,
-      "playerType":2,
+      "playerType":1,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
@@ -204,7 +204,7 @@
       "name": "花海┃资源",
       "api": "csp_AppYs",
       "type": 3,
-      "playerType": "2",
+      "playerType":1,
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
     {
