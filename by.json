@@ -479,11 +479,11 @@
     
     {
       "key": "花海",
-      "name": "花海┃资源",
+      "name": "花海┃影视",
       "api": "csp_AppYs",
+      "jar": "http://小盒酷玩.fun:67/禁止贩卖",
       "type": 3,
       "playerType":1,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/%E5%B0%8F%E7%9B%92%E9%85%B7%E7%8E%A9.jar",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
     {
