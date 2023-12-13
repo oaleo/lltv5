@@ -125,6 +125,15 @@
       "changeable": 1
     },
     {
+      "key": "樱花动漫",
+      "name": "樱花┃动漫",
+      "type": 3,
+      "playerType":1,
+      "api": "csp_Panda",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
+      "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+    },
+    {
       "key": "少儿教育",
       "name": "儿童┃早教",
       "type": 3,
