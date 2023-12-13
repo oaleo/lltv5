@@ -20,7 +20,7 @@
     },
     {
       "key": "豪华资源",
-      "name": "🔥主力①🔥",
+      "name": "🔥主力①",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
@@ -59,7 +59,7 @@
     
     {
       "key": "一起看 ",
-      "name": "🔥主力②🔥",
+      "name": "🔥主力②",
       "type": 3,
       "api": "csp_YQKan",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
