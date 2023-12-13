@@ -9,8 +9,18 @@
 "sites":[ 
   
     {
-      "key": "豪华资源",
+      "key": "豆瓣",
       "name": "👇点首页切换影视源，首选电信网络",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
+    },
+    {
+      "key": "豪华资源",
+      "name": "🔥主力源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
@@ -46,16 +56,7 @@
         "欧美综艺"
       ]
     },
-    {
-      "key": "豆瓣",
-      "name": "豆瓣┃推荐",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
-    },
+    
     {
       "key": "一起看 ",
       "name": "一起看┃资源",
