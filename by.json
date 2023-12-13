@@ -623,7 +623,7 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    
+//以下无需适配
     {
       "key": "js_555",
       "name": "555┃资源",
@@ -702,6 +702,7 @@
       "name": "玩偶┃4K",
       "type": 3,
       "api": "csp_WoGG",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -712,6 +713,7 @@
       "name": "星星┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
