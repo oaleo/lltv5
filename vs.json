@@ -1,16 +1,13 @@
+//全部数据来自网络和各大佬资源整合
+//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
+
 {
-  "spider": "https://jihulab.com/sy555/vs/-/raw/main/jar/fan.txt;md5;1f58870cbfc2419c6fdd6c8a071bd800",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-/*
-{
-"spider":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
-"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
-"warningText":"友情提示：勿信视频中任何广告！不定期更新",
-*/
+
+"warningText":"友情提示：勿信视频中任何广告！定期更新！",    
 
 
-"sites":[
-
+"sites":[ 
+  
     {
       "key": "豪华资源",
       "name": "👇点首页切换影视源，首选电信网络",
@@ -87,7 +84,7 @@
       "name": "西瓜┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -431,17 +428,26 @@
       "changeable": 1,
       "ext": "https://czz9.com/"
     },
-*/
+
     {
       "key": "视界",
       "name": "嘉靓┃资源",
       "type": 3,
-      "playerType":2,
+      "playerType":1,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/%E5%98%89%E9%9D%93.js"
+    },
+*/
+    {
+      "key": "js_v2-jrly",
+      "name": "嘉靓┃资源",
+      "type": 3,
+      "playerType":1,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
     },
     {
       "key": "js_影探",
@@ -473,11 +479,11 @@
     
     {
       "key": "花海",
-      "name": "花海┃资源",
+      "name": "花海┃影视",
       "api": "csp_AppYs",
+      "jar": "http://小盒酷玩.fun:67/禁止贩卖",
       "type": 3,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
+      "playerType":1,
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
     {
@@ -594,7 +600,7 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
-/*
+
     {
       "key": "OXS",
       "name": "O.Sir┃资源",
@@ -609,46 +615,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
-    {
-      "key": "淘剧",
-      "name": "淘剧┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": {
-        "主页url": "http://dyxz.tv",
-        "数组": "<div class=\"stui-vodlist__box\">&&</div>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "嗅探词": "v3.toutiaovod.com#.m3u8#.mp4#/tos/",
-        "副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索url": "http://dyxz.tv/search.php;post;searchword={wd}",
-        "搜索模式": "1",
-        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-        "搜索后缀": "/view/",
-        "线路数组": "<a data-toggle=\"tab\"&&/a>",
-        "线路标题": ">&&<",
-        "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
-        "影片年代": "年份：&&</p>",
-        "影片地区": "地区：&&<span",
-        "影片类型": "类型：&&</a>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "更新：&&</p>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "免嗅": "0",
-        "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
-*/
+
 
 
 
@@ -656,7 +623,7 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    
+//以下无需适配
     {
       "key": "js_555",
       "name": "555┃资源",
@@ -735,6 +702,7 @@
       "name": "玩偶┃4K",
       "type": 3,
       "api": "csp_WoGG",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -745,6 +713,7 @@
       "name": "星星┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -755,6 +724,7 @@
       "name": "极狐┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -766,6 +736,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -776,6 +747,7 @@
       "name": "七七┃资源",
       "type": 3,
       "api": "csp_Kunyu77",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -785,6 +757,7 @@
       "name": "瑞丰┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
@@ -792,6 +765,7 @@
       "name": "南坊┃资源",
       "type": 3,
       "api": "csp_AppMao",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -802,6 +776,7 @@
       "name": "繁星┃资源",
       "type": 3,
       "api": "csp_AppMao",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -813,6 +788,7 @@
       "name": "低端┃资源",
       "type": 3,
       "api": "csp_Ddrk",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -822,6 +798,7 @@
       "name": "一起看┃资源",
       "type": 3,
       "api": "csp_YQKan",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -883,6 +860,7 @@
       "name": "奥特┃直连",
       "type": 3,
       "api": "csp_Auete",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -893,6 +871,7 @@
       "name": "比特┃直连",
       "type": 3,
       "api": "csp_Bttwoo",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -902,6 +881,7 @@
       "name": "在线┃直连",
       "type": 3,
       "api": "csp_Zxzj",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -912,6 +892,7 @@
       "name": "毛驴┃直连",
       "type": 3,
       "api": "csp_MLYS",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -922,6 +903,7 @@
       "name": "视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -932,6 +914,7 @@
       "name": "可乐┃直连",
       "type": 3,
       "api": "csp_Cokemv",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -1017,6 +1000,7 @@
       "name": "动漫┃巴士",
       "type": 3,
       "api": "csp_Dm84",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1026,6 +1010,7 @@
       "name": "日本┃动漫",
       "type": 3,
       "api": "csp_Anime1",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1035,20 +1020,22 @@
 //以下需肥猫适配
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "蓝猫动漫",
-      "name": "蓝猫┃动漫",
-      "type": 3,
-      "api": "csp_Panda",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
-      "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
-    },
-    {
       "key": "樱花动漫",
       "name": "樱花┃动漫",
       "type": 3,
+      "playerType":1,
       "api": "csp_Panda",
       "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+    },
+    {
+      "key": "蓝猫动漫",
+      "name": "蓝猫┃动漫",
+      "type": 3,
+      "playerType":1,
+      "api": "csp_Panda",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
+      "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1058,6 +1045,7 @@
       "name": "急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1071,6 +1059,7 @@
       "name": "少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1085,6 +1074,7 @@
       "name": "小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1099,6 +1089,7 @@
       "name": "初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1113,6 +1104,7 @@
       "name": "高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1196,7 +1188,7 @@
 ],
 
 
-//解析
+//解析~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "parses": [
     {
       "name": "罗罗精选1",
@@ -1582,5 +1574,4 @@
 
 
 "ads":["https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","wan.51img1.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
-
 }
