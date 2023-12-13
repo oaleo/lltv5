@@ -114,7 +114,7 @@
       "name": "迷你┃资源",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
@@ -428,17 +428,26 @@
       "changeable": 1,
       "ext": "https://czz9.com/"
     },
-*/
+
     {
       "key": "视界",
       "name": "嘉靓┃资源",
       "type": 3,
-      "playerType":2,
+      "playerType":1,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/%E5%98%89%E9%9D%93.js"
+    },
+*/
+    {
+      "key": "js_v2-jrly",
+      "name": "嘉靓┃资源",
+      "type": 3,
+      "playerType":1,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
     },
     {
       "key": "js_影探",
@@ -473,8 +482,8 @@
       "name": "花海┃资源",
       "api": "csp_AppYs",
       "type": 3,
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "playerType": "2",
+      "playerType":1,
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/%E5%B0%8F%E7%9B%92%E9%85%B7%E7%8E%A9.jar",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
     {
