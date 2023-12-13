@@ -57,6 +57,16 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
     {
+      "key": "一起看 ",
+      "name": "一起看┃资源",
+      "type": 3,
+      "api": "csp_YQKan",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "飞云",
       "name": "飞云┃资源",
       "type": 3,
@@ -83,7 +93,7 @@
       "name": "西瓜┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -102,7 +112,7 @@
       "name": "迷你┃资源",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
@@ -793,16 +803,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "一起看 ",
-      "name": "一起看┃资源",
-      "type": 3,
-      "api": "csp_YQKan",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
 /*
     {
       "key": "csp_YQKAPP",
