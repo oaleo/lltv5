@@ -600,7 +600,7 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
-
+/*
     {
       "key": "OXS",
       "name": "O.Sir┃资源",
@@ -615,7 +615,7 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
-
+*/
 
 
 
