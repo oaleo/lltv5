@@ -20,7 +20,7 @@
     },
     {
       "key": "豪华资源",
-      "name": "🔥主力源🔥",
+      "name": "🔥主力①🔥",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
@@ -59,7 +59,7 @@
     
     {
       "key": "一起看 ",
-      "name": "🔥主力源🔥",
+      "name": "🔥主力②🔥",
       "type": 3,
       "api": "csp_YQKan",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
@@ -67,6 +67,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
+/*
     {
       "key": "南瓜",
       "name": "南瓜┃资源",
@@ -78,10 +79,10 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
+*/
     {
       "key": "js_nangua",
-      "name": "南瓜2┃资源",
+      "name": "南瓜┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
