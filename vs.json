@@ -67,18 +67,6 @@
       "changeable": 1
     },
     {
-      "key": "飞云",
-      "name": "飞云┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
-    },
-    
-    {
       "key": "js_nangua",
       "name": "南瓜┃资源",
       "type": 3,
@@ -100,12 +88,15 @@
       "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#午夜$fenlei5"
     },
     {
-      "key": "荐片",
-      "name": "荐片┃资源",
+      "key": "飞云",
+      "name": "飞云┃资源",
       "type": 3,
-      "playerType":1,
+      "playerType":2,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
     {
       "key": "迷你",
@@ -116,6 +107,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
+      "key": "荐片",
+      "name": "荐片┃资源",
+      "type": 3,
+      "playerType":1,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需影音天堂适配
@@ -142,6 +141,12 @@
       "quickSearch": 1,
       "filterable": 1
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下无需适配
     {
       "key": "暴风资源",
       "name": "暴风┃资源",
@@ -425,12 +430,6 @@
       "searchable":1,
       "quickSearch":1
     },
-
-
-
-
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下无需适配
     {
       "key": "厂长",
       "name": "厂长┃资源",
@@ -460,7 +459,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
     },
-
 /*
     {
       "key": "视界",
@@ -486,16 +484,13 @@
       "ext": "https://czz9.com/"
     },
 */
-    
-    
-    
-    
-
-
-
-//以下需适配
-//"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",或"jar": "http://小盒酷玩.fun:67/禁止贩卖",
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
+    
+    
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  b.jar或"jar": "http://小盒酷玩.fun:67/禁止贩卖",
+
     
     {
       "key": "花海",
@@ -620,6 +615,28 @@
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
+/*
+    {
+      "key": "OXS",
+      "name": "O.Sir┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+*/
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  pg.jar
     {
       "key": "csp_beijihu",
       "name": "极狐┃资源",
@@ -643,24 +660,7 @@
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
-/*
-    {
-      "key": "OXS",
-      "name": "O.Sir┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-*/
-
-
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -733,13 +733,12 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/两个BT.js"
     },
-
-
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需饭总适配
+//以下需适配  fty.jar
     {
       "key": "玩偶哥哥",
       "name": "玩偶┃4K",
@@ -813,9 +812,6 @@
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
     },
-    
-
-    
 /*
     {
       "key": "csp_YQKAPP",
@@ -928,8 +924,6 @@
     
 
 
-
-
     {
       "key": "js_6V",
       "name": "6V┃磁力",
@@ -964,6 +958,11 @@
      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/6Vip.json"
     },
 */
+
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  spider.txt
     {
       "key": "XYQH_电影港",
       "name": "港口┃磁力",
@@ -986,8 +985,6 @@
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
-
-
 
 
     {
@@ -1021,8 +1018,9 @@
     },
 
 
-//以下需肥猫适配
+
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  PandaQ231205.jar
     {
       "key": "樱花动漫",
       "name": "樱花┃动漫",
@@ -1044,6 +1042,9 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  fty.jar
     {
       "key": "Aid",
       "name": "急救┃教学",
@@ -1118,6 +1119,10 @@
       "changeable": 0,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/高中课堂.json"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
     {
       "key": "drpy_js_360影视",
       "name": "360┃(官)",
@@ -1174,11 +1179,6 @@
       "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"
     },
-    
-
-
-
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "csp_KungFu404",
       "name": "阿里云┃设置",
@@ -1190,6 +1190,7 @@
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/alibaba.jar"
     }
 ],
+
 
 
 //解析~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
