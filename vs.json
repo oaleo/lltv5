@@ -93,7 +93,7 @@
       "name": "西瓜┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -112,7 +112,7 @@
       "name": "迷你┃资源",
       "type": 3,
       "api": "csp_AppYs",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
@@ -131,6 +131,16 @@
       "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
       "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
       "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
+    },
+    {
+      "key": "csp_AppMr",
+      "name": "影视范┃资源",
+      "type": 3,
+      "api": "csp_AppMr",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "暴风资源",
@@ -712,7 +722,7 @@
       "name": "玩偶┃4K",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -723,7 +733,7 @@
       "name": "星星┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -734,7 +744,7 @@
       "name": "极狐┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -746,7 +756,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -757,7 +767,7 @@
       "name": "七七┃资源",
       "type": 3,
       "api": "csp_Kunyu77",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -767,7 +777,7 @@
       "name": "瑞丰┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
@@ -775,7 +785,7 @@
       "name": "南坊┃资源",
       "type": 3,
       "api": "csp_AppMao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -786,7 +796,7 @@
       "name": "繁星┃资源",
       "type": 3,
       "api": "csp_AppMao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -798,7 +808,7 @@
       "name": "低端┃资源",
       "type": 3,
       "api": "csp_Ddrk",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -846,22 +856,13 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
 */
-    {
-      "key": "csp_AppMr",
-      "name": "影视范┃资源",
-      "type": 3,
-      "api": "csp_AppMr",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "Auete",
       "name": "奥特┃直连",
       "type": 3,
       "api": "csp_Auete",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -872,7 +873,7 @@
       "name": "比特┃直连",
       "type": 3,
       "api": "csp_Bttwoo",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -882,7 +883,7 @@
       "name": "在线┃直连",
       "type": 3,
       "api": "csp_Zxzj",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -893,7 +894,7 @@
       "name": "毛驴┃直连",
       "type": 3,
       "api": "csp_MLYS",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -904,7 +905,7 @@
       "name": "视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -915,7 +916,7 @@
       "name": "可乐┃直连",
       "type": 3,
       "api": "csp_Cokemv",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -1001,7 +1002,7 @@
       "name": "动漫┃巴士",
       "type": 3,
       "api": "csp_Dm84",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -1011,7 +1012,7 @@
       "name": "日本┃动漫",
       "type": 3,
       "api": "csp_Anime1",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1046,7 +1047,7 @@
       "name": "急救┃教学",
       "type": 3,
       "api": "csp_FirstAid",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -1060,7 +1061,7 @@
       "name": "少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1075,7 +1076,7 @@
       "name": "小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1090,7 +1091,7 @@
       "name": "初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1105,7 +1106,7 @@
       "name": "高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
