@@ -48,33 +48,13 @@
     },
     {
       "key": "js_nangua",
-      "name": "CM┃资源",
+      "name": "NG┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/changmeng.js"
-    },
-    {
-      "key": "hnzy",
-      "name": "HN┃资源",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
     {
       "key": "*CK资源",
@@ -144,6 +124,32 @@
       "searchable": 0,
       "quickSearch": 0
     },
+    {
+      "key": "csp_xBPQ_91色",
+      "name": "🔞91色",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/91色.json",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xb.jar"
+    },
+    {
+      "key":"西瓜影院_XBPQ",
+      "name":"🔞西瓜影院",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{"简介":"&&","副标题":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&",
+      "线路数组":"data-parent=&&","\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+title=\"&&\"",
+      "分类url":"https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/",
+      "分类":"福利&主播自拍&国产精品&日本精品&中文字幕&欧美精品","分类值":"49&50&51&53&54&55"
+      }
+    },
+    
 
 
     
