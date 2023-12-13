@@ -47,6 +47,16 @@
       ]
     },
     {
+      "key": "一起看 ",
+      "name": "🔥主力源🔥",
+      "type": 3,
+      "api": "csp_YQKan",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "js_nangua",
       "name": "南瓜┃资源",
       "type": 3,
@@ -86,105 +96,15 @@
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
-      "key": "暴风资源",
-      "name": "暴风┃资源",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "日本剧",
-        "泰国剧",
-        "欧美剧",
-        "海外剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "战争片",
-        "爱情片",
-        "恐怖片",
-        "剧情片",
-        "纪录片",
-        "动漫片",
-        "国产动漫",
-        "港台动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "足球",
-        "篮球",
-        "斯诺克",
-        "理论片",
-        "电影解说"
-      ]
-    },
-    {
-      "key": "索尼资源",
-      "name": "索尼┃资源",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
+      "key": "js_v2-jrly",
+      "name": "嘉靓┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": [
-        "科幻片",
-        "动作片",
-        "恐怖片",
-        "纪录片",
-        "爱情片",
-        "战争片",
-        "剧情片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧"
-      ]
-    },
-    {
-      "key": "hnzy",
-      "name": "红牛┃资源",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
-    },
-    {
-      "key": "视界",
-      "name": "嘉靓┃资源",
-      "type": 3,
-      "playerType":1,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/%E5%98%89%E9%9D%93.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
     },
     {
       "key": "花海",
@@ -195,6 +115,76 @@
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
     {
+      "key": "csp_Dm84",
+      "name": "动漫┃巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "少儿教育",
+      "name": "儿童┃早教",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/高中课堂.json"
+    },
+    {
       "key": "MV_vod",
       "name": "MTV┃合集",
       "type": 1,
@@ -203,19 +193,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-/*
-    {
-      "key": "玩偶哥哥",
-      "name": "玩偶┃4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-*/
     {
       "key": "csp_KungFu404",
       "name": "阿里┃设置",
