@@ -851,6 +851,25 @@
       "ext": "./qiaoji/laohu"
     },
     {
+      "key": "河马",
+      "name": "河马┃App",
+      "type": 3,
+      "api": "csp_Hmys",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 1,
+      "ext": "https://m.jmzp.net.cn"
+    },
+    {
+      "key": "看看",
+      "name": "看看┃App",
+      "type": 3,
+      "api": "csp_KanKan",
+      "jar": "./qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "星奇",
       "name": "星奇┃App",
       "type": 3,
