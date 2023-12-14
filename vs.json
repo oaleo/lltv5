@@ -327,6 +327,18 @@
       ]
     },
     {
+      "key": "app_轻简",
+      "name": "轻简┃资源",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
       "key": "快云资源",
       "name": "快云┃资源",
       "type": 1,
@@ -390,18 +402,6 @@
         "欧美综艺",
         "电影解说",
         "体育赛事"
-      ]
-    },
-    {
-      "key": "app_轻简",
-      "name": "轻简┃资源",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
       ]
     },
     {
@@ -597,28 +597,6 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  pg.jar
-/*
-    {
-      "key": "南瓜",
-      "name": "南瓜┃资源",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "爱迪影视",
-      "name": "爱迪┃资源",
-      "type": 3,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "playerType": "2",
-      "api": "csp_AppYsV2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-*/
     {
       "key": "csp_beijihu",
       "name": "极狐┃资源",
@@ -642,6 +620,28 @@
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
+/*
+    {
+      "key": "南瓜",
+      "name": "南瓜┃资源",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "爱迪影视",
+      "name": "爱迪┃资源",
+      "type": 3,
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "playerType": "2",
+      "api": "csp_AppYsV2",
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
