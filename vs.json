@@ -79,10 +79,10 @@
     },
     {
       "key": "橘子",
-      "name": "🍊┃橘子┃影视",
+      "name": "橘子┃资源",
       "type": 3,
       "api": "csp_AppMao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
