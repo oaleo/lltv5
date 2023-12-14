@@ -175,6 +175,21 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/高中课堂.json"
     },
     {
+      "key": "兴趣课堂",
+      "name": "兴趣┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+    },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/兴趣课堂.json"
+    },
+    {
       "key": "MV_vod",
       "name": "MTV┃合集",
       "type": 1,
