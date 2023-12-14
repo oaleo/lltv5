@@ -105,6 +105,27 @@
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
     },
     {
+      "key": "樱花",
+      "name": "樱花┃动漫",
+      "type": 3,
+      "api": "csp_qiao",
+      "jar": "./qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "./qiaoji/yinghua"
+    },
+    {
+      "key": "嘶哩",
+      "name": "嘶哩┃动漫",
+      "type": 3,
+      "api": "csp_Skapp",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "./qiaoji/sili"
+    },
+    {
       "key": "csp_Dm84",
       "name": "动漫┃巴士",
       "type": 3,
