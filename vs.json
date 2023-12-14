@@ -117,17 +117,7 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
-    {
-      "key": "xifan",
-      "name": "动漫┃稀饭",
-      "type": 3,
-      "api": "csp_Xifan",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/YSZYZ.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "公众号:影视资源站"
-    },
+
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
