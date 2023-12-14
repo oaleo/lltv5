@@ -1071,8 +1071,8 @@
       "quickSearch": 0,
       "changeable": 0,
       "style": {
-        "type": "rect",
-        "ratio": 3.8
+      "type": "rect",
+      "ratio": 3.8
       }
     },
     {
@@ -1082,8 +1082,8 @@
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -1097,8 +1097,8 @@
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -1112,8 +1112,8 @@
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -1127,8 +1127,8 @@
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -1144,7 +1144,7 @@
       "style": {
       "type": "rect",
       "ratio": 1.597
-    },
+      },
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
