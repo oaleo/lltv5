@@ -1613,7 +1613,7 @@
     {
       "name": "ipv6",
       "type": 0,
-      "url": "https://jihulab.com/sy555/vs/-/raw/main/lib/ipv6.m3u",
+      "url": "https://jihulab.com/sy555/by/-/raw/main/ipv6.m3u",
       "playerType":1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
