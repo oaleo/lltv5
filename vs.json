@@ -117,17 +117,7 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
-    {
-      "key": "csp_觅知",
-      "name": "┃觅知┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/觅知影视.json"
-    },
+    
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需影音天堂适配
@@ -806,6 +796,17 @@
       "changeable": 1
     },
     {
+      "key": "csp_觅知",
+      "name": "觅知┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/觅知影视.json"
+    },
+    {
       "key": "鑫鑫影视",
       "name": "鑫鑫┃资源",
       "type": 3,
@@ -935,15 +936,6 @@
       "filterable": 1,
       "ext": "http://www.xb6v.com",
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
-      "key": "csp_SixV",
-      "name": "新6V┃4K",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "ext": "https://www.6vdy.org/",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
     },
 /*
     {
