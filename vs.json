@@ -119,9 +119,10 @@
     },
     {
       "key": "xifan",
-      "name": "动漫|稀饭",
+      "name": "动漫┃稀饭",
       "type": 3,
       "api": "csp_Xifan",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
