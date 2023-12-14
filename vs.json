@@ -834,7 +834,7 @@
       "jar": "./qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 2,
+      "playerType": 1,
       "filterable": 1,
       "ext": "./qiaoji/chaoshen"
     },
@@ -852,12 +852,12 @@
     },
     {
       "key": "星星",
-      "name": "星星┃App",
+      "name": "星奇┃App",
       "type": 3,
       "api": "csp_qiao",
       "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/xingxing"
+      "ext": "./qiaoji/xingqi"
     },
     {
       "key": "樱花",
