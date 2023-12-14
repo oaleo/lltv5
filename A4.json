@@ -115,14 +115,37 @@
       "changeable": 1
     },
     {
+      "key": "MV_vod",
+      "name": "MTV┃合集",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Aid",
+      "name": "急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 3.8
+      }
+    },
+    {
       "key": "少儿教育",
       "name": "儿童┃早教",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -136,8 +159,8 @@
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -151,8 +174,8 @@
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -166,8 +189,8 @@
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "type": "rect",
+      "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
@@ -183,20 +206,11 @@
       "style": {
       "type": "rect",
       "ratio": 1.597
-    },
+      },
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/兴趣课堂.json"
-    },
-    {
-      "key": "MV_vod",
-      "name": "MTV┃合集",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
 ],
 
