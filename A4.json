@@ -122,9 +122,9 @@
       "name": "嘶哩┃动漫",
       "type": 3,
       "api": "csp_Skapp",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/sili"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
     },
     {
       "key": "csp_Dm84",
