@@ -98,8 +98,9 @@
     },
     {
       "key": "花海",
-      "name": "花海┃资源",
+      "name": "花海┃影视",
       "api": "csp_AppYs",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
       "type": 3,
       "playerType":1,
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
@@ -121,9 +122,9 @@
       "name": "嘶哩┃动漫",
       "type": 3,
       "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
+      "ext": "./qiaoji/sili"
     },
     {
       "key": "csp_Dm84",
