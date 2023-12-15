@@ -3,185 +3,141 @@
 
 {
 
-"warningText":"友情提示：勿信视频中任何广告！不定期更新",    
+"warningText":"友情提示：勿信视频中任何广告！定期更新",    
 
 
-"sites":[
-
+"sites":[ 
+  
+    {
+      "key": "豪华资源",
+      "name": "👇点主页切换资源，首选电信网络",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "香港剧",
+        "台湾剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "欧美剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "爱情片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "灾难片",
+        "剧情片",
+        "记录片",
+        "短剧",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
     {
       "key": "js_nangua",
-      "name": "主力源01",
+      "name": "南瓜┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/nangua.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
     {
-      "key": "hnzy",
-      "name": "主力源02",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
+      "key": "荐片",
+      "name": "荐片┃资源",
+      "type": 3,
+      "playerType":1,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
     {
-      "key": "csp_荐片T4",
-      "name": "主力源03",
-      "type": 1,
-      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "key": "飞云",
+      "name": "飞云┃资源",
+      "type": 3,
+      "playerType":2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
     {
-      "key": "主力源",
-      "name": "备用源01",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
+      "key": "迷你",
+      "name": "迷你┃资源",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
+      "key": "js_v2-jrly",
+      "name": "嘉靓┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "categories": [
-        "科幻片",
-        "动作片",
-        "恐怖片",
-        "纪录片",
-        "爱情片",
-        "战争片",
-        "剧情片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧"
-      ]
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
     },
     {
-      "key": "Kanj",
-      "name": "备用源02",
+      "key": "花海",
+      "name": "花海┃资源",
+      "api": "csp_AppYs",
       "type": 3,
-      "api": "csp_XBPQ",
+      "playerType":1,
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "樱花",
+      "name": "樱花┃动漫",
+      "type": 3,
+      "api": "csp_qiao",
+      "jar": "./qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#剧集$lianxuju#动漫$dongman#综艺$zongyi#午夜$fenlei5"
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "./qiaoji/yinghua"
     },
     {
-      "key": "1080资源",
-      "name": "备用源03",
-      "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
+      "key": "嘶哩",
+      "name": "嘶哩┃动漫",
+      "type": 3,
+      "api": "csp_Skapp",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "./qiaoji/sili"
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "动漫┃巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "OXS",
-      "name": "备用源04",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-    
-    {
-      "key": "js_555",
-      "name": "备用源05",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/cs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/cs/-/raw/main/js/555.js"
-    },
-    {
-      "key": "app_轻简",
-      "name": "备用源06",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key":"卧龙资源",
-      "name":"备用源07",
-      "type":1,
-      "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1
-    },
-    {
-      "key": "zy_新浪资源",
-      "name": "备用源08",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    },
-    {
-      "key": "New6v",
-      "name": "备用源09",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.xb6v.com",
-      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
       "key": "MV_vod",
-      "name": "┃MTV┃合集",
+      "name": "MTV┃合集",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -189,14 +145,93 @@
       "filterable": 1
     },
     {
-      "key": "csp_KungFu404",
-      "name": "┃阿里┃设置",
+      "key": "Aid",
+      "name": "急救┃教学",
       "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
+      "api": "csp_FirstAid",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/sy555/cs/-/raw/main/jar/alibaba.jar"
+      "style": {
+      "type": "rect",
+      "ratio": 3.8
+      }
+    },
+    {
+      "key": "少儿教育",
+      "name": "儿童┃早教",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/高中课堂.json"
+    },
+    {
+      "key": "兴趣课堂",
+      "name": "兴趣┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "style": {
+      "type": "rect",
+      "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/兴趣课堂.json"
     }
 ],
 
@@ -467,13 +502,6 @@
 "wallpaper":"https://tool.weetai.cn/api",
 
 
-"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://codeberg.org/ll8000/jav/raw/branch/main/live.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],   
 
 "rules": [
     {
@@ -679,6 +707,29 @@
       ]
     }
   ],
+
+
+"lives": [
+    {
+	    "name": "live",
+	    "type": 0,
+	    "url": "https://jihulab.com/sy555/by/-/raw/main/live.txt",
+      "playerType":1,
+      "ua": "okhttp/3.15",
+	    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ipv6",
+      "type": 0,
+      "url": "https://jihulab.com/sy555/by/-/raw/main/ipv6.m3u",
+      "playerType":1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+    ],
+
 
 "ads": [
     "wan.51img1.com",
