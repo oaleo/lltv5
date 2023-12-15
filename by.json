@@ -449,7 +449,7 @@
     
     
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  b.jar或"jar": "http://小盒酷玩.fun:67/禁止贩卖",
+//以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
 
     
     {
@@ -756,34 +756,34 @@
       "name": "巧一┃App",
       "type": 3,
       "api": "csp_qiao2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji1"
+      "ext": "./qiaoji/qiaoji1"
     },
     {
       "key": "巧技二",
       "name": "巧二┃App",
       "type": 3,
       "api": "csp_qiao2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji2"
+      "ext": "./qiaoji/qiaoji2"
     },
     {
       "key": "巧技三",
       "name": "巧三┃App",
       "type": 3,
       "api": "csp_qiao2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji3"
+      "ext": "./qiaoji/qiaoji3"
     },
     {
       "key": "天天",
       "name": "天天┃App",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn"
     },
@@ -792,7 +792,7 @@
       "name": "蝴蝶┃App",
       "type": 3,
       "api": "csp_Hudie",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
     },
@@ -801,84 +801,103 @@
       "name": "极光┃App",
       "type": 3,
       "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/jiguang"
+      "ext": "./qiaoji/jiguang"
     },
     {
       "key": "tvbsk",
       "name": "云播┃App",
       "type": 3,
       "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/tvbyb"
+      "ext": "./qiaoji/tvbyb"
     },
     {
       "key": "侠客",
       "name": "侠客┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/xiake"
+      "ext": "./qiaoji/xiake"
     },
     {
       "key": "超神",
       "name": "超神┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "playerType": 2,
+      "playerType": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/chaoshen"
+      "ext": "./qiaoji/chaoshen"
     },
     {
       "key": "云云",
       "name": "云云┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/laohu"
+      "ext": "./qiaoji/laohu"
+    },
+    {
+      "key": "河马",
+      "name": "河马┃App",
+      "type": 3,
+      "api": "csp_Hmys",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 1,
+      "ext": "https://m.jmzp.net.cn"
+    },
+    {
+      "key": "看看",
+      "name": "看看┃App",
+      "type": 3,
+      "api": "csp_KanKan",
+      "jar": "./qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "星奇",
       "name": "星奇┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/xingqi"
+      "ext": "./qiaoji/xingqi"
     },
     {
       "key": "樱花",
       "name": "樱花┃动漫",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/yinghua"
+      "ext": "./qiaoji/yinghua"
     },
     {
       "key": "嘶哩",
       "name": "嘶哩┃动漫",
       "type": 3,
       "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
+      "ext": "./qiaoji/sili"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
