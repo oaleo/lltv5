@@ -76,16 +76,6 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
     {
-      "key": "迷你",
-      "name": "迷你┃资源",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
-    {
       "key": "js_v2-jrly",
       "name": "嘉靓┃资源",
       "type": 3,
@@ -95,6 +85,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
+    },
+    {
+      "key": "迷你",
+      "name": "迷你┃资源",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
       "key": "花海",
