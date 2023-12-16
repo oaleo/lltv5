@@ -67,6 +67,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
+/*
     {
       "key": "荐片",
       "name": "荐片4K",
@@ -80,6 +81,7 @@
     },
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/danmu.jar"
     },
+*/
     {
       "key": "js_nangua",
       "name": "南瓜┃资源",
@@ -134,16 +136,14 @@
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
-    /*
     {
       "key": "荐片",
       "name": "荐片┃资源",
       "type": 3,
-      "playerType":1,
+      "playerType": 1,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
-    */
     {
       "key": "索尼资源",
       "name": "索尼┃资源",
