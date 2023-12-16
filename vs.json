@@ -134,6 +134,7 @@
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
+    /*
     {
       "key": "荐片",
       "name": "荐片┃资源",
@@ -142,6 +143,7 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
+    */
     {
       "key": "索尼资源",
       "name": "索尼┃资源",
