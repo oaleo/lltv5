@@ -68,6 +68,19 @@
       "changeable": 1
     },
     {
+      "key": "荐片",
+      "name": "荐片",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "danmu": false
+    },
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/danmu.jar"
+    },
+    {
       "key": "js_nangua",
       "name": "南瓜┃资源",
       "type": 3,
