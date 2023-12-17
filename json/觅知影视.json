@@ -18,4 +18,4 @@
     
     "分类url":"http://120.46.69.145/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}year/{year}.html;;;ak",
     
-    "分类":"快手短剧$1#电影$2#电视剧$3#综艺$4#动漫$5"}
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
