@@ -1411,6 +1411,11 @@
 "parses": [
     {
       "name": "罗罗精选1",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "精选2",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url=",
       "ext": {
@@ -1445,19 +1450,14 @@
       }
     },
     {
-      "name": "精选2",
+      "name": "精选3",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "精选3",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
       "name": "精选4",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
       "name": "精选5",
