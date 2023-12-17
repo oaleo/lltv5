@@ -1409,17 +1409,8 @@
 
 //解析~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "parses": [
-    { 
-         "name": "并发", 
-         "type": 3, 
-         "url": "Demo" 
-    },{ 
-        "name": "聚合", 
-        "type": 3, 
-        "url": "Web" 
-    },
     {
-      "name": "罗罗精选",
+      "name": "罗罗精选1",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url=",
       "ext": {
@@ -1454,27 +1445,27 @@
       }
     },
     {
-      "name": "精选1",
+      "name": "精选2",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "精选2",
+      "name": "精选3",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "精选3",
+      "name": "精选4",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url="
     },
     {
-      "name": "精选4",
+      "name": "精选5",
       "type": 0,
       "url": "https://okjx.cc/?url="
     },
     {
-      "name": "精选5",
+      "name": "精选6",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -1504,7 +1495,7 @@
       }
     },
     {
-      "name": "精选6",
+      "name": "精选7",
       "type": 0,
       "url": "https://blbfq.f3322.net/player/analysis.php?v=",
       "ext": {
@@ -1523,22 +1514,22 @@
       }
     },
     {
-      "name": "精选7",
+      "name": "精选8",
       "type": 0,
       "url": "https://ksksl.codjx.com/?url="
     },
     {
-      "name": "精选8",
+      "name": "精选9",
       "type": 0,
       "url": "https://byg.ziqj5.shop/?url="
     },
     {
-      "name": "精选9",
+      "name": "精选10",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "精选10",
+      "name": "精选11",
       "type": 0,
       "url": "https://chaxun.truechat365.com/?url=",
       "ext": {
@@ -1565,22 +1556,22 @@
       }
     },
     {
-      "name": "精选11",
+      "name": "精选12",
       "type": 0,
       "url": "http://vip.26db.cn/g/?url="
     },
     {
-      "name": "精选12",
+      "name": "精选13",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
     {
-      "name": "精选13",
+      "name": "精选14",
       "type": 0,
       "url": "https://play.86516.tk/OKPlayer/?url="
     },
     {
-      "name": "精选14",
+      "name": "精选15",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
     }
