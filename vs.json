@@ -19,6 +19,17 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
     {
+      "key":"csp_农民",
+      "name":"VIP┃①",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./json/xpg.json",
+      "jar": "./jar/xpg.jar"
+    },
+    {
       "key": "豪华资源",
       "name": "🔥勿信视频内任何广告！",
       "type": 1,
