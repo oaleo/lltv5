@@ -1457,15 +1457,20 @@
     {
       "name": "精选4",
       "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "精选5",
       "type": 0,
-      "url": "https://okjx.cc/?url="
+      "url": "https://jx.zhanlangbu.com/?url="
     },
     {
       "name": "精选6",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "精选7",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -1495,7 +1500,7 @@
       }
     },
     {
-      "name": "精选7",
+      "name": "精选8",
       "type": 0,
       "url": "https://blbfq.f3322.net/player/analysis.php?v=",
       "ext": {
@@ -1514,19 +1519,14 @@
       }
     },
     {
-      "name": "精选8",
+      "name": "精选9",
       "type": 0,
       "url": "https://ksksl.codjx.com/?url="
     },
     {
-      "name": "精选9",
-      "type": 0,
-      "url": "https://byg.ziqj5.shop/?url="
-    },
-    {
       "name": "精选10",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://byg.ziqj5.shop/?url="
     },
     {
       "name": "精选11",
