@@ -47,6 +47,17 @@
       ]
     },
     {
+      "key":"小苹果",
+      "name":"小苹果┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./json/xpg.json",
+      "jar": "./jar/xpg.jar"
+    },
+    {
       "key": "js_nangua",
       "name": "南瓜┃资源",
       "type": 3,
