@@ -18,31 +18,10 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
-    {
-      "key":"LLTV",
-      "name":"🔥VIP专享①",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./json/xpg.json",
-      "jar": "./jar/xpg.jar"
-    },
-    {
-      "key": "csp_觅知",
-      "name": "🔥VIP专享②",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
-      "searchable": 1,
-      "quickSearch":0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/觅知影视.json"
-    },
+    
     {
       "key": "豪华资源",
-      "name": "🔥VIP专享③",
+      "name": "🔥VIP专享①",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
@@ -77,6 +56,28 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key":"LLTV",
+      "name":"🔥VIP专享②",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./json/xpg.json",
+      "jar": "./jar/xpg.jar"
+    },
+    {
+      "key": "csp_觅知",
+      "name": "🔥VIP专享③",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 1,
+      "quickSearch":0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/觅知影视.json"
     },
 /*
     {
