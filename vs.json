@@ -1434,51 +1434,16 @@
 "parses": [
     {
       "name": "罗罗精选1",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "type": 1,
+      "url": "https://jx.777jiexi.com/player/?url="
     },
     {
       "name": "精选2",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "精选3",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "精选4",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "header": {
@@ -1486,55 +1451,81 @@
       }
     },
     {
-      "name": "精选5",
-      "type": 1,
+      "name": "精选4",
+      "type": 0,
       "url": "https://jxjson.cf/ads.php?url=",
       "header": {
       "User-Agent": "okhttp/4.9.3"
       }
     },
     {
-      "name": "精选6",
+      "name": "精选5",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
     },
     {
-      "name": "精选7",
+      "name": "精选6",
       "type": 0,
       "url": "https://hhjiexi.com/play/?url="
     },
     {
-      "name": "精选8",
+      "name": "精选7",
       "type": 0,
       "url": "https://ffzyplayer.com/?url="
     },
     {
-      "name": "精选9",
+      "name": "精选8",
       "type": 0,
       "url": "https://lziplayer.com/?url="
     },
     {
-      "name": "精选10",
+      "name": "精选9",
       "type": 0,
       "url": "https://49zyplayerurl.com/?url="
     },
     {
-      "name": "精选11",
+      "name": "精选10",
       "type": 0,
       "url": "https://ckm3u8.cc/?url="
+    },
+    {
+      "name": "精选11",
+      "type": 0,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
     }
   ],
   "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
     "tudou",
+    "土豆",
     "pptv",
+    "wasu",
+    "qq",
+    "腾讯",
+    "qiyi",
+    "奇艺",
+    "iqiyi",
+    "爱奇艺",
+    "youku",
+    "优酷",
+    "tucheng",
+    "sohu",
+    "搜狐",
+    "letv",
+    "乐视",
     "mgtv",
-    "wasu"
+    "芒果",
+    "tnmb",
+    "seven",
+    "yzm",
+    "aliyun",
+    "RJuMao",
+    "bilibili",
+    "1905",
+    "xinvip",
+    "XAL",
+    "qiqi",
+    "XALS",
+    "YuMi-vip"
   ],
 
 
