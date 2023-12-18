@@ -60,11 +60,11 @@
       "name":"🔥LLTV_VIP②",
       "type":3,
       "api":"csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xpg.jar",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./json/xpg.json",
-      "jar": "./jar/xpg.jar"
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/xpg.json"
     },
     {
       "key": "csp_觅知",
@@ -1342,7 +1342,7 @@
 
     {
       "key": "drpy_js_虎牙",
-      "name": "┃虎牙┃直播",
+      "name": "虎牙┃直播",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/虎牙直播.js",
@@ -1352,7 +1352,7 @@
     },
     {
       "key": "drpy_js_斗鱼",
-      "name": "┃斗鱼┃直播",
+      "name": "斗鱼┃直播",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/斗鱼直播.js",
