@@ -20,7 +20,7 @@
     },
     {
       "key": "豪华资源",
-      "name": "🔥主力①",
+      "name": "🔥LLTV_VIP①",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
@@ -56,16 +56,27 @@
         "欧美综艺"
       ]
     },
-    
     {
-      "key": "一起看 ",
-      "name": "🔥主力②",
+      "key":"LLTV",
+      "name":"🔥LLTV_VIP②",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./json/xpg.json",
+      "jar": "./jar/xpg.jar"
+    },
+    {
+      "key": "csp_觅知",
+      "name": "🔥LLTV_VIP③",
       "type": 3,
-      "api": "csp_YQKan",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "quickSearch":0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/觅知影视.json"
     },
     {
       "key": "js_nangua",
@@ -104,11 +115,12 @@
       "key": "js_影探",
       "name": "影探┃资源",
       "type": 3,
+      "playerType": 1,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/影探.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/yt.js"
     },
     {
       "key": "飞云",
@@ -125,10 +137,25 @@
       "key": "荐片",
       "name": "荐片┃资源",
       "type": 3,
-      "playerType":1,
+      "playerType": 1,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
+/*
+    {
+      "key": "荐片",
+      "name": "荐片┃4K",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "danmu": false
+    },
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/danmu.jar"
+    },
+*/
     {
       "key": "索尼资源",
       "name": "索尼┃资源",
@@ -598,17 +625,6 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  pg.jar
     {
-      "key": "csp_beijihu",
-      "name": "极狐┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
       "key": "骑骑影院",
       "name": "骑骑┃资源",
       "type": 3,
@@ -631,6 +647,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "csp_beijihu",
+      "name": "极狐┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
     },
     {
       "key": "爱迪影视",
@@ -1001,15 +1028,14 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
     },
     {
-      "key": "csp_觅知",
-      "name": "觅知┃资源",
+      "key": "一起看 ",
+      "name": "一起看┃资源",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "api": "csp_YQKan",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/觅知影视.json"
+      "changeable": 1
     },
     {
       "key": "Auete",
@@ -1383,25 +1409,65 @@
     {
       "name": "罗罗精选1",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "精选2",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
     },
     {
       "name": "精选3",
       "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
+      "url": "https://jx.777jiexi.com/player/?url="
     },
     {
       "name": "精选4",
       "type": 0,
-      "url": "https://okjx.cc/?url="
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
       "name": "精选5",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "精选6",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "精选7",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -1431,7 +1497,7 @@
       }
     },
     {
-      "name": "精选6",
+      "name": "精选8",
       "type": 0,
       "url": "https://blbfq.f3322.net/player/analysis.php?v=",
       "ext": {
@@ -1450,22 +1516,17 @@
       }
     },
     {
-      "name": "精选7",
+      "name": "精选9",
       "type": 0,
       "url": "https://ksksl.codjx.com/?url="
     },
     {
-      "name": "精选8",
+      "name": "精选10",
       "type": 0,
       "url": "https://byg.ziqj5.shop/?url="
     },
     {
-      "name": "精选9",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "精选10",
+      "name": "精选11",
       "type": 0,
       "url": "https://chaxun.truechat365.com/?url=",
       "ext": {
@@ -1492,22 +1553,22 @@
       }
     },
     {
-      "name": "精选11",
+      "name": "精选12",
       "type": 0,
       "url": "http://vip.26db.cn/g/?url="
     },
     {
-      "name": "精选12",
+      "name": "精选13",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
     {
-      "name": "精选13",
+      "name": "精选14",
       "type": 0,
       "url": "https://play.86516.tk/OKPlayer/?url="
     },
     {
-      "name": "精选14",
+      "name": "精选15",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
     }
@@ -1742,6 +1803,14 @@
                 "item_id="
             ]
         }, 
+        {
+        "host":"www.iesdouyin.com",
+        "rule":["playwm/?video_id="]
+        },
+        {
+        "host":"v.douyin.com",
+        "rule":["playwm/?video_id="]
+        },
         {
             "name": "抖音嗅探", 
             "hosts": [
