@@ -20,7 +20,7 @@
     },
     {
       "key": "豪华资源",
-      "name": "🔥VIP专享①",
+      "name": "🔥LLTV_VIP①",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
@@ -58,7 +58,7 @@
     },
     {
       "key":"LLTV",
-      "name":"🔥VIP专享②",
+      "name":"🔥LLTV_VIP②",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
@@ -69,7 +69,7 @@
     },
     {
       "key": "csp_觅知",
-      "name": "🔥VIP专享③",
+      "name": "🔥LLTV_VIP③",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
