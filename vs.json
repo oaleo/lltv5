@@ -1373,7 +1373,7 @@
       "type":3,
       "playerType":2,
       "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/百忙无果.js"
     },
     {
       "key":"drpy_js_菜狗",
@@ -1381,7 +1381,7 @@
       "type":3,
       "playerType":2,
       "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext":"https://codeberg.org/ll8000/iav/raw/branch/main/js/%E8%8F%9C%E7%8B%97.js"
+      "ext":"https://codeberg.org/ll8000/iav/raw/branch/main/js/菜狗.js"
     },
     {
       "key": "sohu",
@@ -1398,7 +1398,7 @@
       "type":3,
       "playerType":2,
       "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/腾云驾雾.js"
     },
     {
       "key":"drpy_yh",
@@ -1406,7 +1406,7 @@
       "type":3,
       "playerType":2,
       "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E4%BC%98%E9%85%B7.js"
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/优酷.js"
     },
     {
       "key":"drpy_js_奇珍异兽",
@@ -1414,7 +1414,7 @@
       "type":3,
       "playerType":2,
       "api":"https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/js/奇珍异兽.js"
     },
     {
       "key": "csp_KungFu404",
@@ -1432,16 +1432,6 @@
 
 //解析~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "parses": [
-    {
-      "name": "如果解析失败，请手动更换其它解析",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
     {
       "name": "罗罗精选1",
       "type": 0,
@@ -1506,118 +1496,32 @@
     {
       "name": "精选6",
       "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
+      "url": "https://jx.xmflv.cc/?url="
     },
     {
       "name": "精选7",
       "type": 0,
-      "url": "https://okjx.cc/?url="
+      "url": "https://hhjiexi.com/play/?url="
     },
     {
       "name": "精选8",
       "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "leshi",
-          "LS",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": ""
-        }
-      }
+      "url": "https://ffzyplayer.com/?url="
     },
     {
       "name": "精选9",
       "type": 0,
-      "url": "https://blbfq.f3322.net/player/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "qq",
-          "letv",
-          "sohu",
-          "youku",
-          "mgtv",
-          "bilibili",
-          "wasu",
-          "xigua",
-          "1905"
-        ]
-      }
+      "url": "https://lziplayer.com/?url="
     },
     {
       "name": "精选10",
       "type": 0,
-      "url": "https://ksksl.codjx.com/?url="
+      "url": "https://49zyplayerurl.com/?url="
     },
     {
       "name": "精选11",
       "type": 0,
-      "url": "https://byg.ziqj5.shop/?url="
-    },
-    {
-      "name": "精选12",
-      "type": 0,
-      "url": "https://chaxun.truechat365.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "精选13",
-      "type": 0,
-      "url": "http://vip.26db.cn/g/?url="
-    },
-    {
-      "name": "精选14",
-      "type": 0,
-      "url": "https://jx.m3u8.pw/?url="
-    },
-    {
-      "name": "精选15",
-      "type": 0,
-      "url": "https://play.86516.tk/OKPlayer/?url="
-    },
-    {
-      "name": "精选16",
-      "type": 0,
-      "url": "https://h5.freejson.xyz/player/?url="
+      "url": "https://ckm3u8.cc/?url="
     }
   ],
   "flags": [
