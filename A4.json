@@ -254,25 +254,65 @@
     {
       "name": "罗罗精选1",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "精选2",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
     },
     {
       "name": "精选3",
       "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
+      "url": "https://jx.777jiexi.com/player/?url="
     },
     {
       "name": "精选4",
       "type": 0,
-      "url": "https://okjx.cc/?url="
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
       "name": "精选5",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "精选6",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "精选7",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -302,7 +342,7 @@
       }
     },
     {
-      "name": "精选6",
+      "name": "精选8",
       "type": 0,
       "url": "https://blbfq.f3322.net/player/analysis.php?v=",
       "ext": {
@@ -321,22 +361,17 @@
       }
     },
     {
-      "name": "精选7",
+      "name": "精选9",
       "type": 0,
       "url": "https://ksksl.codjx.com/?url="
     },
     {
-      "name": "精选8",
+      "name": "精选10",
       "type": 0,
       "url": "https://byg.ziqj5.shop/?url="
     },
     {
-      "name": "精选9",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "精选10",
+      "name": "精选11",
       "type": 0,
       "url": "https://chaxun.truechat365.com/?url=",
       "ext": {
@@ -363,22 +398,22 @@
       }
     },
     {
-      "name": "精选11",
+      "name": "精选12",
       "type": 0,
       "url": "http://vip.26db.cn/g/?url="
     },
     {
-      "name": "精选12",
+      "name": "精选13",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
     {
-      "name": "精选13",
+      "name": "精选14",
       "type": 0,
       "url": "https://play.86516.tk/OKPlayer/?url="
     },
     {
-      "name": "精选14",
+      "name": "精选15",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
     }
@@ -397,6 +432,8 @@
   ],
 
 
+
+//解码~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
@@ -432,6 +469,10 @@
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]}
 ],
+
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   "doh": [
         {
             "name": "Google", 
@@ -476,6 +517,10 @@
             ]
         }
     ], 
+
+
+
+//规则~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     "rules": [
     {"name":"暴風廣告","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
         {
@@ -614,6 +659,14 @@
             ]
         }, 
         {
+        "host":"www.iesdouyin.com",
+        "rule":["playwm/?video_id="]
+        },
+        {
+        "host":"v.douyin.com",
+        "rule":["playwm/?video_id="]
+        },
+        {
             "name": "抖音嗅探", 
             "hosts": [
                 "douyin.com"
@@ -625,6 +678,8 @@
     ], 
 
 
+
+//直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "lives": [
     {
 	    "name": "live",
@@ -647,5 +702,7 @@
     ],
 
 
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "ads":["https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","wan.51img1.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 }
