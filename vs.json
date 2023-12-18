@@ -1003,6 +1003,14 @@
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
+      "key": "drpy_js_低端",
+      "name": "低端┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/低端.js"
+    },
+/*
+    {
       "key": "DiDuan",
       "name": "低端┃资源",
       "type": 3,
@@ -1012,6 +1020,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
+*/
     {
       "key": "繁星",
       "name": "繁星┃资源",
@@ -1332,6 +1341,26 @@
 
 
     {
+      "key": "drpy_js_虎牙",
+      "name": "┃虎牙┃直播",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/虎牙直播.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "drpy_js_斗鱼",
+      "name": "┃斗鱼┃直播",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/斗鱼直播.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "drpy_js_360影视",
       "name": "360┃(官)",
       "type": 3,
@@ -1404,6 +1433,16 @@
 //解析~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "parses": [
     {
+      "name": "如果解析失败，请手动更换其它解析",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
       "name": "罗罗精选1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
@@ -1451,20 +1490,31 @@
     {
       "name": "精选4",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "header": {
+      "User-Agent": "okhttp/4.9.3"
+      }
     },
     {
       "name": "精选5",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
+      "type": 1,
+      "url": "https://jxjson.cf/ads.php?url=",
+      "header": {
+      "User-Agent": "okhttp/4.9.3"
+      }
     },
     {
       "name": "精选6",
       "type": 0,
-      "url": "https://okjx.cc/?url="
+      "url": "https://jx.zhanlangbu.com/?url="
     },
     {
       "name": "精选7",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "精选8",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url=",
       "ext": {
@@ -1494,7 +1544,7 @@
       }
     },
     {
-      "name": "精选8",
+      "name": "精选9",
       "type": 0,
       "url": "https://blbfq.f3322.net/player/analysis.php?v=",
       "ext": {
@@ -1513,17 +1563,17 @@
       }
     },
     {
-      "name": "精选9",
+      "name": "精选10",
       "type": 0,
       "url": "https://ksksl.codjx.com/?url="
     },
     {
-      "name": "精选10",
+      "name": "精选11",
       "type": 0,
       "url": "https://byg.ziqj5.shop/?url="
     },
     {
-      "name": "精选11",
+      "name": "精选12",
       "type": 0,
       "url": "https://chaxun.truechat365.com/?url=",
       "ext": {
@@ -1550,22 +1600,22 @@
       }
     },
     {
-      "name": "精选12",
+      "name": "精选13",
       "type": 0,
       "url": "http://vip.26db.cn/g/?url="
     },
     {
-      "name": "精选13",
+      "name": "精选14",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
     {
-      "name": "精选14",
+      "name": "精选15",
       "type": 0,
       "url": "https://play.86516.tk/OKPlayer/?url="
     },
     {
-      "name": "精选15",
+      "name": "精选16",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
     }
@@ -1836,20 +1886,20 @@
     {
 	    "name": "live",
 	    "type": 0,
+      "playerType": 1,
 	    "url": "https://jihulab.com/sy555/by/-/raw/main/live.txt",
-      "playerType":1,
-      "ua": "okhttp/3.15",
 	    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15"
     },
     {
       "name": "ipv6",
       "type": 0,
+      "playerType": 1,
       "url": "https://jihulab.com/sy555/by/-/raw/main/ipv6.m3u",
-      "playerType":1,
-      "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/3.15"
     }
     ],
 
