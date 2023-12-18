@@ -1435,12 +1435,12 @@
     {
       "name": "罗罗精选1",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "精选2",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://jx.777jiexi.com/player/?url="
     },
     {
       "name": "精选3",
@@ -1498,6 +1498,7 @@
     "tudou",
     "土豆",
     "pptv",
+    "PPTV",
     "wasu",
     "qq",
     "腾讯",
@@ -1514,6 +1515,13 @@
     "乐视",
     "mgtv",
     "芒果",
+    "bili",
+    "哔哩",
+    "bilibili",
+    "哔哩哔哩",
+    "xigua",
+    "西瓜",
+    "1905",
     "tnmb",
     "seven",
     "yzm",
