@@ -18,7 +18,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
-    
     {
       "key": "豪华资源",
       "name": "🔥VIP专享①",
@@ -79,21 +78,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/觅知影视.json"
     },
-/*
-    {
-      "key": "荐片",
-      "name": "荐片4K",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-      "danmu": false
-    },
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/danmu.jar"
-    },
-*/
     {
       "key": "js_nangua",
       "name": "南瓜┃资源",
@@ -157,6 +141,21 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
+/*
+    {
+      "key": "荐片",
+      "name": "荐片┃4K",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+      "danmu": false
+    },
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/danmu.jar"
+    },
+*/
     {
       "key": "索尼资源",
       "name": "索尼┃资源",
@@ -625,19 +624,6 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  pg.jar
-/*
-    {
-      "key": "csp_beijihu",
-      "name": "极狐┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-*/
     {
       "key": "骑骑影院",
       "name": "骑骑┃资源",
@@ -661,6 +647,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "csp_beijihu",
+      "name": "极狐┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
     },
     {
       "key": "爱迪影视",
