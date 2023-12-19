@@ -20,11 +20,13 @@
     {
       "key": "豪华资源",
       "name": "🔥LLTV_VIP①",
-      "type": 1,
+      "type": 1,      
+      "playerType": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
+        "短剧",
         "内地剧",
         "香港剧",
         "台湾剧",
@@ -187,6 +189,7 @@
       "key": "hnzy",
       "name": "红牛┃资源",
       "type": 1,
+      "playerType": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
       "searchable": 1,
       "filterable": 0
