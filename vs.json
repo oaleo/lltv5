@@ -745,6 +745,7 @@
       "key": "*CK资源",
       "name": "Ck┃资源",
       "type": 1,
+      "playUrl": "https://ckm3u8.cc/?url=",
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
