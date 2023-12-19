@@ -187,22 +187,9 @@
       "key": "hnzy",
       "name": "红牛┃资源",
       "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "api": "https://www.hongniuzy.com/help/",
       "searchable": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
-      ]
+      "filterable": 0
     },
     {
       "key": "暴风资源",
