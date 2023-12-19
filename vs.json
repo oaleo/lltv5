@@ -633,18 +633,6 @@
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
-/*
-    {
-      "key": "南瓜",
-      "name": "南瓜┃资源",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     {
       "key": "csp_beijihu",
       "name": "极狐┃资源",
@@ -665,6 +653,19 @@
       "api": "csp_AppYsV2",
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
+/*
+    {
+      "key": "南瓜",
+      "name": "南瓜┃资源",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
