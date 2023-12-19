@@ -639,6 +639,17 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  pg.jar
     {
+      "key": "csp_beijihu",
+      "name": "极狐┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
       "key": "骑骑影院",
       "name": "骑骑┃资源",
       "type": 3,
@@ -649,17 +660,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key": "csp_beijihu",
-      "name": "极狐┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
     },
     {
       "key": "一起看 ",
@@ -698,7 +698,7 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需影音天堂适配
+//以下需适配  影音天堂yytt.jar
     {
       "key": "耐落",
       "name": "耐落┃资源",
@@ -1337,6 +1337,7 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/兴趣课堂.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下无需适配
 
 
 
