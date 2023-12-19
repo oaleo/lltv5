@@ -9,7 +9,7 @@
   
     {
       "key": "豪华资源",
-      "name": "👇点主页切换资源，首选电信网络",
+      "name": "👇该版本即将停用，请升级至5.0",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
@@ -67,14 +67,6 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
     {
-      "key": "荐片",
-      "name": "荐片┃资源",
-      "type": 3,
-      "playerType":1,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
-    },
-    {
       "key": "飞云",
       "name": "飞云┃资源",
       "type": 3,
@@ -86,17 +78,6 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
     },
     {
-      "key": "js_v2-jrly",
-      "name": "嘉靓┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "playerType":1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
-    },
-    {
       "key": "迷你",
       "name": "迷你┃资源",
       "type": 3,
@@ -105,164 +86,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
-    {
-      "key": "花海",
-      "name": "花海┃影视",
-      "api": "csp_AppYs",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "type": 3,
-      "playerType":1,
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key": "樱花",
-      "name": "樱花┃动漫",
-      "type": 3,
-      "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/yinghua"
-    },
-    {
-      "key": "嘶哩",
-      "name": "嘶哩┃动漫",
-      "type": 3,
-      "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "动漫┃巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "MV_vod",
-      "name": "MTV┃合集",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Aid",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-      "type": "rect",
-      "ratio": 3.8
-      }
-    },
-    {
-      "key": "少儿教育",
-      "name": "儿童┃早教",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/高中课堂.json"
-    },
-    {
-      "key": "兴趣课堂",
-      "name": "兴趣┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "style": {
-      "type": "rect",
-      "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/兴趣课堂.json"
-    },
-    {
-      "key": "drpy_js_虎牙",
-      "name": "虎牙┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/虎牙直播.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "drpy_js_斗鱼",
-      "name": "斗鱼┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/斗鱼直播.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
     }
 ],
 
