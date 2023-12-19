@@ -457,7 +457,24 @@
       "playerType": "2",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
     },
+    {
+      "key": "drpy_js_低端",
+      "name": "低端┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/低端.js"
+    },
 /*
+    {
+      "key": "DiDuan",
+      "name": "低端┃资源",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "Czsapp",
       "name": "厂长┃资源",
@@ -645,13 +662,14 @@
       "ext": "https://www.kuin.one/api.php/app/"
     },
     {
-      "key": "爱迪影视",
-      "name": "爱迪┃资源",
+      "key": "一起看 ",
+      "name": "一起看┃资源",
       "type": 3,
+      "api": "csp_YQKan",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "playerType": "2",
-      "api": "csp_AppYsV2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
 /*
     {
@@ -665,7 +683,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    
+    {
+      "key": "爱迪影视",
+      "name": "爱迪┃资源",
+      "type": 3,
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "playerType": "2",
+      "api": "csp_AppYsV2",
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
