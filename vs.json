@@ -187,7 +187,7 @@
       "key": "hnzy",
       "name": "红牛┃资源",
       "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
       "searchable": 1,
       "filterable": 0
     },
