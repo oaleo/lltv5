@@ -272,7 +272,7 @@
       "name": "非凡┃资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "playurl": "https://ffzyplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -309,7 +309,7 @@
       "name": "量子┃资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "playurl": "https://lziplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1472,37 +1472,12 @@
       "url": "https://jx.xmflv.cc/?url="
     },
     {
-      "name": "49",
-      "type": 0,
-      "url": "https://49zyplayerurl.com/?url="
-    },
-    {
-      "name": "CK",
-      "type": 0,
-      "url": "https://ckm3u8.cc/?url="
-    },
-    {
-      "name": "FF",
-      "type": 0,
-      "url": "https://ffzyplayer.com/?url="
-    },
-    {
-      "name": "HH",
-      "type": 0,
-      "url": "https://hhjiexi.com/play/?url="
-    },
-    {
-      "name": "LZ",
-      "type": 0,
-      "url": "https://lziplayer.com/?url="
-    },
-    {
-      "name": "FM",
+      "name": "精选6",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
     }
   ],
-  "flags": [
+"flags": [
     "tudou",
     "土豆",
     "pptv",
