@@ -191,6 +191,7 @@
       "name": "红牛┃资源",
       "type": 1,
       "playerType": 1,
+      "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
       "searchable": 1,
       "filterable": 0
@@ -382,6 +383,7 @@
       "key": "49zy",
       "name": "四九┃资源",
       "type": 1,
+      "playUrl": "https://49zyplayerurl.com/?url=",
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
