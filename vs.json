@@ -830,6 +830,15 @@
       "ext": "./qiaoji/qiaoji3"
     },
     {
+      "key": "河马",
+      "name": "河马┃App",
+      "type": 3,
+      "api": "csp_Hmys",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 1,
+      "ext": "https://m.jmzp.net.cn"
+    },
+    {
       "key": "天天",
       "name": "天天┃App",
       "type": 3,
@@ -900,15 +909,6 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "./qiaoji/laohu"
-    },
-    {
-      "key": "河马",
-      "name": "河马┃App",
-      "type": 3,
-      "api": "csp_Hmys",
-      "jar": "./qiaoji/qiaoji.jar",
-      "playerType": 1,
-      "ext": "https://m.jmzp.net.cn"
     },
     {
       "key": "看看",
