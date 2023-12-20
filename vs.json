@@ -1396,7 +1396,7 @@
 
     {
       "key": "Music_spider",
-      "name": "音乐┃欣赏",
+      "name": "Music",
       "api": "csp_Music",
       "jar": "./qiaoji/qiaoji.jar",
       "type": 3,
