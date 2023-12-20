@@ -1395,6 +1395,17 @@
 
 
     {
+      "key": "Music_spider",
+      "name": "音乐┃欣赏",
+      "api": "csp_Music",
+      "jar": "./qiaoji/qiaoji.jar",
+      "type": 3,
+      "filterable": 0,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    }
+    {
       "key": "MV_vod",
       "name": "MTv┃合集",
       "type": 1,
