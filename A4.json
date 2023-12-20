@@ -12,8 +12,8 @@
       "name": "👇该版本即将停用，请升级至5.0",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "categories": [
         "内地剧",
         "香港剧",
