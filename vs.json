@@ -373,17 +373,6 @@
       ]
     },
     {
-      "key":"csp_xBPQ_大米星球",
-      "name":"️大米┃资源",
-      "type":3,
-      "api":"csp_xBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/dmxq.json",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/xBPQ.jar"
-    },
-    {
       "key":"csp_xml___百度资源",
       "name":"百度┃资源",
       "type":1,
@@ -427,6 +416,17 @@
       "playUrl":"",
       "searchable":1,
       "quickSearch":1
+    },
+    {
+      "key":"csp_xBPQ_大米星球",
+      "name":"️大米┃资源",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/dmxq.json",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/xBPQ.jar"
     },
     {
       "key": "app_轻简",
