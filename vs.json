@@ -80,6 +80,17 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/觅知影视.json"
     },
     {
+      "key": "csp_骚火",
+      "name": "🔥LLTV_VIP④",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/骚火影视.json"
+    },
+    {
       "key": "js_nangua",
       "name": "南瓜┃资源",
       "type": 3,
