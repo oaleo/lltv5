@@ -21,6 +21,7 @@
       "key": "豪华资源",
       "name": "🔥LLTV_VIP①",
       "type": 1,
+      "playUrl": "",
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
@@ -397,8 +398,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"http://9xi4o.tk/sub/xBPQ/dmxq.json",
-      "jar":"http://9xi4o.tk/sub/xBPQ.jar"
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/dmxq.json",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/xBPQ.jar"
     },
     {
       "key": "app_轻简",
@@ -542,15 +543,6 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
     {
-      "key": "花海",
-      "name": "花海┃影视",
-      "api": "csp_AppYs",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "type": 3,
-      "playerType":1,
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
-    },
-    {
       "key": "jptv",
       "name": "鸡婆┃资源",
       "type": 3,
@@ -665,6 +657,15 @@
       }
     },
 /*
+    {
+      "key": "花海",
+      "name": "花海┃影视",
+      "api": "csp_AppYs",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "type": 3,
+      "playerType":1,
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
     {
       "key": "OXS",
       "name": "O.Sir┃资源",
