@@ -12,9 +12,6 @@
       "name": "👇点首页切换资源，首选电信网络",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
     },
     {
