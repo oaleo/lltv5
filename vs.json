@@ -394,6 +394,17 @@
       "quickSearch":1
     },
     {
+      "key":"csp_xBPQ_大米星球",
+      "name":"️大米┃资源",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"http://9xi4o.tk/sub/xBPQ/dmxq.json",
+      "jar":"http://9xi4o.tk/sub/xBPQ.jar"
+    },
+    {
       "key": "app_轻简",
       "name": "轻简┃资源",
       "type": 1,
