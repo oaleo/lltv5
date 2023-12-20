@@ -373,6 +373,17 @@
       ]
     },
     {
+      "key":"csp_xBPQ_大米星球",
+      "name":"️大米┃资源",
+      "type":3,
+      "api":"csp_xBPQ",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/dmxq.json",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/xBPQ.jar"
+    },
+    {
       "key":"csp_xml___百度资源",
       "name":"百度┃资源",
       "type":1,
@@ -391,15 +402,31 @@
       "quickSearch":1
     },
     {
-      "key":"csp_xBPQ_大米星球",
-      "name":"️大米┃资源",
-      "type":3,
-      "api":"csp_xBPQ",
+      "key":"csp_xml___飞速资源",
+      "name":"飞速┃资源",
+      "type":1,
+      "api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl":"",
       "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/dmxq.json",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/xBPQ.jar"
+      "quickSearch":1
+    },
+    {
+      "key":"csp_xml___U酷资源",
+      "name":"u酷┃资源",
+      "type":1,
+      "api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list",
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"csp_xml___天空资源",
+      "name":"天空┃资源",
+      "type":1,
+      "api":"https://api.tiankongapi.com/api.php/provide/vod/",
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1
     },
     {
       "key": "app_轻简",
