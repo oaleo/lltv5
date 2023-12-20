@@ -906,13 +906,13 @@
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
     },
     {
-      "key": "极光",
-      "name": "极光┃App",
+      "key": "蜂鸟",
+      "name": "蜂鸟┃App",
       "type": 3,
       "api": "csp_Skapp",
       "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/jiguang"
+      "ext": "./qiaoji/fengniao"
     },
     {
       "key": "tvbsk",
