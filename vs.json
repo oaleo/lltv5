@@ -376,6 +376,24 @@
       ]
     },
     {
+      "key":"csp_xml___百度资源",
+      "name":"百度┃资源",
+      "type":1,
+      "api":"https://api.apibdzy.com/api.php/provide/vod/",
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
+      "key":"csp_xml___无尽资源",
+      "name":"无尽┃资源",
+      "type":1,
+      "api":"https://api.wujinapi.com/api.php/provide/vod/",
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
       "key": "app_轻简",
       "name": "轻简┃资源",
       "type": 1,
