@@ -5,6 +5,7 @@
 	"线路标题": "<span>&&</small>",
 	"播放标题": "<span>&&</span>",
 	"播放数组": "class=\"module-play-list&&</div>",
+	"简介":"【罗罗影视】提醒您请勿相信影片中的广告，以免上当受骗！+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
 	"分类": "电影$20#电视剧$21#综艺$22#动漫$23",
 	"分类url": "https://www.dmxq.me/vodshow/{cateId}--------{catePg}---.html"
 }
