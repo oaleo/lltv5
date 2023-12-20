@@ -91,6 +91,19 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/骚火影视.json"
     },
     {
+      "key": "耐落",
+      "name": "🔥LLTV_VIP⑤",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "ext": {
+      "线路数组": "data-dropdown-value=&&</div>",
+      "播放数组": "<div class=\"scroll-content&&</div>",
+      "线路标题": "LLTV_VIP-+<span>&&</small>[替换:</span><small>>>共]+集",
+      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+      "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
+    },
+    {
       "key": "js_nangua",
       "name": "南瓜┃资源",
       "type": 3,
@@ -849,19 +862,6 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  影音天堂yytt.jar
-    {
-      "key": "耐落",
-      "name": "耐落┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "ext": {
-      "线路数组": "data-dropdown-value=&&</div>",
-      "播放数组": "<div class=\"scroll-content&&</div>",
-      "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
-      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
-      "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
-    },
     {
       "key": "csp_AppMr",
       "name": "影视范┃资源",
