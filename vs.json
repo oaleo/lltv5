@@ -112,15 +112,6 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     {
-      "key": "dytt",
-      "name": "天堂┃资源",
-      "type": 1,
-      "playUrl": "",
-      "api": "https://www.dy2018.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 0
-    },
-    {
       "key": "js_影探",
       "name": "影探┃资源",
       "type": 3,
@@ -197,8 +188,6 @@
       "key": "hnzy",
       "name": "红牛┃资源",
       "type": 1,
-      "playerType": 1,
-      "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
       "searchable": 1,
       "filterable": 0
@@ -279,7 +268,6 @@
       "name": "非凡┃资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "playurl": "https://ffzyplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -316,7 +304,6 @@
       "name": "量子┃资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "playurl": "https://lziplayer.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -452,7 +439,6 @@
       "key": "49zy",
       "name": "四九┃资源",
       "type": 1,
-      "playUrl": "https://49zyplayerurl.com/?url=",
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
@@ -559,7 +545,7 @@
       "key": "花海",
       "name": "花海┃影视",
       "api": "csp_AppYs",
-      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
       "type": 3,
       "playerType":1,
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
@@ -814,7 +800,6 @@
       "key": "*CK资源",
       "name": "Ck┃资源",
       "type": 1,
-      "playUrl": "https://ckm3u8.cc/?url=",
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
