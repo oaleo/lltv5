@@ -25,6 +25,10 @@
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
+      "ext": {
+      "线路数组": "data-dropdown-value=&&</div>",
+      "播放数组": "<div class=\"scroll-content&&</div>",
+      "线路标题": "LLTV_VIP-+<span>&&</small>[替换:</span><small>>>共]+集"},
       "categories": [
         "短剧",
         "内地剧",
