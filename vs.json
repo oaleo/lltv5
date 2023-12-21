@@ -1123,17 +1123,7 @@
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    {
-      "key": "zuiju",
-      "name": "追忆┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/追忆影视.js"
-    },
+    
     {
       "key": "赞赞",
       "name": "赞赞┃资源",
@@ -1150,6 +1140,7 @@
       "name":"臻品┃资源",
       "type":3,
       "api":"csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
@@ -1160,6 +1151,7 @@
 			"name": "好戏┃资源",
 			"type": 3,
 			"api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
 			"ext": {
 				"主页url": "https://haoxi.vip/",
 				"简介": "简介：&&</li>",
@@ -1191,10 +1183,11 @@
 		},
     {
       "key":"csp_miai",
-      "name":"👑米爱蓝光👑",
+      "name":"米爱┃资源",
       "type":3,
       "playerType":2,
       "api":"csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
