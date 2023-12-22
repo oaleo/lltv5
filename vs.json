@@ -1056,6 +1056,14 @@
       "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
     {
+      "key": "FREE1OK",
+      "name": "️️Fre┃资源",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/FreeOK.js"
+    },
+    {
       "key": "Libvio",
       "name": "Lib┃资源",
       "type": 3,
@@ -1075,14 +1083,6 @@
       "ext": "https://www.libvio.pro/"
     },
 */
-    {
-      "key": "FREE1OK",
-      "name": "️️Fre┃资源",
-      "type": 3,
-      "playerType": "1",
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/FreeOK.js"
-    },
     {
       "key": "bttwo",
       "name": "BTtwo┃资源",
