@@ -12,7 +12,10 @@
       "name": "👇点首页切换资源，首选电信网络",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/douban.js"
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/豆瓣推荐.js"
     },
     {
       "key": "豪华资源",
@@ -133,7 +136,26 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
+    {
+      "key": "厂长",
+      "name": "厂长┃资源",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
+    },
 /*
+    {
+      "key": "Czsapp",
+      "name": "厂长┃资源",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://czz9.com/"
+    },
     {
       "key": "荐片",
       "name": "荐片┃4K",
@@ -169,6 +191,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
+    },
+    {
+      "key": "drpy_js_低端",
+      "name": "低端┃资源",
+      "type": 3,
+      "playerType":2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/低端影视.js"
     },
     {
       "key": "hnzy",
@@ -612,46 +642,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
     },
-    {
-      "key": "厂长",
-      "name": "厂长┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "playerType": "2",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
-    },
-/*
-    {
-      "key": "drpy_js_低端",
-      "name": "低端┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/低端.js"
-    },
-*/
-    {
-      "key": "DiDuan",
-      "name": "低端┃资源",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-/*
-    {
-      "key": "Czsapp",
-      "name": "厂长┃资源",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://czz9.com/"
-    },
-*/
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
     
@@ -1273,6 +1263,25 @@
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
+    {
+      "key": "DiDuan",
+      "name": "低端┃资源",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+    {
+      "key": "drpy_js_低端",
+      "name": "低端┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/低端影视.js"
+    },
+
     {
       "key": "繁星",
       "name": "繁星┃资源",
