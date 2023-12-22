@@ -126,28 +126,6 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
     {
-      "key": "js_影探",
-      "name": "影探┃资源",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/yt.js"
-    },
-    {
-      "key": "飞云",
-      "name": "飞云┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
-    },
-    {
       "key": "荐片",
       "name": "荐片┃资源",
       "type": 3,
@@ -170,6 +148,28 @@
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/danmu.jar"
     },
 */
+    {
+      "key": "js_影探",
+      "name": "影探┃资源",
+      "type": 3,
+      "playerType": 1,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/yt.js"
+    },
+    {
+      "key": "飞云",
+      "name": "飞云┃资源",
+      "type": 3,
+      "playerType":2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
+    },
     {
       "key": "hnzy",
       "name": "红牛┃资源",
@@ -620,6 +620,7 @@
       "playerType": "2",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
     },
+/*
     {
       "key": "drpy_js_低端",
       "name": "低端┃资源",
@@ -627,7 +628,7 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/低端.js"
     },
-/*
+*/
     {
       "key": "DiDuan",
       "name": "低端┃资源",
@@ -638,6 +639,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
+/*
     {
       "key": "Czsapp",
       "name": "厂长┃资源",
