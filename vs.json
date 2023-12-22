@@ -1047,7 +1047,7 @@
     },
     {
       "key": "*CK资源",
-      "name": "Ck┃资源",
+      "name": "CK┃资源",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 0,
