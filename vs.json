@@ -674,6 +674,16 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
     {
+      "key": "迷你",
+      "name": "迷你┃资源",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
       "key": "Kanj",
       "name": "西瓜┃资源",
       "type": 3,
@@ -683,16 +693,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "分类url:https://www.kanjuck.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}.html,分类:电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#午夜$fenlei5"
-    },
-    {
-      "key": "迷你",
-      "name": "迷你┃资源",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
       "key":"zp",
