@@ -69,17 +69,6 @@
       "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/米爱影视.json"
     },
     {
-      "key":"虎虎",
-      "name":"虎虎资源",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/虎虎.json"
-    },
-    {
       "key":"LLTV",
       "name":"🔥LLTV_VIP③",
       "type":3,
@@ -113,8 +102,19 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/骚火影视.json"
     },
     {
+      "key":"虎虎",
+      "name":"🔥LLTV_VIP⑥",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/虎虎.json"
+    },
+    {
       "key": "耐落",
-      "name": "🔥LLTV_VIP⑥",
+      "name": "🔥LLTV_VIP⑦",
       "type": 3,
       "api": "csp_XBPQ",
       "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
