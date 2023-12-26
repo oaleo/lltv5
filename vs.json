@@ -335,6 +335,45 @@
       ]
     },
     {
+      "key": "乐视",
+      "name": "乐视┃资源",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
+    },
+    {
+      "key": "虎牙",
+      "name": "虎牙┃资源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
       "key": "csp_非凡资源",
       "name": "非凡┃资源",
       "type": 1,
@@ -407,39 +446,6 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
-      ]
-    },
-    {
-      "key": "虎牙",
-      "name": "虎牙┃资源",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
       ]
     },
     {
@@ -571,12 +577,6 @@
       "quickSearch":1
     },
     {
-      "key": "乐视",
-      "name": "乐视┃资源",
-      "type": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
-    },
-    {
       "key":"csp_xBPQ_大米星球",
       "name":"️大米┃资源",
       "type":3,
@@ -652,7 +652,6 @@
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/zanzan.js"
     },
-    
     {
       "key": "爱看影视",
       "name": "爱看┃资源",
@@ -685,33 +684,6 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/在线之家.js"
     },
-    {
-      "key": "1080",
-      "name": "视界┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "playerType": "1",
-      "ext": {
-        "主页url": "https://www.1080kanju.com/",
-        "简介": "<p&&</p>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "影片状态": "集数：&&</div>",
-        "影片类型": "module-info-tag\">&&立即播放",
-        "搜索模式": "1",
-        "搜索url": "https://www.1080kanju.com/vodsearch/wd/{wd}.html",
-        "搜索数组": "module-card-item-class\">&&</a>",
-        "搜索标题": "alt=\"&&\"",
-        "搜索副标题": "note\">&&</div>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "data-dropdown-value=&&</div>",
-        "线路标题": "<span>&&</small>",
-        "分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
-      }
-    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
     
@@ -725,14 +697,6 @@
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhtx.jar",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/短剧.json"
-    },
-    {
-      "key": "bdys",
-      "name": "哔嘀┃资源",
-      "type": 3,
-      "api": "csp_Bdys",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhtx.jar",
-      "playerType": 1
     },
     {
       "key": "迷你",
@@ -970,6 +934,15 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
+      "key": "爱迪影视",
+      "name": "爱迪┃资源",
+      "type": 3,
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "playerType": "2",
+      "api": "csp_AppYsV2",
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {
       "key": "一起看 ",
       "name": "一起看┃资源",
       "type": 3,
@@ -990,15 +963,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "爱迪影视",
-      "name": "爱迪┃资源",
-      "type": 3,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "playerType": "2",
-      "api": "csp_AppYsV2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
