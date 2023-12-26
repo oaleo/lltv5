@@ -15,6 +15,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
+        "短剧",
         "内地剧",
         "香港剧",
         "台湾剧",
@@ -46,19 +47,8 @@
       ]
     },
     {
-      "key":"LLTV",
-      "name":"LLTV_VIP",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./json/xpg.json",
-      "jar": "./jar/xpg.jar"
-    },
-    {
       "key": "js_nangua",
-      "name": "南瓜┃资源",
+      "name": "NG┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -67,25 +57,22 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
     {
-      "key": "飞云",
-      "name": "飞云┃资源",
+      "key": "赞赞",
+      "name": "ZZ┃资源",
       "type": 3,
       "playerType":2,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/zanzan.js"
     },
     {
-      "key": "迷你",
-      "name": "迷你┃资源",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/"
+      "key": "小胡同学",
+      "name": "XH┃资源",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
     }
 ],
 
