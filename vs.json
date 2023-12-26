@@ -1009,7 +1009,6 @@
 
 
 
-
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     {
@@ -1745,6 +1744,8 @@
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/小灯塔启蒙.json"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1753,7 +1754,7 @@
       "key": "Music_spider",
       "name": "Music",
       "api": "csp_Music",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "type": 3,
       "filterable": 0,
       "quickSearch": 1,
@@ -1803,7 +1804,6 @@
       "key": "drpy_js_360影视",
       "name": "360┃(官)",
       "type": 3,
-      "playUrl": "https://jx.xmflv.com/?url=",
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/360.js"
     },
