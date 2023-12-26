@@ -202,7 +202,7 @@
       "name": "飞云┃资源",
       "type": 3,
       "playerType":2,
-      "playUrl": "http://daina.hk/",
+      "playUrl": "飞云json: daina.hk",
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
