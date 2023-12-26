@@ -678,8 +678,16 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/奇优.js"
     },
     {
+      "key": "在线之家",
+      "name": "在线┃资源",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/在线之家.js"
+    },
+    {
       "key": "1080",
-      "name": "📺视界┃影视",
+      "name": "视界┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
@@ -715,32 +723,16 @@
       "name": "短剧┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhtx.jar",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/短剧.json"
-    },
-    {
-      "key": "在线之家",
-      "name": "在线┃资源",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/在线之家.js"
     },
     {
       "key": "bdys",
       "name": "哔嘀┃资源",
       "type": 3,
       "api": "csp_Bdys",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhtx.jar",
       "playerType": 1
-    },
-    {
-      "key": "爱迪",
-      "name": "爱迪┃资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
       "key": "迷你",
@@ -1124,7 +1116,7 @@
       "name": "996┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xiaohutongxue.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhtx.jar",
       "ext": {
       "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
       "分类": "电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14"}
