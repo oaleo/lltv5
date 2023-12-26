@@ -44,22 +44,8 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  fty.jar
     {
-      "key": "Aid",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-      "type": "rect",
-      "ratio": 3.8
-      }
-    },
-    {
       "key": "少儿教育",
-      "name": "儿童┃早教",
+      "name": "幼小┃衔接",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
@@ -131,6 +117,20 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/兴趣课堂.json"
+    },
+    {
+      "key": "Aid",
+      "name": "急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+      "type": "rect",
+      "ratio": 3.8
+      }
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
