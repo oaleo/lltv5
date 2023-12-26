@@ -113,17 +113,12 @@
       "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/虎虎.json"
     },
     {
-      "key": "耐落",
-      "name": "🔥LLTV_VIP⑦",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "ext": {
-      "线路数组": "data-dropdown-value=&&</div>",
-      "播放数组": "<div class=\"scroll-content&&</div>",
-      "线路标题": "LLTV_VIP-+<span>&&</small>[替换:</span><small>>>共]+集",
-      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
-      "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
+      "key": "小胡",
+      "name": "小胡┃资源",
+      "type": 1,
+      "playerType": 1,
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
     },
     
     
@@ -953,18 +948,32 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  影音天堂yytt.jar
+//以下需适配  yytt.jar
     {
       "key": "csp_AppMr",
       "name": "影视范┃资源",
       "type": 3,
       "api": "csp_AppMr",
       "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
 /*
+    {
+      "key": "耐落",
+      "name": "耐落┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "ext": {
+      "线路数组": "data-dropdown-value=&&</div>",
+      "播放数组": "<div class=\"scroll-content&&</div>",
+      "线路标题": "LLTV_VIP-+<span>&&</small>[替换:</span><small>>>共]+集",
+      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+      "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
+    },
     {
       "key": "Vofl",
       "name": "VoF┃资源",
