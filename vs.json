@@ -1150,7 +1150,7 @@
       "name": "河马┃App",
       "type": 3,
       "api": "csp_Hmys",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 1,
       "ext": "https://m.jmzp.net.cn"
     },
@@ -1159,7 +1159,7 @@
       "name": "天天┃App",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn"
     },
@@ -1168,7 +1168,7 @@
       "name": "蝴蝶┃App",
       "type": 3,
       "api": "csp_Hudie",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
     },
@@ -1177,16 +1177,16 @@
       "name": "云播┃App",
       "type": 3,
       "api": "csp_Skapp",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/tvbyb"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/tvbyb"
     },
     {
       "key": "看看",
       "name": "看看┃App",
       "type": 3,
       "api": "csp_KanKan",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1197,72 +1197,72 @@
       "name": "巧一┃App",
       "type": 3,
       "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/qiaoji1"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji1"
     },
     {
       "key": "巧技二",
       "name": "巧二┃App",
       "type": 3,
       "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/qiaoji2"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji2"
     },
     {
       "key": "巧技三",
       "name": "巧三┃App",
       "type": 3,
       "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/qiaoji3"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji3"
     },
     {
       "key": "侠客",
       "name": "侠客┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./qiaoji/xiake"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/xiake"
     },
     {
       "key": "超神",
       "name": "超神┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "./qiaoji/chaoshen"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/chaoshen"
     },
     {
       "key": "云云",
       "name": "云云┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./qiaoji/laohu"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/laohu"
     },
     {
       "key": "星星",
       "name": "星星┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/xingxing"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/xingxing"
     },
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1536,21 +1536,21 @@
       "name": "樱花┃动漫",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "./qiaoji/yinghua"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/yinghua"
     },
     {
       "key": "嘶哩",
       "name": "嘶哩┃动漫",
       "type": 3,
       "api": "csp_Skapp",
-      "jar": "./qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "./qiaoji/sili"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
     },
 
 
@@ -1622,7 +1622,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/少儿教育.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1637,7 +1637,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/小学课堂.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -1652,7 +1652,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/初中课堂.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -1667,7 +1667,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/高中课堂.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/高中课堂.json"
     },
     {
       "key": "兴趣课堂",
@@ -1682,7 +1682,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/兴趣课堂.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/兴趣课堂.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1699,7 +1699,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔百科.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/小灯塔百科.json"
     },
     {
       "key": "小灯塔地理",
@@ -1710,7 +1710,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔地理.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/小灯塔地理.json"
     },
     {
       "key": "小灯塔国学",
@@ -1721,7 +1721,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔国学.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/小灯塔国学.json"
     },
     {
       "key": "小灯塔科学",
@@ -1732,7 +1732,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔科学.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/小灯塔科学.json"
     },
     {
       "key": "小灯塔启蒙",
@@ -1743,15 +1743,12 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/小灯塔启蒙.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/jiaoyu/小灯塔启蒙.json"
     },
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
-
-
-
     {
       "key": "Music_spider",
       "name": "Music",
