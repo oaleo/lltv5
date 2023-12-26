@@ -574,7 +574,7 @@
       "key": "乐视",
       "name": "乐视┃资源",
       "type": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/from/hhm3u8/"
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
     },
     {
       "key":"csp_xBPQ_大米星球",
@@ -677,6 +677,33 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/奇优.js"
     },
+    {
+      "key": "1080",
+      "name": "📺视界┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "playerType": "1",
+      "ext": {
+        "主页url": "https://www.1080kanju.com/",
+        "简介": "<p&&</p>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "影片状态": "集数：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索模式": "1",
+        "搜索url": "https://www.1080kanju.com/vodsearch/wd/{wd}.html",
+        "搜索数组": "module-card-item-class\">&&</a>",
+        "搜索标题": "alt=\"&&\"",
+        "搜索副标题": "note\">&&</div>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>",
+        "分类url": "https://www.1080kanju.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#港剧区$20#动漫$4#综艺$3#纪录片$5"
+      }
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
     
@@ -685,11 +712,35 @@
 //以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
     {
       "key": "短剧",
-      "name": "短剧┃视频",
+      "name": "短剧┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
-      "ext": "https://jihulab.com/xiaohutx/meisha/-/raw/main/XBPQ/短剧.json"
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/短剧.json"
+    },
+    {
+      "key": "在线之家",
+      "name": "在线┃资源",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/在线之家.js"
+    },
+    {
+      "key": "bdys",
+      "name": "哔嘀┃资源",
+      "type": 3,
+      "api": "csp_Bdys",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "playerType": 1
+    },
+    {
+      "key": "爱迪",
+      "name": "爱迪┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
       "key": "迷你",
