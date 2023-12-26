@@ -152,7 +152,7 @@
     },
 /*
     {
-      "key": "Czsapp",
+      "key": "厂长",
       "name": "厂长┃资源",
       "type": 3,
       "api": "csp_Czsapp",
@@ -161,6 +161,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://czz9.com/"
+      "ext": "https://www.czzy88.com/"
     },
     {
       "key": "荐片",
@@ -570,6 +571,12 @@
       "quickSearch":1
     },
     {
+      "key": "乐视",
+      "name": "乐视┃资源",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/from/hhm3u8/"
+    },
+    {
       "key":"csp_xBPQ_大米星球",
       "name":"️大米┃资源",
       "type":3,
@@ -676,6 +683,14 @@
     
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+    {
+      "key": "短剧",
+      "name": "短剧┃视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
+      "ext": "https://jihulab.com/xiaohutx/meisha/-/raw/main/XBPQ/短剧.json"
+    },
     {
       "key": "迷你",
       "name": "迷你┃资源",
