@@ -1116,33 +1116,6 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  qiaoji.jar
     {
-      "key": "巧技一",
-      "name": "巧一┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "./qiaoji/qiaoji1"
-    },
-    {
-      "key": "巧技二",
-      "name": "巧二┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "./qiaoji/qiaoji2"
-    },
-    {
-      "key": "巧技三",
-      "name": "巧三┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "./qiaoji/qiaoji3"
-    },
-    {
       "key": "河马",
       "name": "河马┃App",
       "type": 3,
@@ -1177,6 +1150,44 @@
       "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
       "ext": "./qiaoji/tvbyb"
+    },
+    {
+      "key": "看看",
+      "name": "看看┃App",
+      "type": 3,
+      "api": "csp_KanKan",
+      "jar": "./qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+/*
+    {
+      "key": "巧技一",
+      "name": "巧一┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "./qiaoji/qiaoji1"
+    },
+    {
+      "key": "巧技二",
+      "name": "巧二┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "./qiaoji/qiaoji2"
+    },
+    {
+      "key": "巧技三",
+      "name": "巧三┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "./qiaoji/qiaoji3"
     },
     {
       "key": "侠客",
@@ -1223,17 +1234,9 @@
       "playerType": 2,
       "ext": "./qiaoji/xingxing"
     },
-    {
-      "key": "看看",
-      "name": "看看┃App",
-      "type": 3,
-      "api": "csp_KanKan",
-      "jar": "./qiaoji/qiaoji.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-/*
+*/
+    
+
     {
       "key": "星奇",
       "name": "星奇┃App",
@@ -1243,7 +1246,7 @@
       "playerType": 2,
       "ext": "./qiaoji/xingqi"
     },
-*/
+
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     
