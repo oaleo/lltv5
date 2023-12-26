@@ -112,7 +112,14 @@
       "filterable":1,
       "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/虎虎.json"
     },
-    
+    {
+      "key": "短剧",
+      "name": "短剧┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/短剧.json"
+    },
     
     
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -689,14 +696,6 @@
     
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-    {
-      "key": "短剧",
-      "name": "短剧┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/短剧.json"
-    },
     {
       "key": "迷你",
       "name": "迷你┃资源",
