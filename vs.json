@@ -1703,6 +1703,17 @@
       "filterable": 1,
       "ext": "./json/小灯塔科学.json"
     },
+    {
+      "key": "小灯塔人文",
+      "name": "小灯塔┃人文",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/小灯塔人文.json"
+    },
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
