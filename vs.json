@@ -142,6 +142,7 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/JP.js"
     },
+/*
     {
       "key": "厂长",
       "name": "厂长┃资源",
@@ -150,7 +151,7 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/厂长.js"
     },
-/*
+*/
     {
       "key": "厂长",
       "name": "厂长┃资源",
@@ -163,6 +164,7 @@
       "ext": "https://czz9.com/"
       "ext": "https://www.czzy88.com/"
     },
+/*
     {
       "key": "荐片",
       "name": "荐片┃4K",
