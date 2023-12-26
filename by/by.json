@@ -112,19 +112,7 @@
       "filterable":1,
       "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/虎虎.json"
     },
-    {
-      "key": "耐落",
-      "name": "🔥LLTV_VIP⑦",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "ext": {
-      "线路数组": "data-dropdown-value=&&</div>",
-      "播放数组": "<div class=\"scroll-content&&</div>",
-      "线路标题": "LLTV_VIP-+<span>&&</small>[替换:</span><small>>>共]+集",
-      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
-      "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
-    },
+    
     
     
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -157,7 +145,7 @@
     },
 /*
     {
-      "key": "Czsapp",
+      "key": "厂长",
       "name": "厂长┃资源",
       "type": 3,
       "api": "csp_Czsapp",
@@ -166,6 +154,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://czz9.com/"
+      "ext": "https://www.czzy88.com/"
     },
     {
       "key": "荐片",
@@ -175,21 +164,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-      "danmu": false
-    },
+      "ext": {"danmu": false},
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/danmu.jar"
     },
 */
     {
-      "key": "js_影探",
+      "key": "影探",
       "name": "影探┃资源",
       "type": 3,
-      "playerType": 1,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/yt.js"
     },
     {
@@ -199,6 +183,13 @@
       "playerType":2,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/低端影视.js"
+    },
+    {
+      "key": "小胡",
+      "name": "小胡┃资源",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
     },
     {
       "key": "飞云",
@@ -342,6 +333,45 @@
       ]
     },
     {
+      "key": "乐视",
+      "name": "乐视┃资源",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
+    },
+    {
+      "key": "虎牙",
+      "name": "虎牙┃资源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
       "key": "csp_非凡资源",
       "name": "非凡┃资源",
       "type": 1,
@@ -414,39 +444,6 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
-      ]
-    },
-    {
-      "key": "虎牙",
-      "name": "虎牙┃资源",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
       ]
     },
     {
@@ -653,7 +650,6 @@
       "quickSearch": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/zanzan.js"
     },
-    
     {
       "key": "爱看影视",
       "name": "爱看┃资源",
@@ -678,12 +674,28 @@
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/奇优.js"
     },
+    {
+      "key": "在线之家",
+      "name": "在线┃资源",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/在线之家.js"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
     
     
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+    {
+      "key": "短剧",
+      "name": "短剧┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/短剧.json"
+    },
     {
       "key": "迷你",
       "name": "迷你┃资源",
@@ -920,6 +932,15 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
+      "key": "爱迪影视",
+      "name": "爱迪┃资源",
+      "type": 3,
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "playerType": "2",
+      "api": "csp_AppYsV2",
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {
       "key": "一起看 ",
       "name": "一起看┃资源",
       "type": 3,
@@ -941,33 +962,38 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "爱迪影视",
-      "name": "爱迪┃资源",
-      "type": 3,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "playerType": "2",
-      "api": "csp_AppYsV2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  影音天堂yytt.jar
+//以下需适配  yytt.jar
     {
       "key": "csp_AppMr",
       "name": "影视范┃资源",
       "type": 3,
       "api": "csp_AppMr",
       "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
 /*
+    {
+      "key": "耐落",
+      "name": "耐落┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "ext": {
+      "线路数组": "data-dropdown-value=&&</div>",
+      "播放数组": "<div class=\"scroll-content&&</div>",
+      "线路标题": "LLTV_VIP-+<span>&&</small>[替换:</span><small>>>共]+集",
+      "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+      "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
+    },
     {
       "key": "Vofl",
       "name": "VoF┃资源",
@@ -1048,6 +1074,16 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/555.js"
     },
     {
+      "key": "996",
+      "name": "996┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhtx.jar",
+      "ext": {
+      "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "分类": "电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14"}
+    },
+    {
       "key": "1080资源",
       "name": "1080┃资源",
       "type": 0,
@@ -1068,7 +1104,7 @@
     },
     {
       "key": "FREE1OK",
-      "name": "️️Fre┃资源",
+      "name": "️️Free┃资源",
       "type": 3,
       "playerType": "1",
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
@@ -1076,7 +1112,7 @@
     },
     {
       "key": "Libvio",
-      "name": "Lib┃资源",
+      "name": "Libo┃资源",
       "type": 3,
       "playerType": "1",
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
@@ -1109,33 +1145,6 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  qiaoji.jar
-    {
-      "key": "巧技一",
-      "name": "巧一┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "./qiaoji/qiaoji1"
-    },
-    {
-      "key": "巧技二",
-      "name": "巧二┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "./qiaoji/qiaoji2"
-    },
-    {
-      "key": "巧技三",
-      "name": "巧三┃App",
-      "type": 3,
-      "api": "csp_qiao2",
-      "jar": "./qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "./qiaoji/qiaoji3"
-    },
     {
       "key": "河马",
       "name": "河马┃App",
@@ -1171,6 +1180,44 @@
       "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
       "ext": "./qiaoji/tvbyb"
+    },
+    {
+      "key": "看看",
+      "name": "看看┃App",
+      "type": 3,
+      "api": "csp_KanKan",
+      "jar": "./qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+/*
+    {
+      "key": "巧技一",
+      "name": "巧一┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "./qiaoji/qiaoji1"
+    },
+    {
+      "key": "巧技二",
+      "name": "巧二┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "./qiaoji/qiaoji2"
+    },
+    {
+      "key": "巧技三",
+      "name": "巧三┃App",
+      "type": 3,
+      "api": "csp_qiao2",
+      "jar": "./qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "./qiaoji/qiaoji3"
     },
     {
       "key": "侠客",
@@ -1216,26 +1263,6 @@
       "jar": "./qiaoji/qiaoji.jar",
       "playerType": 2,
       "ext": "./qiaoji/xingxing"
-    },
-    {
-      "key": "看看",
-      "name": "看看┃App",
-      "type": 3,
-      "api": "csp_KanKan",
-      "jar": "./qiaoji/qiaoji.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-/*
-    {
-      "key": "星奇",
-      "name": "星奇┃App",
-      "type": 3,
-      "api": "csp_qiao",
-      "jar": "./qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "./qiaoji/xingqi"
     },
 */
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1657,6 +1684,69 @@
       "changeable": 0,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/兴趣课堂.json"
     },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  HeChengChaXiu.jar
+    {
+      "key": "小灯塔百科",
+      "name": "小灯塔┃百科",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/小灯塔百科.json"
+    },
+    {
+      "key": "小灯塔地理",
+      "name": "小灯塔┃地理",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/小灯塔地理.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "小灯塔┃国学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/小灯塔国学.json"
+    },
+    {
+      "key": "小灯塔科学",
+      "name": "小灯塔┃科学",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/小灯塔科学.json"
+    },
+    {
+      "key": "小灯塔启蒙",
+      "name": "小灯塔┃启蒙",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/小灯塔启蒙.json"
+    },
+
+
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
 
