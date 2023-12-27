@@ -8,26 +8,6 @@
 "sites":[ 
   
     {
-      "key": "南瓜",
-      "name": "南瓜┃资源",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "花海",
-      "name": "花海┃影视",
-      "api": "csp_AppYs",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "type": 3,
-      "playerType":1,
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
-    },
-    {
       "key": "荐片",
       "name": "荐片┃4K",
       "type": 3,
@@ -185,6 +165,15 @@
       "changeable": 1
     },
     {
+      "key": "XYQH_电影港",
+      "name": "港口┃磁力",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/json/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/港口.json"
+    },
+    {
      "key": "csp_XBPQ_6V",
      "name": "6V┃4K",
      "type": 3,
@@ -194,6 +183,13 @@
      "filterable": 1,
      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/vip.jar",
      "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/6Vip.json"
+    },
+    {
+      "key": "nt动漫",
+      "name": "NT┃动漫",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/ntdm.js"
     },
     {
       "key": "熊猫动漫",
@@ -447,9 +443,37 @@
       "changeable": 0,
       "ext": "http://dt.xn--yety82d.love/玩偶表哥.json"
     },
+//以下需适配  fan.jar~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "csp_Dm84_3",
+      "name": "动漫┃巴士2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fan.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/Dm84.json"
+    },
+    {
+      "key": "去看吧2",
+      "name": "去看动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fan.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/去看吧.json"
+    },
+    {
+      "key": "去看吧",
+      "name": "去看吧",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/去看吧.js"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
     {
       "key": "csp_KungFu404",
       "name": "阿里云┃设置",
