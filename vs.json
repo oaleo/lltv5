@@ -126,14 +126,25 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     {
-      "key": "js_nangua",
+      "key": "南瓜",
       "name": "南瓜┃资源",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "js_nangua",
+      "name": "畅梦┃资源",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/changmeng.js"
     },
     {
       "key": "赞赞",
