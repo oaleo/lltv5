@@ -1108,10 +1108,6 @@
 
 
 
-
-
-
-
     {
       "key": "58动漫网",
       "name": "58┃动漫",
@@ -1143,29 +1139,13 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "Anime1┃动漫",
+      "name": "Anime┃动漫",
       "type": 3,
       "api": "csp_Anime1",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "drpy_js_路漫漫",
-      "name": "路漫漫",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/路漫漫.js"
-    },
-    {
-      "key": "嘶哩",
-      "name": "S站┃动漫",
-      "type": 3,
-      "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
     },
     {
       "key": "drpy_js_奇米动漫",
@@ -1180,6 +1160,15 @@
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/曲奇动漫.js"
+    },
+    {
+      "key": "嘶哩",
+      "name": "嘶哩┃动漫",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Skapp",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
     },
     {
       "key": "维奇",
@@ -1213,6 +1202,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "drpy_js_路漫漫",
+      "name": "路漫漫",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/路漫漫.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
