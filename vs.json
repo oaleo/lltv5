@@ -1111,7 +1111,7 @@
       "name": "AGE┃动漫",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/AGE动漫.js"
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/AGE动漫.js"
     },
     {
       "key": "csp_Anime1",
@@ -1170,26 +1170,26 @@
       "key": "NT动漫",
       "name": "NT┃动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./js/NT动漫.js"
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/NT动漫.js"
     },
     {
       "key": "drpy_js_路漫漫",
       "name": "路漫漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/路漫漫.js"
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/路漫漫.js"
     },
     {
       "key": "去看吧",
       "name": "去看吧",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/去看吧.js"
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/去看吧.js"
     },
     /*
     {
@@ -1200,29 +1200,29 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/去看吧.json"
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/去看吧.json"
     },
     */
     {
       "key": "nt动漫",
       "name": "拿铁动漫",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/ntdm.js"
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/ntdm.js"
     },
     {
       "key": "drpy_js_奇米动漫",
       "name": "动漫 | 奇米动漫[js]",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/奇米动漫.js"
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/奇米动漫.js"
     },
     {
       "key": "drpy_js_曲奇动漫",
       "name": "动漫 | 曲奇动漫[js]",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/曲奇动漫.js"
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/曲奇动漫.js"
     },
     {
       "key": "维奇",
@@ -1232,7 +1232,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/维奇.json"
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/维奇动漫.json"
     }
 
 
