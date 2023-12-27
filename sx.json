@@ -262,28 +262,37 @@
       "key": "巧技一",
       "name": "巧一┃App",
       "type": 3,
-      "api": "csp_qiao2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji1221.jar",
       "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji1"
     },
     {
       "key": "巧技二",
       "name": "巧二┃App",
       "type": 3,
-      "api": "csp_qiao2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji1221.jar",
       "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji2"
     },
     {
       "key": "巧技三",
       "name": "巧三┃App",
       "type": 3,
-      "api": "csp_qiao2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji1221.jar",
       "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji3"
+    },
+    {
+      "key": "巧技四",
+      "name": "巧四┃App",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji4"
     },
     {
       "key": "侠客",
