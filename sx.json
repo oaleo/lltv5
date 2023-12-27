@@ -8,6 +8,44 @@
 "sites":[ 
   
     {
+      "key": "测试1",
+      "name": "测试1",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/348.json"
+    },
+    {
+      "key": "测试2",
+      "name": "测试2",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/007影视.json"
+    },
+    {
+      "key": "测试3",
+      "name": "测试3",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/4KHDR.json"
+    },
+    {
+      "key": "测试4",
+      "name": "测试4",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/789.json"
+    },
+    {
+      "key": "测试5",
+      "name": "测试5",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/qiqi.json"
+    },
+
+
+
+    {
       "key": "荐片",
       "name": "荐片┃4K",
       "type": 3,
