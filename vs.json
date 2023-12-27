@@ -1083,6 +1083,42 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  qiaoji.jar
     {
+      "key": "巧技一",
+      "name": "巧一┃App",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji1"
+    },
+    {
+      "key": "巧技二",
+      "name": "巧二┃App",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji2"
+    },
+    {
+      "key": "巧技三",
+      "name": "巧三┃App",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji3"
+    },
+    {
+      "key": "巧技四",
+      "name": "巧四┃App",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji4"
+    },
+    {
       "key": "天天",
       "name": "天天┃App",
       "type": 3,
@@ -1140,29 +1176,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "涂城",
-      "name": "涂城┃App",
-      "type": 0,
-      "playerType": 1,
-      "api": "http://154.12.81.149:88/aatucheng/api.php/provide/vod/at/xml/",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "K影",
-      "name": "K影┃App",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
-    },
+    
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
