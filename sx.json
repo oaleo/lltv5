@@ -259,40 +259,27 @@
     },
 //以下需适配  qiaoji.jar~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
-      "key": "巧技一",
-      "name": "巧一┃App",
+      "key": "K影",
+      "name": "K影┃App",
       "type": 3,
-      "playerType": 2,
-      "api": "csp_qiao2",
+      "playerType": 1,
+      "api": "csp_AppYsV2",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji1"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
     },
     {
-      "key": "巧技二",
-      "name": "巧二┃App",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_qiao2",
+      "key": "涂城",
+      "name": "涂城┃App",
+      "type": 0,
+      "playerType": 1,
+      "api": "http://154.12.81.149:88/aatucheng/api.php/provide/vod/at/xml/",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji2"
-    },
-    {
-      "key": "巧技三",
-      "name": "巧三┃App",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_qiao2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji3"
-    },
-    {
-      "key": "巧技四",
-      "name": "巧四┃App",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_qiao2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji4"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "侠客",
@@ -475,6 +462,16 @@
 //解析~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "parses": [
     {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
       "name": "罗罗精选1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
@@ -509,8 +506,54 @@
       "name": "精选6",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
+    },
+    {
+      "name": "精选7",
+      "type": 1,
+      "url": "https://www.qiaoji8.com/tvbox/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "AliS",
+          "122",
+          "xfyun",
+          "wuduzy",
+          "CL4K",
+          "chuangying",
+          "YuMi-vip"
+        ]
+      }
     }
   ],
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+//旗帜~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "flags": [
     "tudou",
     "土豆",
@@ -518,6 +561,7 @@
     "PPTV",
     "wasu",
     "qq",
+    "QQ",
     "腾讯",
     "qiyi",
     "奇艺",
@@ -538,20 +582,39 @@
     "哔哩哔哩",
     "xigua",
     "西瓜",
+    "xmm",
     "1905",
+    "m1905",
+    "imgo",
+    "funshion",
+    "dbm3u8",
+    "cool",
     "tnmb",
     "seven",
     "yzm",
+    "ppayun",
+    "haiwaikan",
+    "renrenmi",
     "aliyun",
     "RJuMao",
     "bilibili",
-    "1905",
     "xinvip",
     "XAL",
     "qiqi",
     "XALS",
+    "SPA",
+    "ltnb",
+    "rx",
+    "SLYS4k",
+    "BYGA",
+    "luanzi",
+    "dxzy",
+    "QEYSS",
+    "ruyi1080",
+    "ruyib1080",
     "YuMi-vip"
   ],
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -591,6 +654,7 @@
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]}
 ],
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -639,6 +703,7 @@
             ]
         }
     ], 
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -725,6 +790,7 @@
         { "name": "火山嗅探", "hosts": ["huoshan.com"], "regex": ["item_id="] },
         { "name": "抖音嗅探", "hosts": ["douyin.com"], "regex": ["is_play_url="] }
     ], 
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -749,6 +815,7 @@
       "ua": "okhttp/3.15"
     }
     ],
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
