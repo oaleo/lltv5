@@ -1042,6 +1042,17 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }
     },
     {
+      "key": "Vofl",
+      "name": "VOF┃资源",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_Voflix",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "FREE1OK",
       "name": "️️Free┃资源",
       "type": 3,
