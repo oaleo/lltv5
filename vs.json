@@ -135,6 +135,24 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
     },
     {
+      "key": "赞赞",
+      "name": "赞赞┃资源",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/zanzan.js"
+    },
+    {
+      "key": "小胡同学",
+      "name": "小胡┃资源",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
+    },
+    {
       "key": "荐片",
       "name": "荐片┃资源",
       "type": 3,
@@ -189,13 +207,6 @@
       "playerType":2,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/低端影视.js"
-    },
-    {
-      "key": "小胡",
-      "name": "小胡┃资源",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://c.小胡.icu/api.php/provide/vod/"
     },
     {
       "key": "飞云",
@@ -646,17 +657,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/嘉靓.js"
-    },
-    {
-      "key": "赞赞",
-      "name": "赞赞┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/zanzan.js"
     },
     {
       "key": "爱看影视",
