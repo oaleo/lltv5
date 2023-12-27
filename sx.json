@@ -33,31 +33,6 @@
       "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
     },
     {
-      "key": "Vofl",
-      "name": "VoF┃资源",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_Voflix",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "OXS",
-      "name": "OXS┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xhkw1.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
-    },
-    {
       "key": "星星",
       "name": "星星┃App",
       "type": 3,
