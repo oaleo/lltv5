@@ -1127,17 +1127,8 @@
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/AGE动漫.js"
     },
     {
-      "key": "嘶哩",
-      "name": "slsl┃动漫",
-      "type": 3,
-      "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
-    },
-    {
       "key": "csp_Anime1",
-      "name": "日本┃动漫",
+      "name": "Anime1┃动漫",
       "type": 3,
       "api": "csp_Anime1",
       "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
@@ -1146,69 +1137,21 @@
       "filterable": 1
     },
     {
-      "key": "樱花",
-      "name": "樱花┃动漫",
-      "type": 3,
-      "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/yinghua"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "动漫┃巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Dm84_3",
-      "name": "动漫┃巴士2",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fan.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/Dm84.json"
-    },
-    
-    
-    
-    {
       "key": "drpy_js_路漫漫",
       "name": "路漫漫",
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/路漫漫.js"
     },
-    /*
     {
-      "key": "去看吧",
-      "name": "去看吧",
+      "key": "嘶哩",
+      "name": "S站┃动漫",
       "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/去看吧.js"
+      "api": "csp_Skapp",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
     },
-    */
-    {
-      "key": "去看吧",
-      "name": "去看动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fan.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/去看吧.json"
-    },
-    
     {
       "key": "drpy_js_奇米动漫",
       "name": "奇米┃动漫",
@@ -1234,21 +1177,30 @@
       "filterable": 1,
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/维奇动漫.json"
     },
-
-
-
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  PandaQ231205.jar
     {
-      "key": "熊猫动漫",
-      "name": "熊猫┃动漫",
+      "key": "樱花",
+      "name": "樱花┃动漫",
       "type": 3,
-      "playerType":1,
-      "api": "csp_Panda",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
-      "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
+      "api": "csp_qiao",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/yinghua"
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "动漫┃巴士",
+      "type": 3,
+      "api": "csp_Dm84",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
