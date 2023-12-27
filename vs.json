@@ -1098,14 +1098,20 @@
 
 
     {
-      "key": "csp_Dm84",
-      "name": "动漫┃巴士",
+      "key": "嘶哩",
+      "name": "S站┃动漫",
       "type": 3,
-      "api": "csp_Dm84",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "csp_Skapp",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
+    },
+    {
+      "key": "AGE动漫",
+      "name": "AGE┃动漫",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/AGE动漫.js"
     },
     {
       "key": "csp_Anime1",
@@ -1130,14 +1136,104 @@
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/yinghua"
     },
     {
-      "key": "嘶哩",
-      "name": "嘶哩┃动漫",
+      "key": "csp_Dm84",
+      "name": "动漫┃巴士",
       "type": 3,
-      "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
+      "api": "csp_Dm84",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
+    {
+      "key": "csp_Dm84_3",
+      "name": "动漫┃巴士2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/Dm84.json"
+    },
+    {
+      "key": "58动漫网",
+      "name": "58┃动漫",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/58动漫.js"
+    },
+    {
+      "key": "NT动漫",
+      "name": "NT┃动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./js/NT动漫.js"
+    },
+    {
+      "key": "drpy_js_路漫漫",
+      "name": "路漫漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/路漫漫.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "去看吧",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/去看吧.js"
+    },
+    /*
+    {
+      "key": "去看吧",
+      "name": "去看动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/去看吧.json"
+    },
+    */
+    {
+      "key": "nt动漫",
+      "name": "拿铁动漫",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/ntdm.js"
+    },
+    {
+      "key": "drpy_js_奇米动漫",
+      "name": "动漫 | 奇米动漫[js]",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/奇米动漫.js"
+    },
+    {
+      "key": "drpy_js_曲奇动漫",
+      "name": "动漫 | 曲奇动漫[js]",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/曲奇动漫.js"
+    },
+    {
+      "key": "维奇",
+      "name": "维奇动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/维奇.json"
+    }
 
 
 
