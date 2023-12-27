@@ -1098,13 +1098,26 @@
 
 
     {
-      "key": "嘶哩",
-      "name": "S站┃动漫",
+      "key": "58动漫网",
+      "name": "58┃动漫",
       "type": 3,
-      "api": "csp_Skapp",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
-      "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/58动漫.js"
+    },
+    {
+      "key": "NT动漫",
+      "name": "NT┃动漫",
+      "type": 3,
+      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/NT动漫.js"
     },
     {
       "key": "AGE动漫",
@@ -1112,6 +1125,15 @@
       "type": 3,
       "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/AGE动漫.js"
+    },
+    {
+      "key": "嘶哩",
+      "name": "slsl┃动漫",
+      "type": 3,
+      "api": "csp_Skapp",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "playerType": 2,
+      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/sili"
     },
     {
       "key": "csp_Anime1",
@@ -1150,41 +1172,15 @@
       "name": "动漫┃巴士2",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/Dm84.json"
     },
-    {
-      "key": "58动漫网",
-      "name": "58┃动漫",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/58动漫.js"
-    },
-    {
-      "key": "NT动漫",
-      "name": "NT┃动漫",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/NT动漫.js"
-    },
-    {
-      "key": "nt动漫2",
-      "name": "拿铁┃动漫",
-      "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/ntdm.js"
-    },
+    
+    
+    
     {
       "key": "drpy_js_路漫漫",
       "name": "路漫漫",
@@ -1206,6 +1202,7 @@
       "name": "去看动漫",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/pg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
