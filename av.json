@@ -50,11 +50,11 @@
       "key": "js_nangua",
       "name": "NG┃资源",
       "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/nangua.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/nangua.js"
     },
     {
       "key": "*CK资源",
@@ -133,7 +133,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/91色.json",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/xb.jar"
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xb.jar"
     },
     {
       "key":"西瓜影院_XBPQ",
@@ -161,7 +161,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/alibaba.jar"
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/alibaba.jar"
     }
 ],
 
