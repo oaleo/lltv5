@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/91色.json",
+      "ext": "https://codeberg.org/lltv/vip/raw/branch/main/json/91色.json",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xb.jar"
     },
     {
@@ -435,7 +435,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://codeberg.org/ll8000/jav/raw/branch/main/avlive.txt",
+		    "url": "https://codeberg.org/lltv/by/raw/branch/main/avlive.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
