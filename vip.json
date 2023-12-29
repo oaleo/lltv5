@@ -887,15 +887,6 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
-      "key": "爱迪影视",
-      "name": "爱迪┃资源",
-      "type": 3,
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
-      "playerType": "2",
-      "api": "csp_AppYsV2",
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
       "key": "一起看 ",
       "name": "一起看┃资源",
       "type": 3,
