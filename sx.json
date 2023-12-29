@@ -203,18 +203,6 @@
       "ext": "https://www.czzy88.com/"
     },
     {
-      "key": "飞云",
-      "name": "飞云┃资源",
-      "type": 3,
-      "playerType":2,
-      "playUrl":"json: http://daina.hk/api/?key=0d3a8412b195fb42d14212d9c99ae00f&url=",
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
-    },
-    {
       "key": "app_轻简",
       "name": "轻简┃资源",
       "type": 1,
@@ -391,6 +379,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.hdmyy.com/"
+    },
+//以下需适配  pg.jar~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "爱迪影视",
+      "name": "爱迪┃资源",
+      "type": 3,
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
+      "playerType": "2",
+      "api": "csp_AppYsV2",
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
 //以下需适配  PandaQ231205.jar~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
