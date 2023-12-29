@@ -20,16 +20,6 @@
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/danmu.jar"
     },
     {
-      "key": "feiyun",
-      "name": "飞云┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
-    },
-    {
       "key": "耐落",
       "name": "耐落┃资源",
       "type": 3,
