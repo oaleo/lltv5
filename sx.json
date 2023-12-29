@@ -174,7 +174,7 @@
       "name": "NT┃动漫",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/ntdm.js"
+      "ext": "https://codeberg.org/lltv/vip/raw/branch/main/js/ntdm.js"
     },
     {
       "key": "熊猫动漫",
@@ -434,7 +434,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/Dm84.json"
+      "ext": "https://codeberg.org/lltv/vip/raw/branch/main/json/Dm84.json"
     },
     {
       "key": "去看吧2",
@@ -452,7 +452,7 @@
       "name": "去看吧",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/去看吧.js"
+      "ext": "https://codeberg.org/lltv/vip/raw/branch/main/js/去看吧.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
