@@ -17,14 +17,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {"danmu": false},
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/danmu.jar"
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/danmu.jar"
+    },
+    {
+      "key": "feiyun",
+      "name": "飞云┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "耐落",
       "name": "耐落┃资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/yytt.jar",
+      "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/yytt.jar",
       "ext": {
       "线路数组": "data-dropdown-value=&&</div>",
       "播放数组": "<div class=\"scroll-content&&</div>",
@@ -37,16 +47,16 @@
       "name": "星星┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/xingxing"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/xingxing"
     },
     {
       "key": "玩偶哥哥",
       "name": "玩偶┃4K",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -57,7 +67,7 @@
       "name": "南坊┃资源",
       "type": 3,
       "api": "csp_AppMao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -68,7 +78,7 @@
       "name": "鑫鑫┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -79,7 +89,7 @@
       "name": "低端┃资源",
       "type": 3,
       "api": "csp_Ddrk",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -89,7 +99,7 @@
       "name": "星奇┃资源",
       "type": 3,
       "api": "csp_AppMao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -101,7 +111,7 @@
       "name": "奥特┃直连",
       "type": 3,
       "api": "csp_Auete",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -112,7 +122,7 @@
       "name": "比特┃直连",
       "type": 3,
       "api": "csp_Bttwoo",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -122,7 +132,7 @@
       "name": "毛驴┃直连",
       "type": 3,
       "api": "csp_MLYS",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -133,7 +143,7 @@
       "name": "可乐┃直连",
       "type": 3,
       "api": "csp_Cokemv",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -145,8 +155,8 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/json/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/港口.json"
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/json/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/港口.json"
     },
     {
      "key": "csp_XBPQ_6V",
@@ -156,14 +166,14 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 1,
-     "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/vip.jar",
-     "ext":"https://jihulab.com/sy555/vs/-/raw/main/json/6Vip.json"
+     "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/vip.jar",
+     "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/6Vip.json"
     },
     {
       "key": "nt动漫",
       "name": "NT┃动漫",
       "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/ntdm.js"
     },
     {
@@ -172,7 +182,7 @@
       "type": 3,
       "playerType":1,
       "api": "csp_Panda",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
+      "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/PandaQ231205.jar",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -208,11 +218,11 @@
       "type": 3,
       "playerType":2,
       "playUrl":"json: http://daina.hk/api/?key=0d3a8412b195fb42d14212d9c99ae00f&url=",
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/js/fy.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
     },
     {
       "key": "app_轻简",
@@ -264,7 +274,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -276,7 +286,7 @@
       "type": 0,
       "playerType": 1,
       "api": "http://154.12.81.149:88/aatucheng/api.php/provide/vod/at/xml/",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -286,36 +296,36 @@
       "name": "侠客┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/xiake"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/xiake"
     },
     {
       "key": "超神",
       "name": "超神┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/chaoshen"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/chaoshen"
     },
     {
       "key": "云云",
       "name": "云云┃App",
       "type": 3,
       "api": "csp_qiao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/qiaoji.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/qiaoji/laohu"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/laohu"
     },
 //以下需适配  fty.jar~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
@@ -323,7 +333,7 @@
       "name": "橘子┃资源",
       "type": 3,
       "api": "csp_AppMao",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -334,7 +344,7 @@
       "name": "忍者┃资源",
       "type": 3,
       "api": "csp_MYYS",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -345,7 +355,7 @@
       "name": "七七┃资源",
       "type": 3,
       "api": "csp_Kunyu77",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -355,7 +365,7 @@
       "name": "瑞丰┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
@@ -363,7 +373,7 @@
       "name": "皮皮虾┃资源",
       "type": 3,
       "api": "csp_AppSK",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -374,7 +384,7 @@
       "name": "在线┃直连",
       "type": 3,
       "api": "csp_Zxzj",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -386,7 +396,7 @@
       "name": "视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -399,14 +409,14 @@
       "type": 3,
       "playerType":1,
       "api": "csp_Panda",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
+      "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/PandaQ231205.jar",
       "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     },
     {
       "key": "csp_Panda_玩偶哥哥",
       "name": "玩偶┃资源",
       "api": "csp_Panda",
-      "jar":"https://jihulab.com/sy555/vs/-/raw/main/jar/PandaQ231205.jar",
+      "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/PandaQ231205.jar",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -420,7 +430,7 @@
       "name": "动漫┃巴士2",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fan.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fan.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -431,17 +441,17 @@
       "name": "去看动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/fan.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fan.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/sy555/vs/-/raw/main/json/去看吧.json"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/去看吧.json"
     },
     {
       "key": "去看吧",
       "name": "去看吧",
       "type": 3,
-      "api": "https://jihulab.com/sy555/vs/-/raw/main/js/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/去看吧.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -453,7 +463,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "https://jihulab.com/sy555/vs/-/raw/main/jar/alibaba.jar"
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/alibaba.jar"
     }
 ],
 
