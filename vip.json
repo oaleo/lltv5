@@ -9,7 +9,7 @@
   
     {
       "key": "豆瓣",
-      "name": "👇点首页切换资源，首选电信网络",
+      "name": "👇点首页切换资源，推荐电信网络",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
