@@ -100,42 +100,6 @@
 
 
 
-    
-    
-    {
-      "key": "凌云影视",
-      "name": "凌云┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/凌云影视.js"
-    },
-    {
-      "key": "9u电影",
-      "name": "9U┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/9U电影.js"
-    },
-    {
-      "key": "免费看影视",
-      "name": "免费看┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/免费看.js"
-    },
-
-
-    
-
-
-
-
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     {
@@ -664,6 +628,15 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/在线之家.js"
     },
     {
+      "key": "凌云影视",
+      "name": "凌云┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/凌云影视.js"
+    },
+    {
       "key": "六度TV",
       "name": "六度┃资源",
       "type": 3,
@@ -935,6 +908,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    {
+      "key": "免费看影视",
+      "name": "免费看┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/免费看.js"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -977,7 +959,7 @@
 //以下无需适配
     {
       "key": "4K电影网",
-      "name": "4K┃资源",
+      "name": "4K┃电影",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -993,6 +975,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/6V.js"
+    },
+    {
+      "key": "9u电影",
+      "name": "9U┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/9U电影.js"
     },
     {
       "key": "49zy",
