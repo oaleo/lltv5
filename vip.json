@@ -1513,19 +1513,18 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/新哔哩.json",
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar"
     },
-    
     {
-      "key": "棋牌",
-      "name": "吾爱┃棋牌",
+      "key": "外语",
+      "name": "吾爱┃外语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "pwd": "50905d7b2216bfeccb5b41016357176b",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/棋牌0806.m3u",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/外语.json",
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar"
     },
+    
     {
       "key": "乐器",
       "name": "吾爱┃乐器",
