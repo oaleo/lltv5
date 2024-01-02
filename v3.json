@@ -94,14 +94,6 @@
       ]
     },
     {
-      "key": "厂长",
-      "name": "CZ┃资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/厂长.js"
-    },
-    {
       "key": "csp_非凡资源",
       "name": "FF┃资源",
       "type": 1,
