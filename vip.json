@@ -1525,6 +1525,18 @@
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar"
     },
     {
+      "key": "棋社",
+      "name": "吾爱┃棋社",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "pwd": "50905d7b2216bfeccb5b41016357176b",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/棋牌0806.m3u",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar"
+    },
+    {
       "key": "乐器",
       "name": "吾爱┃乐器",
       "type": 3,
