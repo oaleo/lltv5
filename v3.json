@@ -135,31 +135,6 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/nangua.js"
     },
     {
-      "key": "奇优",
-      "name": "QY┃资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/奇优.js"
-    },
-    {
-      "key": "新视觉",
-      "name": "SJ┃资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/新视觉.js"
-    },
-    {
-      "key": "TVB云播",
-      "name": "TVB┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
-    },
-    {
       "key":"csp_xml___U酷资源",
       "name":"UK┃资源",
       "type":1,
