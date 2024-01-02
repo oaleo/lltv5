@@ -47,6 +47,12 @@
       ]
     },
     {
+      "key": "种子短剧",
+      "name": "短剧┃资源",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
+    },
+    {
       "key": "hnzy",
       "name": "HN┃资源",
       "type": 1,
