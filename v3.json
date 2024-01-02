@@ -69,13 +69,14 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/低端影视.js"
     },
     {
-      "key":"csp_xml___飞速资源",
-      "name":"FS┃资源",
-      "type":1,
-      "api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
-      "playUrl":"",
-      "searchable":1,
-      "quickSearch":1
+      "key": "feiyun",
+      "name": "FY┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
     },
     {
       "key": "咕噜[V2]",
@@ -140,6 +141,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/nangua.js"
+    },
+    {
+      "key": "奇优",
+      "name": "QY┃资源",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/奇优.js"
     },
     {
       "key": "新视觉",
