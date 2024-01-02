@@ -192,6 +192,14 @@
       "ext": ""
     },
     {
+      "key": "影探",
+      "name": "影探┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PandaQ231205.jar",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/yt.js"
+    },
+    {
       "key": "厂长",
       "name": "厂长┃资源",
       "type": 3,
