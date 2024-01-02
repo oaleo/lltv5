@@ -108,6 +108,12 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
     },
     {
+      "key": "乐视",
+      "name": "LS┃资源",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
+    },
+    {
       "key": "js_nangua",
       "name": "NG┃资源",
       "type": 3,
