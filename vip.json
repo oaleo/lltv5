@@ -100,38 +100,24 @@
 
 
 
+    
+    
     {
-      "key": "TVB云播",
-      "name": "云播┃资源",
+      "key": "凌云影视",
+      "name": "凌云┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
-    },
-    {
-      "key": "139影视",
-      "name": "139┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/139影视.js"
-    },
-    {
-      "key": "69美剧",
-      "name": "69┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/69美剧.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/凌云影视.js"
     },
     {
       "key": "9u电影",
       "name": "9U┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/9U电影.js"
@@ -141,6 +127,7 @@
       "name": "乐鱼┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/乐鱼影视.js"
@@ -150,65 +137,31 @@
       "name": "免费看┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/免费看.js"
     },
-    {
-      "key": "六度TV",
-      "name": "六度┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/六度TV.js"
-    },
-    {
-      "key": "凌云影视",
-      "name": "凌云┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/凌云影视.js"
-    },
-    {
-      "key": "咕噜[V2]",
-      "name": "咕噜┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/咕噜.js"
-    },
-    {
-      "key": "吼吼",
-      "name": "吼吼┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/吼吼.js"
-    },
+    
     {
       "key": "NikeTV",
       "name": "NikeTV┃资源",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/NikeTV.json",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xBPQ.jar"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/NikeTV.json"
     },
     {
       "key": "APP影院",
       "name": "APP┃影院",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/APP影院.json",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xBPQ.jar"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/APP影院.json"
     },
 
 
@@ -262,6 +215,15 @@
       "playerType":2,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/低端影视.js"
+    },
+    {
+      "key": "TVB云播",
+      "name": "云播┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
     },
     {
       "key":"LLTV",
@@ -732,6 +694,33 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/在线之家.js"
     },
+    {
+      "key": "六度TV",
+      "name": "六度┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/六度TV.js"
+    },
+    {
+      "key": "咕噜[V2]",
+      "name": "咕噜┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/咕噜.js"
+    },
+    {
+      "key": "吼吼",
+      "name": "吼吼┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/吼吼.js"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
     
@@ -1078,12 +1067,30 @@
       ]
     },
     {
+      "key": "69美剧",
+      "name": "69┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/69美剧.js"
+    },
+    {
       "key": "007影视",
       "name": "007┃资源",
       "type": 3,
       "playerType": "1",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/007.js"
+    },
+    {
+      "key": "139影视",
+      "name": "139┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/139影视.js"
     },
     {
       "key": "js_555",
