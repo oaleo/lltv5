@@ -352,35 +352,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/zanzan.js"
-    },
-    {
-      "key": "58动漫网",
-      "name": "58┃动漫",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/58动漫.js"
-    },
-    {
-      "key": "NT动漫",
-      "name": "NT┃动漫",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/NT动漫.js"
-    },
-    {
-      "key": "AGE动漫",
-      "name": "AGE┃动漫",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/AGE动漫.js"
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
