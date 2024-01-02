@@ -169,6 +169,20 @@
       "filterable":1,
       "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/xpg.json"
     },
+    { "key":"八戒资源",
+      "name":"八戒┃资源",
+      "type":1,
+      "api":"http://cj.bajiecaiji.com/inc/apijson_vod.php",
+      "searchable":0,
+      "quickSearch":0
+    },
+    { "key":"光速资源",
+      "name":"光速┃资源",
+      "type":1,
+      "api":"https://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable":1,
+      "quickSearch":1
+    },
     {
       "key": "hnzy",
       "name": "红牛┃资源",
