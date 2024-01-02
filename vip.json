@@ -107,7 +107,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/139影视.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/139影视.js"
     },
     {
       "key": "69美剧",
@@ -116,7 +116,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/69美剧.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/69美剧.js"
     },
     {
       "key": "9u电影",
@@ -125,7 +125,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/9U电影.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/9U电影.js"
     },
     {
       "key": "乐鱼影视",
@@ -134,7 +134,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/乐鱼影视.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/乐鱼影视.js"
     },
     {
       "key": "免费看影视",
@@ -143,7 +143,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/免费看.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/免费看.js"
     },
     {
       "key": "六度TV",
@@ -152,7 +152,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/六度TV.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/六度TV.js"
     },
     {
       "key": "凌云影视",
@@ -161,7 +161,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/凌云影视.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/凌云影视.js"
     },
     {
       "key": "咕噜[V2]",
@@ -170,7 +170,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/咕噜.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/咕噜.js"
     },
     {
       "key": "吼吼",
@@ -179,7 +179,7 @@
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/吼吼[飞].js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/吼吼.js"
     },
     {
       "key": "NikeTV",
@@ -189,17 +189,17 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/NikeTV.json",
-      "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xBPQ.jar"
     },
     {
       "key": "APP影院",
-      "name": "APP┃资源",
+      "name": "APP┃影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/APP影院.json",
-      "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xBPQ.jar"
     },
 
 
