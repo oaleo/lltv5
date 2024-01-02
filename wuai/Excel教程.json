@@ -1,11 +1,6 @@
 {
   "classes": [
     {
-      "type_name": "吾爱评测私人订制",
-      "type_id": "吾爱评测"
-    },
-    
- {
       "type_name": "VLOOKUP",
       "type_id": "VLOOKUP"
     },
