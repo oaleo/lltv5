@@ -935,6 +935,25 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     {
+      "key": "4K电影网",
+      "name": "4K┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/4K电影网.js"
+    },
+    {
+      "key": "js_6V",
+      "name": "6V┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/6V.js"
+    },
+    {
       "key": "49zy",
       "name": "49┃资源",
       "type": 1,
@@ -976,16 +995,6 @@
         "电影解说",
         "体育赛事"
       ]
-    },
-    {
-      "key": "js_6V",
-      "name": "6V┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/6V.js"
     },
     {
       "key": "007影视",
