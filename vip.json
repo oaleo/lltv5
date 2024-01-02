@@ -1471,7 +1471,7 @@
 //以下需适配  wuai0723.jar
     {
       "key": "PS",
-      "name": "吾爱┃PS",
+      "name": "┃PS",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1482,7 +1482,7 @@
     },
     {
       "key": "EXCEL",
-      "name": "吾爱┃Excel",
+      "name": "┃Excel",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1493,7 +1493,7 @@
     },
     {
       "key": "学堂",
-      "name": "吾爱┃学堂",
+      "name": "┃学堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1504,7 +1504,7 @@
     },
     {
       "key": "新哔哩",
-      "name": "吾爱┃哔哩",
+      "name": "┃哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1515,7 +1515,7 @@
     },
     {
       "key": "外语",
-      "name": "吾爱┃外语",
+      "name": "┃外语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1526,7 +1526,7 @@
     },
     {
       "key": "棋牌",
-      "name": "吾爱┃棋牌",
+      "name": "┃棋牌",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1538,7 +1538,7 @@
     },
     {
       "key": "乐器",
-      "name": "吾爱┃乐器",
+      "name": "┃乐器",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1549,7 +1549,7 @@
     },
     {
       "key": "舞蹈",
-      "name": "吾爱┃舞蹈",
+      "name": "┃舞蹈",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1560,7 +1560,7 @@
     },
     {
       "key": "戏曲",
-      "name": "吾爱┃戏曲",
+      "name": "┃戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
