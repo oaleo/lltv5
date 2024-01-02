@@ -1470,6 +1470,28 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  吾爱0723.jar
     {
+      "key": "PS",
+      "name": "吾爱┃PS",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/吾爱0723.jar"
+    },
+    {
+      "key": "EXCEL",
+      "name": "吾爱┃Excel",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/吾爱0723.jar"
+    },
+    {
       "key": "学堂",
       "name": "吾爱┃学堂",
       "type": 3,
@@ -1510,6 +1532,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
+      "pwd": "50905d7b2216bfeccb5b41016357176b",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/吾爱棋牌0806.m3u",
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/吾爱0723.jar"
     },
