@@ -10,7 +10,7 @@
 
     {
       "key": "豪华资源",
-      "name": "👇点主页切换资源",
+      "name": "👇点主页切换资源，推荐电信网络",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://codeberg.org/lltv/vip/raw/branch/main/json/91色.json",
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/91色.json",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xb.jar"
     },
     {
@@ -149,10 +149,6 @@
       "分类":"福利&主播自拍&国产精品&日本精品&中文字幕&欧美精品","分类值":"49&50&51&53&54&55"
       }
     },
-    
-
-
-    
     {
       "key": "csp_KungFu404",
       "name": "┃阿里┃设置",
@@ -429,16 +425,7 @@
 "spider":"./jar/xhkw1.jar;md5;65b3e76dcc7a09f48b8c6e7ca74a01a5",
 
 
-"wallpaper":"https://tool.weetai.cn/api",
-
-
-"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://codeberg.org/lltv/by/raw/branch/main/avlive.txt",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }],   
+"wallpaper":"https://tool.weetai.cn/api", 
 
 "rules": [
     {
@@ -644,6 +631,14 @@
       ]
     }
   ],
+  
+"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://codeberg.org/ll8000/jav/raw/branch/main/avlive.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],  
 
 "ads": [
     "wan.51img1.com",
