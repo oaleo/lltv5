@@ -1491,18 +1491,18 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/Excel教程.json",
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar"
     },
-    
     {
-      "key": "新哔哩",
-      "name": "吾爱┃哔哩",
+      "key": "学堂",
+      "name": "吾爱┃学堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/新哔哩.json",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/学堂0804.m3u",
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar"
     },
+    
     {
       "key": "外语",
       "name": "吾爱┃外语",
