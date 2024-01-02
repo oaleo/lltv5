@@ -103,6 +103,12 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     {
+      "key": "种子短剧",
+      "name": "短剧┃资源",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
+    },
+    {
       "key": "畅梦",
       "name": "畅梦┃资源",
       "type": 3,
@@ -134,14 +140,6 @@
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/厂长.js"
-    },
-    {
-      "key": "影探",
-      "name": "影探┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PandaQ231205.jar",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/yt.js"
     },
     {
       "key": "drpy_js_低端",
