@@ -1468,7 +1468,7 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  wuai0723.jar
+//以下需适配  wuai0928.jar
     {
       "key": "PS",
       "name": "吾爱┃PS",
@@ -1478,7 +1478,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/PS.json?sign=D0w9SL-S30iOiTDUeRxAT8wPAuFA-XHUcqkwjWqTipA%3D%3A0",
-      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar"
     },
     {
       "key": "EXCEL",
@@ -1489,7 +1489,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/Excel教程.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0",
-      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar?sign=HEawELyUvljhHCgfGefYOZ6DHvaGLMWouC0tIwMkd9E%3D%3A0;md5;02c40490ea14c433b66fcc0ce2f2ed94"
     },
     {
       "key": "学堂",
