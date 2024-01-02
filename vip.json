@@ -102,103 +102,103 @@
 
     {
       "key": "139影视",
-      "name": "139┃影视",
+      "name": "139┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/139影视.js"
     },
     {
       "key": "69美剧",
-      "name": "69┃影视",
+      "name": "69┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/69美剧[V2].js"
+      "ext": "https://drpy.cainisi.cf/js/69美剧.js"
     },
     {
       "key": "9u电影",
-      "name": "9u┃影视",
+      "name": "9U┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/9U电影.js"
     },
     {
       "key": "乐鱼影视",
-      "name": "乐鱼┃影视",
+      "name": "乐鱼┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/乐鱼影视.js"
     },
     {
       "key": "免费看影视",
-      "name": "免费看┃影视",
+      "name": "免费看┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/免费看.js"
     },
     {
       "key": "六度TV",
-      "name": "六度┃影视",
+      "name": "六度┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/六度TV.js"
     },
     {
       "key": "凌云影视",
-      "name": "凌云┃影视",
+      "name": "凌云┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/凌云影视.js"
     },
     {
       "key": "咕噜[V2]",
-      "name": "咕噜┃影视",
+      "name": "咕噜┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/咕噜[V2].js"
+      "ext": "https://drpy.cainisi.cf/js/咕噜.js"
     },
     {
       "key": "吼吼",
-      "name": "吼吼┃影视",
+      "name": "吼吼┃资源",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/吼吼[飞].js"
     },
     {
       "key": "NikeTV",
-      "name": "NikeTV┃影视",
+      "name": "NikeTV┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/NikeTV.json",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/NikeTV.json",
       "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
     },
     {
       "key": "APP影院",
-      "name": "APP┃影视",
+      "name": "APP┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/XBPQ/APP影院.json",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/APP影院.json",
       "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
     },
 
