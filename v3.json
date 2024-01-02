@@ -69,6 +69,15 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/低端影视.js"
     },
     {
+      "key":"csp_xml___飞速资源",
+      "name":"FS┃资源",
+      "type":1,
+      "api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl":"",
+      "searchable":1,
+      "quickSearch":1
+    },
+    {
       "key": "hnzy",
       "name": "HN┃资源",
       "type": 1,
