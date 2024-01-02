@@ -1470,18 +1470,6 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  吾爱0723.jar
     {
-      "key": "PS",
-      "name": "吾爱┃PS",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/52159/%E5%90%BE%E7%88%B1PS.json?sign=D0w9SL-S30iOiTDUeRxAT8wPAuFA-XHUcqkwjWqTipA%3D%3A0",
-      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/吾爱0723.jar"
-    },
-    
-    {
       "key": "学堂",
       "name": "吾爱┃学堂",
       "type": 3,
