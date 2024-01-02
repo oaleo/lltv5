@@ -47,20 +47,6 @@
       ]
     },
     {
-      "key": "种子短剧",
-      "name": "短剧┃资源",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
-    },
-    {
-      "key": "drpy_js_低端",
-      "name": "DD┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/低端影视.js"
-    },
-    {
       "key": "feiyun",
       "name": "FY┃资源",
       "type": 3,
