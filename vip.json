@@ -1470,6 +1470,62 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  wuai0928.jar
     {
+      "key": "学堂",
+      "name": "吾爱┃学堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820804.m3u?sign=m0FU-h5ZHcb8m0mrj8K1jolIeMUfxttQL3bjLTrIQJg%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "吾爱学堂小学",
+      "name": "吾爱┃小学",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%AD%A6.json?sign=ottDC63hhG794F1nESHvdE-qqBb3mz7vO6ZqzRCUk6g%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "吾爱学堂初中",
+      "name": "吾爱┃初中",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%88%9D%E4%B8%AD.json?sign=R1JCtzNPS0aiXYcFwih52kjPzgUcrQWq30s1mMg4ig0%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "吾爱学堂高中",
+      "name": "吾爱┃高中",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E4%B8%AD.json?sign=L-dziBVI37SAtdNfUR547dylvCxhuwkmi1J1qA4EFxI%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "吾爱学堂高考",
+      "name": "吾爱┃高考",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E9%AB%98%E8%80%83.json?sign=lD2DA8pGV9tw7DKYRqaQh9sy6aQnDcsR69ooAeCfpHc%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
       "key": "PS",
       "name": "吾爱┃PS",
       "type": 3,
@@ -1491,30 +1547,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0",
-      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
-    },
-    {
-      "key": "学堂",
-      "name": "吾爱┃学堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820804.m3u?sign=m0FU-h5ZHcb8m0mrj8K1jolIeMUfxttQL3bjLTrIQJg%3D%3A0",
-      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
-    },
-    {
-      "key": "新哔哩",
-      "name": "吾爱┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E6%96%B0%E5%93%94%E5%93%A9.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0",
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
     {
@@ -1576,6 +1608,102 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E6%88%8F%E6%9B%B20723.json?sign=ngeZFFyT8EO0PacgodQnJmLlFv1K9VIKt6e9jP1TLpo%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "球类",
+      "name": "吾爱┃球类",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%90%BE%E7%88%B1%E4%BD%93%E8%82%B20811.m3u?sign=7_RiK9ou54Do_u6kRgkj3f2VN76-Cd2Zq9865eNXI2Q%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "新哔哩",
+      "name": "吾爱┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E6%96%B0%E5%93%94%E5%93%A9.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "美食",
+      "name": "吾爱┃美食",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%90%BE%E7%88%B1%E7%BE%8E%E9%A3%9F0804.m3u?sign=8AZYYTTMZ8XjyAk_BENuUbWe350zHymzMdrG6fGE2H8%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "户外",
+      "name": "吾爱┃户外",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%90%BE%E7%88%B1%E6%88%B7%E5%A4%96.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "搭配",
+      "name": "吾爱┃搭配",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%90%BE%E7%88%B1%E6%90%AD%E9%85%8D.json?sign=JOkB1eN1Hho8MwGLZjaTqNUPrLDhCBvgv6yNiUqaRdQ%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "搭讪",
+      "name": "吾爱┃搭讪",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%90%BE%E7%88%B1%E6%90%AD%E8%AE%AA.json?sign=gip9Kawqr484bHHBk7lptxFssHFT6EZyyFiDQ3KzHt8%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "MV",
+      "name": "吾爱┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "演唱会自定义",
+      "name": "吾爱┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0",
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
