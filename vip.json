@@ -1559,10 +1559,11 @@
       "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0723.jar"
     },
     {
-      "key": "戏曲自定义",
+      "key": "戏曲",
       "name": "吾爱┃戏曲",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
