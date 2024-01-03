@@ -19,7 +19,7 @@
     },
     {
       "key": "豪华资源",
-      "name": "🔥LLTV_VIP①",
+      "name": "🔥LLTV┃VIP①",
       "type": 1,
       "playUrl": "",
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
@@ -57,7 +57,7 @@
       ]
     },
     { "key":"光速资源",
-      "name":"🔥LLTV_VIP②",
+      "name":"🔥LLTV┃VIP②",
       "type":1,
       "api":"https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable":1,
@@ -85,7 +85,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🔥LLTV_VIP③",
+      "name": "🔥LLTV┃VIP③",
       "type": 3,
       "api": "csp_NanGua",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
@@ -95,18 +95,14 @@
       "changeable": 1
     },
     {
-      "key": "飞云",
-      "name": "🔥LLTV_VIP④",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
+      "key": "种子短剧",
+      "name": "🔥LLTV┃短剧①",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
     },
     {
       "key": "短剧",
-      "name": "🔥LLTV┃短剧",
+      "name": "🔥LLTV┃短剧②",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -118,12 +114,6 @@
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
-    {
-      "key": "种子短剧",
-      "name": "短剧┃资源",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
-    },
     {
       "key": "畅梦",
       "name": "畅梦┃资源",
@@ -149,6 +139,16 @@
       "playerType":2,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/低端影视.js"
+    },
+    {
+      "key": "飞云",
+      "name": "飞云┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
     },
     {
       "key": "荐片",
