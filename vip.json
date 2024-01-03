@@ -105,12 +105,10 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
     },
     {
-      "key": "短剧",
+      "key": "种子短剧",
       "name": "🔥LLTV┃短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/短剧.json"
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -119,10 +117,12 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下无需适配
     {
-      "key": "种子短剧",
+      "key": "短剧",
       "name": "短剧┃资源",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/短剧.json"
     },
     {
       "key": "畅梦",
