@@ -164,21 +164,6 @@
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xb.jar"
     },
     {
-      "key":"西瓜影院_XBPQ",
-      "name":"🔞┃西瓜影院",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":{"简介":"&&","副标题":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&",
-      "线路数组":"data-parent=&&","\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+title=\"&&\"",
-      "分类url":"https://www.uccomic.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---{year}/",
-      "分类":"福利&主播自拍&国产精品&日本精品&中文字幕&欧美精品","分类值":"49&50&51&53&54&55"
-      }
-    },
-    {
       "key": "csp_KungFu404",
       "name": "┃阿里┃设置",
       "type": 3,
