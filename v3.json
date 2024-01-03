@@ -50,7 +50,7 @@
       "key": "暴风资源",
       "name": "BF┃资源",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -97,14 +97,33 @@
       "changeable": 0,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
     },
-    {
-      "key": "咕噜[V2]",
-      "name": "GL┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/咕噜.js"
+    { "key":"光速资源",
+      "name":"GS┃资源",
+      "type":1,
+      "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "searchable":1,
+      "quickSearch":1,
+      "categories": [
+        "短剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "记录片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "欧美剧",
+        "动漫",
+        "动漫电影",
+        "综艺"
+      ]
     },
     {
       "key": "hnzy",
@@ -239,17 +258,6 @@
       "type": 1,
       "playerType": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/"
-    },
-    {
-      "key": "赞赞",
-      "name": "ZZ┃资源",
-      "type": 3,
-      "playerType":2,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/zanzan.js"
     }
 ],
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
