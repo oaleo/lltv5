@@ -134,6 +134,13 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/厂长.js"
     },
     {
+      "key": "大米星球",
+      "name": "大米┃星球",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/大米星球.js"
+    },
+    {
       "key": "drpy_js_低端",
       "name": "低端┃资源",
       "type": 3,
@@ -604,17 +611,6 @@
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/爱看.js"
-    },
-    {
-      "key":"csp_xBPQ_大米星球",
-      "name":"️大米┃星球",
-      "type":3,
-      "api":"csp_xBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/dmxq.json",
-      "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/xBPQ.jar"
     },
     {
       "key": "咕噜[V2]",
