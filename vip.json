@@ -167,17 +167,6 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
     },
     {
-      "key":"小苹果",
-      "name":"苹果┃资源",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xpg.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/xpg.json"
-    },
-    {
       "key": "小胡同学",
       "name": "小胡┃资源",
       "type": 1,
@@ -666,6 +655,17 @@
       "playerType": "1",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/欧帝影院.js"
+    },
+    {
+      "key":"小苹果",
+      "name":"苹果┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xpg.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/xpg.json"
     },
     {
       "key": "奇优",
