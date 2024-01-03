@@ -56,19 +56,8 @@
         "欧美综艺"
       ]
     },
-    {
-      "key": "南瓜",
-      "name": "🔥LLTV_VIP②",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     { "key":"光速资源",
-      "name":"🔥LLTV_VIP③",
+      "name":"🔥LLTV_VIP②",
       "type":1,
       "api":"https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable":1,
@@ -95,7 +84,18 @@
       ]
     },
     {
-      "key": "feiyun",
+      "key": "南瓜",
+      "name": "🔥LLTV_VIP③",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "飞云",
       "name": "🔥LLTV_VIP④",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -135,21 +135,6 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/changmeng.js"
     },
     {
-      "key": "小胡同学",
-      "name": "小胡┃资源",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://c.小胡.icu/api.php/provide/vod/"
-    },
-    {
-      "key": "荐片",
-      "name": "荐片┃资源",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
-    },
-    {
       "key": "厂长",
       "name": "厂长┃资源",
       "type": 3,
@@ -166,16 +151,15 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/低端影视.js"
     },
     {
-      "key": "TVB云播",
-      "name": "云播┃资源",
+      "key": "荐片",
+      "name": "荐片┃资源",
       "type": 3,
+      "playerType": 1,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
     },
     {
-      "key":"LLTV",
+      "key":"小苹果",
       "name":"苹果┃资源",
       "type":3,
       "api":"csp_XBPQ",
@@ -184,6 +168,22 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/xpg.json"
+    },
+    {
+      "key": "小胡同学",
+      "name": "小胡┃资源",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/"
+    },
+    {
+      "key": "TVB云播",
+      "name": "云播┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
     },
     { "key":"八戒资源",
       "name":"八戒┃资源",
@@ -692,7 +692,6 @@
     
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-    
     {
       "key":"虎虎",
       "name":"虎虎┃资源",
@@ -945,23 +944,6 @@
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-//以下需适配  yytt.jar
-    {
-      "key": "csp_AppMr",
-      "name": "影视范┃资源",
-      "type": 3,
-      "api": "csp_AppMr",
-      "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/yytt.jar",
-      
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //以下需适配  spider.txt
     {
 	    "key": "csp_XYQHiker_‍dyx",
@@ -973,6 +955,23 @@
       "filterable": 1,
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/json/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/dyg.json"
+    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//以下需适配  yytt.jar
+    {
+      "key": "csp_AppMr",
+      "name": "影视范┃资源",
+      "type": 3,
+      "api": "csp_AppMr",
+      "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/yytt.jar",
+      
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1167,22 +1166,22 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/LIBVIO.js"
     },
     {
-      "key": "bttwo",
-      "name": "BTtwo┃资源",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/两个BT.js"
-    },
-    {
       "key": "NikeTV",
-      "name": "NikeTV┃资源",
+      "name": "Nike┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/NikeTV.json"
+    },
+    {
+      "key": "bttwo",
+      "name": "BTtwo┃资源",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/两个BT.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
