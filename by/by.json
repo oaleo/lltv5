@@ -59,7 +59,7 @@
     { "key":"光速资源",
       "name":"🔥LLTV┃VIP②",
       "type":1,
-      "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+      "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "searchable":1,
       "quickSearch":1,
       "categories": [
