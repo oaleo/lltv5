@@ -192,6 +192,30 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
     },
+    {
+      "key": "EXCEL",
+      "name": "吾爱┃Excel",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+{
+      "key": "搭讪",
+      "name": "吾爱┃搭讪",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/wuai0928.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/%E5%90%BE%E7%88%B1%E6%90%AD%E8%AE%AA.json?sign=gip9Kawqr484bHHBk7lptxFssHFT6EZyyFiDQ3KzHt8%3D%3A0",
+      "spider": "https://jihulab.com/lltv5/vip/-/raw/main/wuai/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "nt动漫",
@@ -224,6 +248,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": ""
+    },
+    {
+      "key": "赞赞",
+      "name": "赞赞┃资源",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/zanzan.js"
     },
     {
       "key": "花海",
@@ -297,6 +332,17 @@
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
 //以下需适配  qiaoji.jar~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "Music_spider",
+      "name": "Music",
+      "api": "csp_Music",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
+      "type": 3,
+      "filterable": 0,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    },
     {
       "key": "K影",
       "name": "K影┃App",
