@@ -134,6 +134,13 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/厂长.js"
     },
     {
+      "key": "大米星球",
+      "name": "大米┃星球",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/大米星球.js"
+    },
+    {
       "key": "drpy_js_低端",
       "name": "低端┃资源",
       "type": 3,
@@ -158,17 +165,6 @@
       "playerType": 1,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
-    },
-    {
-      "key":"小苹果",
-      "name":"苹果┃资源",
-      "type":3,
-      "api":"csp_XBPQ",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xpg.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/xpg.json"
     },
     {
       "key": "小胡同学",
@@ -606,17 +602,6 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/爱看.js"
     },
     {
-      "key":"csp_xBPQ_大米星球",
-      "name":"️大米┃星球",
-      "type":3,
-      "api":"csp_xBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/dmxq.json",
-      "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/xBPQ.jar"
-    },
-    {
       "key": "咕噜[V2]",
       "name": "咕噜┃资源",
       "type": 3,
@@ -662,6 +647,25 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/凌云影视.js"
+    },
+    {
+      "key": "欧帝影院",
+      "name": "欧帝┃资源",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/欧帝影院.js"
+    },
+    {
+      "key":"小苹果",
+      "name":"苹果┃资源",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xpg.jar",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/xpg.json"
     },
     {
       "key": "奇优",
@@ -940,6 +944,16 @@
       "changeable": 1,
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/免费看.js"
     },
+    {
+      "key": "追剧迷",
+      "name": "追剧迷┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/追剧迷.js"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -1007,6 +1021,13 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/9U电影.js"
+    },
+    {
+      "key": "柒之社",
+      "name": "07┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/柒之社.js"
     },
     {
       "key": "49zy",
