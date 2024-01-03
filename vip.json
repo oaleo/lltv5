@@ -660,6 +660,14 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/凌云影视.js"
     },
     {
+      "key": "欧帝影院",
+      "name": "欧帝┃资源",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/欧帝影院.js"
+    },
+    {
       "key": "奇优",
       "name": "奇优┃资源",
       "type": 3,
