@@ -8,27 +8,6 @@
 "sites":[ 
   
     {
-      "key": "欧帝影院",
-      "name": "欧帝┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/欧帝影院.js"
-    },
-    {
-      "key": "柒之社",
-      "name": "07┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/柒之社.js"
-    },
-    {
-      "key": "追剧迷",
-      "name": "追剧迷",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/追剧迷.js"
-    },
-    {
       "key": "厂长",
       "name": "厂长",
       "type": 3,
@@ -98,7 +77,7 @@
       "api": "csp_App",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
       "playerType": 2,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/星星"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/星星"
     },
     {
       "key": "一起看",
