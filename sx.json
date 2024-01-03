@@ -8,6 +8,128 @@
 "sites":[ 
   
     {
+      "key": "追剧迷",
+      "name": "追剧迷",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/追剧迷.js"
+    },
+    {
+      "key": "厂长",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://czz9.com/"
+    },
+    {
+      "key": "哔嘀",
+      "name": "哔嘀",
+      "type": 3,
+      "api": "csp_Bdys",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "低端",
+      "name": "低端",
+      "type": 3,
+      "api": "csp_Ddys",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "七七",
+      "name": "七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "南瓜",
+      "name": "南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "天天",
+      "name": "天天",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn"
+    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_App",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "playerType": 2,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/星星"
+    },
+    {
+      "key": "一起看",
+      "name": "一起看",
+      "type": 3,
+      "api": "csp_YQKan",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "短剧网",
+      "name": "短剧网",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    
+    {
+      "key": "五五影视",
+      "name": "五五影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/五五影视.json"
+    },
+    {
+      "key": "子子影视",
+      "name": "子子影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/子子影视.json"
+    },
+    {
       "key": "荐片",
       "name": "荐片┃4K",
       "type": 3,
