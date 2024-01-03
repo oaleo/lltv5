@@ -154,15 +154,6 @@
       "playerType": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/"
     },
-    {
-      "key": "TVB云播",
-      "name": "云播┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
-    },
     { "key":"八戒资源",
       "name":"八戒┃资源",
       "type":1,
