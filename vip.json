@@ -57,13 +57,12 @@
       ]
     },
     {
-      "key": "TVB云播",
+      "key": "荐片",
       "name": "🔥LLTV┃VIP②",
       "type": 3,
+      "playerType": 1,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
     },
     {
       "key": "南瓜",
@@ -138,14 +137,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
-    },
-    {
-      "key": "荐片",
-      "name": "荐片┃资源",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
     },
     {
       "key": "小胡同学",
@@ -682,6 +673,15 @@
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/新视觉.js"
+    },
+    {
+      "key": "TVB云播",
+      "name": "云播┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
     },
     {
       "key": "在线之家",
