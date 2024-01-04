@@ -56,33 +56,13 @@
         "欧美综艺"
       ]
     },
-    { "key":"光速资源",
-      "name":"🔥LLTV┃VIP②",
-      "type":1,
-      "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-      "searchable":1,
-      "quickSearch":1,
-      "categories": [
-        "短剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "剧情片",
-        "记录片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "欧美剧",
-        "动漫",
-        "动漫电影",
-        "综艺"
-      ]
+    {
+      "key": "荐片",
+      "name": "🔥LLTV┃VIP②",
+      "type": 3,
+      "playerType": 1,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
     },
     {
       "key": "南瓜",
@@ -159,28 +139,11 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/fy.js"
     },
     {
-      "key": "荐片",
-      "name": "荐片┃资源",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/JP.js"
-    },
-    {
       "key": "小胡同学",
       "name": "小胡┃资源",
       "type": 1,
       "playerType": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/"
-    },
-    {
-      "key": "TVB云播",
-      "name": "云播┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
     },
     { "key":"八戒资源",
       "name":"八戒┃资源",
@@ -313,6 +276,34 @@
       "playUrl":"",
       "searchable":1,
       "quickSearch":1
+    },
+    { "key":"光速资源",
+      "name":"光速┃资源",
+      "type":1,
+      "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "searchable":1,
+      "quickSearch":1,
+      "categories": [
+        "短剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "记录片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "欧美剧",
+        "动漫",
+        "动漫电影",
+        "综艺"
+      ]
     },
     {
       "key": "虎牙",
@@ -682,6 +673,15 @@
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/新视觉.js"
+    },
+    {
+      "key": "TVB云播",
+      "name": "云播┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/TVB云播.js"
     },
     {
       "key": "在线之家",
