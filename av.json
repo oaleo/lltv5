@@ -505,7 +505,7 @@
 //直播~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 "lives": [
     {
-	    "name": "live",
+      "name": "live",
       "type": 0,
       "playerType": 1,
       "url": "https://codeberg.org/ll8000/jav/raw/branch/main/avlive.txt",
