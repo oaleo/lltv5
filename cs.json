@@ -44,6 +44,28 @@
       "quickSearch": 1,
       "changeable": 1
     },
+    {
+      "key": "NoSearch_csp_BBB",
+      "name": "哔哩┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji1221.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/哔哩.json"
+    },
+    {
+      "key": "哔哩学堂",
+      "name": "哔哩┃学堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji1221.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/jiaoyu/哔哩学堂.json"
+    },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "csp_KungFu404",
