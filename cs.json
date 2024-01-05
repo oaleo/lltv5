@@ -18,6 +18,13 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/豆瓣推荐.js"
     },
     {
+      "key": "网飞影视",
+      "name": "网飞┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/网飞TV.js"
+    },
+    {
       "key": "哔嘀",
       "name": "哔嘀┃资源",
       "type": 3,
