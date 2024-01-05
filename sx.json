@@ -24,6 +24,7 @@
       "name": "哔哩┃哔哩",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji1221.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
