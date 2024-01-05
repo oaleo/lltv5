@@ -21,7 +21,7 @@
     },
     {
       "key": "NoSearch_csp_BBB",
-      "name": "哔哩哔哩",
+      "name": "哔哩┃学堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
