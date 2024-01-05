@@ -36,7 +36,7 @@
     },
     {
       "key": "机器人",
-      "name": "机器人",
+      "name": "聚合┃资源",
       "type": 3,
       "api": "csp_Ikanbot",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
@@ -44,17 +44,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "圣城影视",
-      "name": "圣城┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/圣城影视.json"
-    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "csp_KungFu404",
       "name": "阿里云┃设置",
