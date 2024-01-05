@@ -1,5 +1,6 @@
 {
-	"classes": [{
+	"classes": [
+		{
 		"type_name": "📕苏教版",
 		"type_id": "苏教版课程"
 	}, {
@@ -11,58 +12,24 @@
 	}, {
 		"type_name": "📚北师大版",
 		"type_id": "北师大版课程"
-	},{
-		"type_name": "演唱会",
-		"type_id": "演唱会4K"
-	}, {
-		"type_name": "戏曲",
-		"type_id": "戏曲4K"
-	}, {
-		"type_name": "相声小品",
-		"type_id": "相声小品"
-	}, {
-		"type_name": "风景",
-		"type_id": "风景4K"
-	}, {
-		"type_name": "MV",
-		"type_id": "MV4K"
-	}, {
-		"type_name": "歌舞",
-		"type_id": "歌舞"
-	}, {
-		"type_name": "说案",
-		"type_id": "说案"
 	}, {
 		"type_name": "演讲",
 		"type_id": "演讲"
 	}, {
-		"type_name": "解说",
-		"type_id": "解说"
-	}, {
 		"type_name": "儿童",
 		"type_id": "儿童"
 	}, {
-		"type_name": "搞笑",
-		"type_id": "搞笑"
-	}, {
 		"type_name": "健身",
 		"type_id": "健身"
-	}, {
-		"type_name": "食谱",
-		"type_id": "食谱"
 	}, {
 		"type_name": "球星",
 		"type_id": "球星"
 	}, {
 		"type_name": "动物世界",
 		"type_id": "动物世界4K"
-	}, {
-		"type_name": "窗白噪音",
-		"type_id": "窗白噪音4K"
-	}, {
-		"type_name": "UP主",
-		"type_id": "UP主"
 	}],
+
+
 	"filter": {
 		"苏教版课程": [{
 			"key": "order",
