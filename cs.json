@@ -28,6 +28,16 @@
       "filterable": 1
     },
     {
+      "key": "机器人",
+      "name": "机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "圣城影视",
       "name": "圣城┃资源",
       "type": 3,
