@@ -18,6 +18,16 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/豆瓣推荐.js"
     },
     {
+      "key": "哔嘀",
+      "name": "哔嘀┃资源",
+      "type": 3,
+      "api": "csp_Bdys",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_KungFu404",
       "name": "阿里云┃设置",
       "type": 3,
