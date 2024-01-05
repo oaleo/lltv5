@@ -225,4 +225,3 @@ var rule = {
 		});
 		setResult(d);
 	`,
-}
