@@ -110,12 +110,12 @@ var rule = {
             }
             let playMap = {};
 			if (node.have_ftp_ur == 1) {
-				playMap["边下边播超清版"] = node.new_ftp_list.map(it => {
+				playMap["LLTV超清版"] = node.new_ftp_list.map(it => {
 					return it.title + "$" + (/m3u8/.test(it.url) ? play_url + it.url : "tvbox-xg:" + it.url)
 				}).join('#');
 			}
 			if (node.have_m3u8_ur == 1) {
-				playMap["在线点播普清版"] = node.new_m3u8_list.map(it => {
+				playMap["LLTV普清版"] = node.new_m3u8_list.map(it => {
 					return it.title + "$" + (/m3u8/.test(it.url) ? play_url + it.url : "tvbox-xg:" + it.url)
 				}).join('#');
 			}
