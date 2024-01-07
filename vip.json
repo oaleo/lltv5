@@ -25,6 +25,7 @@
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 1,
       "categories": [
         "短剧",
         "内地剧",
