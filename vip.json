@@ -850,6 +850,15 @@
       }
     },
     {
+      "key": "花海",
+      "name": "花海┃资源",
+      "type": 3,
+      "playerType":1,
+      "api": "csp_AppYs",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
+    {
       "key":"csp_miai",
       "name":"米爱┃资源",
       "type":3,
