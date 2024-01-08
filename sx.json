@@ -20,6 +20,15 @@
       "ext": ""
     },
     {
+      "key": "天天影视",
+      "name": "天天┃备用",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn"
+    },
+    {
       "key": "厂长",
       "name": "厂长┃备用",
       "type": 3,
