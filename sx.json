@@ -325,6 +325,17 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/zanzan.js"
     },
     {
+      "key": "赞赞备用",
+      "name": "赞赞┃备用",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://111.230.51.151:9696//api.php/app/",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/4hwnw0f7806286118438d87b5eef075fd3325?x-cli-msg=%7B%22linkId%22%3A%221hRzfvmCPz3-2R1kC%22%2C%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%7D;md5;bb155c3f0133bbce4756ad52003f5968",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "key": "影探",
       "name": "影探┃资源",
       "type": 3,
