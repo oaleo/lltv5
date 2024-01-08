@@ -724,6 +724,16 @@
       "filterable": 1
     },
     {
+      "key": "短剧网",
+      "name": "短剧┃资源",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "机器人",
       "name": "聚合┃资源",
       "type": 3,
@@ -732,6 +742,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "子子影视",
+      "name": "子子┃资源",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/子子影视.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1077,6 +1098,17 @@
       ]
     },
     {
+      "key": "五五影视",
+      "name": "55┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/五五影视.json"
+    },
+    {
       "key": "69美剧",
       "name": "69┃资源",
       "type": 3,
@@ -1243,6 +1275,30 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji4"
     },
     {
+      "key": "K影",
+      "name": "K影┃App",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+    },
+    {
+      "key": "超神",
+      "name": "超神┃App",
+      "type": 3,
+      "api": "csp_qiao",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/chaoshen"
+    },
+    {
       "key": "河马",
       "name": "河马┃App",
       "type": 3,
@@ -1387,6 +1443,13 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/yinghua"
+    },
+    {
+      "key": "drpy_js_路漫漫",
+      "name": "路漫漫┃动漫",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/路漫漫.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
