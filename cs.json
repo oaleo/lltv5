@@ -17,55 +17,8 @@
       "changeable": 0,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/豆瓣推荐.js"
     },
-    {
-      "key": "网飞影视",
-      "name": "网飞┃资源",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/网飞TV.js"
-    },
-    {
-      "key": "哔嘀",
-      "name": "哔嘀┃资源",
-      "type": 3,
-      "api": "csp_Bdys",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "机器人",
-      "name": "聚合┃资源",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "NoSearch_csp_BBB",
-      "name": "哔哩┃哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji1221.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/json/哔哩.json"
-    },
-    {
-      "key": "哔哩学堂",
-      "name": "哔哩┃学堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji1221.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/jiaoyu/哔哩学堂.json"
-    },
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     {
       "key": "csp_KungFu404",
