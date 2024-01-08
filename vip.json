@@ -1135,16 +1135,6 @@
       "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
     {
-      "key": "APP影院",
-      "name": "LLTV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/APP影院.json"
-    },
-    {
       "key": "OXS",
       "name": "LLTV┃OXS",
       "type": 3,
@@ -1201,6 +1191,16 @@
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/两个BT.js"
+    },
+    {
+      "key": "APP影院",
+      "name": "LLTV┃APP影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/APP影院.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1796,7 +1796,7 @@
 //以下无需适配
     {
       "key": "MV_vod",
-      "name": "LLTV┃MTv",
+      "name": "LLTV┃MTV",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
