@@ -76,18 +76,18 @@
       "changeable": 1
     },
     {
-      "key": "种子短剧",
-      "name": "🔥LLTV┃短剧①",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
-    },
-    {
       "key": "短剧",
-      "name": "🔥LLTV┃短剧②",
+      "name": "🔥LLTV┃短剧①",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/短剧.json"
+    },
+    {
+      "key": "种子短剧",
+      "name": "🔥LLTV┃短剧②",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
