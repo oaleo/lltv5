@@ -76,18 +76,18 @@
       "changeable": 1
     },
     {
-      "key": "种子短剧",
-      "name": "🔥LLTV┃短剧①",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
-    },
-    {
       "key": "短剧",
-      "name": "🔥LLTV┃短剧②",
+      "name": "🔥LLTV┃短剧①",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/短剧.json"
+    },
+    {
+      "key": "种子短剧",
+      "name": "🔥LLTV┃短剧②",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -97,7 +97,7 @@
 //以下无需适配
     {
       "key": "畅梦",
-      "name": "LLTV┃畅梦",
+      "name": "畅梦┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -107,15 +107,22 @@
     },
     {
       "key": "厂长",
-      "name": "LLTV┃厂长",
+      "name": "厂长┃资源",
       "type": 3,
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/厂长.js"
     },
     {
+      "key": "大米星球",
+      "name": "大米┃星球",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/大米星球.js"
+    },
+    {
       "key": "drpy_js_低端",
-      "name": "LLTV┃低端",
+      "name": "低端┃资源",
       "type": 3,
       "playerType":2,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -123,7 +130,7 @@
     },
     {
       "key": "飞云",
-      "name": "LLTV┃飞云",
+      "name": "飞云┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -133,13 +140,13 @@
     },
     {
       "key": "小胡同学",
-      "name": "LLTV┃小胡",
+      "name": "小胡┃资源",
       "type": 1,
       "playerType": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/"
     },
     { "key":"八戒资源",
-      "name":"LLTV┃八戒",
+      "name":"八戒┃资源",
       "type":1,
       "api":"http://cj.bajiecaiji.com/inc/apijson_vod.php",
       "searchable":0,
@@ -147,7 +154,7 @@
     },
     {
       "key":"csp_xml___百度资源",
-      "name":"LLTV┃百度",
+      "name":"百度┃资源",
       "type":1,
       "api":"https://api.apibdzy.com/api.php/provide/vod/",
       "playUrl":"",
@@ -185,7 +192,7 @@
     },
     {
       "key": "暴风资源",
-      "name": "LLTV┃暴风",
+      "name": "暴风┃资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -226,7 +233,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "LLTV┃非凡",
+      "name": "非凡┃资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "searchable": 1,
@@ -263,7 +270,7 @@
     },
     {
       "key":"csp_xml___飞速资源",
-      "name":"LLTV┃飞速",
+      "name":"飞速┃资源",
       "type":1,
       "api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl":"",
@@ -271,7 +278,7 @@
       "quickSearch":1
     },
     { "key":"光速资源",
-      "name":"LLTV┃光速",
+      "name":"光速┃资源",
       "type":1,
       "api":"https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
       "searchable":1,
@@ -300,7 +307,7 @@
     },
     {
       "key": "虎牙",
-      "name": "LLTV┃虎牙",
+      "name": "虎牙┃资源",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "searchable": 1,
@@ -333,7 +340,7 @@
     },
     {
       "key": "hnzy",
-      "name": "LLTV┃红牛",
+      "name": "红牛┃资源",
       "type": 1,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
       "searchable": 1,
@@ -364,7 +371,7 @@
     },
     {
       "key": "快云资源",
-      "name": "LLTV┃快云",
+      "name": "快云┃资源",
       "type": 1,
       "api": "https://kuaiyun-api.com/api.php/provide/vod/",
       "searchable": 1,
@@ -387,13 +394,13 @@
     },
     {
       "key": "乐视",
-      "name": "LLTV┃乐视",
+      "name": "乐视┃资源",
       "type": 1,
       "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
     },
     {
       "key": "量子资源",
-      "name": "LLTV┃量子",
+      "name": "量子┃资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -432,7 +439,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "LLTV┃索尼",
+      "name": "索尼┃资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -460,7 +467,7 @@
     },
     {
       "key":"csp_xml___天空资源",
-      "name":"LLTV┃天空",
+      "name":"天空┃资源",
       "type":1,
       "api":"https://api.tiankongapi.com/api.php/provide/vod/",
       "playUrl":"",
@@ -469,7 +476,7 @@
     },
     {
       "key":"csp_xml___U酷资源",
-      "name":"LLTV┃U酷",
+      "name":"U酷┃资源",
       "type":1,
       "api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list",
       "playUrl":"",
@@ -498,7 +505,7 @@
     },
     {
       "key":"csp_xml___无尽资源",
-      "name":"LLTV┃无尽",
+      "name":"无尽┃资源",
       "type":1,
       "api":"https://api.wujinapi.com/api.php/provide/vod/",
       "playUrl":"",
@@ -541,7 +548,7 @@
     },
     {
       "key":"卧龙资源",
-      "name":"LLTV┃卧龙",
+      "name":"卧龙┃资源",
       "type":1,
       "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable":1,
@@ -549,7 +556,7 @@
     },
     {
       "key": "zy_新浪资源",
-      "name": "LLTV┃新浪",
+      "name": "新浪┃资源",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -579,7 +586,7 @@
     },
     {
       "key": "爱看影视",
-      "name": "LLTV┃爱看",
+      "name": "爱看┃资源",
       "type": 3,
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -587,7 +594,7 @@
     },
     {
       "key": "咕噜[V2]",
-      "name": "LLTV┃咕噜",
+      "name": "咕噜┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -596,7 +603,7 @@
     },
     {
       "key": "吼吼",
-      "name": "LLTV┃吼吼",
+      "name": "吼吼┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -605,7 +612,7 @@
     },
     {
       "key": "js_v2-jrly",
-      "name": "LLTV┃嘉靓",
+      "name": "嘉靓┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "playerType":1,
@@ -616,7 +623,7 @@
     },
     {
       "key": "六度TV",
-      "name": "LLTV┃六度",
+      "name": "六度┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -625,7 +632,7 @@
     },
     {
       "key": "凌云影视",
-      "name": "LLTV┃凌云",
+      "name": "凌云┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -634,7 +641,7 @@
     },
     {
       "key": "欧帝影院",
-      "name": "LLTV┃欧帝",
+      "name": "欧帝┃资源",
       "type": 3,
       "playerType": "1",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -642,7 +649,7 @@
     },
     {
       "key":"小苹果",
-      "name":"LLTV┃苹果",
+      "name":"苹果┃资源",
       "type":3,
       "api":"csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xpg.jar",
@@ -653,7 +660,7 @@
     },
     {
       "key": "奇优",
-      "name": "LLTV┃奇优",
+      "name": "奇优┃资源",
       "type": 3,
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -661,7 +668,7 @@
     },
     {
       "key": "新视觉",
-      "name": "LLTV┃视觉",
+      "name": "视觉┃资源",
       "type": 3,
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -669,7 +676,7 @@
     },
     {
       "key": "TVB云播",
-      "name": "LLTV┃云播",
+      "name": "云播┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -678,18 +685,11 @@
     },
     {
       "key": "在线之家",
-      "name": "LLTV┃在线",
+      "name": "在线┃资源",
       "type": 3,
       "playerType": 2,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/在线之家.js"
-    },
-    {
-      "key": "大米星球",
-      "name": "LLTV┃大米星球",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/大米星球.js"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     
@@ -699,7 +699,7 @@
 //以下需适配  xhkw1.jar或"jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
     {
       "key":"虎虎",
-      "name":"LLTV┃虎虎",
+      "name":"虎虎┃资源",
       "type":3,
       "api":"csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -710,7 +710,7 @@
     },
     {
 			"key": "好戏",
-			"name": "LLTV┃好戏",
+			"name": "好戏┃资源",
 			"type": 3,
 			"api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -745,7 +745,7 @@
 		},
     {
       "key": "黑狐",
-      "name": "LLTV┃黑狐",
+      "name": "黑狐┃资源",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -788,7 +788,7 @@
     },
     {
       "key": "jptv",
-      "name": "LLTV┃鸡婆",
+      "name": "鸡婆┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -802,7 +802,7 @@
     },
     {
       "key": "乐鱼影视",
-      "name": "LLTV┃乐鱼",
+      "name": "乐鱼┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -812,7 +812,7 @@
     },
     {
       "key":"csp_miai",
-      "name":"LLTV┃米爱",
+      "name":"米爱┃资源",
       "type":3,
       "playerType":2,
       "api":"csp_XBPQ",
@@ -824,7 +824,7 @@
     },
     {
       "key": "csp_土豪",
-      "name": "LLTV┃土豪",
+      "name": "土豪┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -848,7 +848,7 @@
     },
     {
       "key": "Kanj",
-      "name": "LLTV┃西瓜",
+      "name": "西瓜┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -859,7 +859,7 @@
     },
     {
       "key":"zp",
-      "name":"LLTV┃臻品",
+      "name":"臻品┃资源",
       "type":3,
       "api":"csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -876,7 +876,7 @@
 //以下需适配  HeChengChaXiu.jar
     {
       "key": "csp_觅知",
-      "name": "LLTV┃觅知",
+      "name": "觅知┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/HeChengChaXiu.jar",
@@ -887,7 +887,7 @@
     },
     {
       "key": "csp_骚火",
-      "name": "LLTV┃骚火",
+      "name": "骚火┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/HeChengChaXiu.jar",
@@ -904,7 +904,7 @@
 //以下需适配  pg.jar
     {
       "key": "csp_beijihu",
-      "name": "LLTV┃极狐",
+      "name": "极狐┃资源",
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
@@ -915,7 +915,7 @@
     },
     {
       "key": "骑骑影院",
-      "name": "LLTV┃骑骑",
+      "name": "骑骑┃资源",
       "type": 3,
       "playerType":2,
       "api": "csp_AppYsV2",
@@ -927,7 +927,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "LLTV┃一起看",
+      "name": "一起看┃资源",
       "type": 3,
       "api": "csp_YQKan",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
@@ -937,7 +937,7 @@
     },
     {
       "key": "免费看影视",
-      "name": "LLTV┃免费看",
+      "name": "免费看┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -946,7 +946,7 @@
     },
     {
       "key": "追剧迷",
-      "name": "LLTV┃追剧迷",
+      "name": "追剧迷┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/追剧迷.js"
@@ -959,7 +959,7 @@
 //以下需适配  spider.txt
     {
 	    "key": "csp_XYQHiker_‍dyx",
-      "name": "LLTV┃电影港",
+      "name": "电影港┃资源",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -976,7 +976,7 @@
 //以下需适配  yytt.jar
     {
       "key": "csp_AppMr",
-      "name": "LLTV┃影视范",
+      "name": "影视范┃资源",
       "type": 3,
       "api": "csp_AppMr",
       "jar":"https://jihulab.com/lltv5/vip/-/raw/main/jar/yytt.jar",
@@ -993,7 +993,7 @@
 //以下无需适配
     {
       "key": "4K电影网",
-      "name": "LLTV┃4K",
+      "name": "4K┃电影",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -1002,7 +1002,7 @@
     },
     {
       "key": "js_6V",
-      "name": "LLTV┃6V",
+      "name": "6V┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -1012,7 +1012,7 @@
     },
     {
       "key": "9u电影",
-      "name": "LLTV┃9U",
+      "name": "9U┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -1021,14 +1021,14 @@
     },
     {
       "key": "柒之社",
-      "name": "LLTV┃07",
+      "name": "07┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/柒之社.js"
     },
     {
       "key": "49zy",
-      "name": "LLTV┃49",
+      "name": "49┃资源",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1071,7 +1071,7 @@
     },
     {
       "key": "69美剧",
-      "name": "LLTV┃69",
+      "name": "69┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -1080,7 +1080,7 @@
     },
     {
       "key": "007影视",
-      "name": "LLTV┃007",
+      "name": "007┃资源",
       "type": 3,
       "playerType": "1",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -1088,7 +1088,7 @@
     },
     {
       "key": "139影视",
-      "name": "LLTV┃139",
+      "name": "139┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -1097,7 +1097,7 @@
     },
     {
       "key": "js_555",
-      "name": "LLTV┃555",
+      "name": "555┃资源",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -1107,7 +1107,7 @@
     },
     {
       "key": "996",
-      "name": "LLTV┃996",
+      "name": "996┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhtx.jar",
@@ -1117,7 +1117,7 @@
     },
     {
       "key": "1080资源",
-      "name": "LLTV┃1080",
+      "name": "1080┃资源",
       "type": 0,
       "api": "https://api.1080zyku.com/inc/api.php",
       "searchable": 1,
@@ -1126,7 +1126,7 @@
     },
     {
       "key": "*CK资源",
-      "name": "LLTV┃CK",
+      "name": "CK┃资源",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
       "searchable": 0,
@@ -1135,8 +1135,18 @@
       "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
     },
     {
+      "key": "APP影院",
+      "name": "APP┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/APP影院.json"
+    },
+    {
       "key": "OXS",
-      "name": "LLTV┃OXS",
+      "name": "OXS┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -1149,7 +1159,7 @@
     },
     {
       "key": "Vofl",
-      "name": "LLTV┃VOF",
+      "name": "VOF┃资源",
       "type": 3,
       "playerType": 1,
       "api": "csp_Voflix",
@@ -1160,7 +1170,7 @@
     },
     {
       "key": "FREE1OK",
-      "name": "️️LLTV┃Free",
+      "name": "️️Free┃资源",
       "type": 3,
       "playerType": "1",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -1168,7 +1178,7 @@
     },
     {
       "key": "Libvio",
-      "name": "LLTV┃Libo",
+      "name": "Libo┃资源",
       "type": 3,
       "playerType": "1",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -1176,7 +1186,7 @@
     },
     {
       "key": "NikeTV",
-      "name": "LLTV┃Nike",
+      "name": "Nike┃资源",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
@@ -1186,21 +1196,11 @@
     },
     {
       "key": "bttwo",
-      "name": "LLTV┃BTtwo",
+      "name": "BTtwo┃资源",
       "type": 3,
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/两个BT.js"
-    },
-    {
-      "key": "APP影院",
-      "name": "LLTV┃APP影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/APP影院.json"
     },
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1210,7 +1210,7 @@
 //以下需适配  qiaoji.jar
     {
       "key": "巧技一",
-      "name": "LLTV┃巧一",
+      "name": "巧一┃App",
       "type": 3,
       "playerType": 2,
       "api": "csp_qiao2",
@@ -1219,7 +1219,7 @@
     },
     {
       "key": "巧技二",
-      "name": "LLTV┃巧二",
+      "name": "巧二┃App",
       "type": 3,
       "playerType": 2,
       "api": "csp_qiao2",
@@ -1228,7 +1228,7 @@
     },
     {
       "key": "巧技三",
-      "name": "LLTV┃巧三",
+      "name": "巧三┃App",
       "type": 3,
       "playerType": 2,
       "api": "csp_qiao2",
@@ -1237,7 +1237,7 @@
     },
     {
       "key": "巧技四",
-      "name": "LLTV┃巧四",
+      "name": "巧四┃App",
       "type": 3,
       "playerType": 2,
       "api": "csp_qiao2",
@@ -1246,7 +1246,7 @@
     },
     {
       "key": "河马",
-      "name": "LLTV┃河马",
+      "name": "河马┃App",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hmys",
@@ -1255,7 +1255,7 @@
     },
     {
       "key": "蝴蝶",
-      "name": "LLTV┃蝴蝶",
+      "name": "蝴蝶┃App",
       "type": 3,
       "playerType": 2,
       "api": "csp_Hudie",
@@ -1264,7 +1264,7 @@
     },
     {
       "key": "看看",
-      "name": "LLTV┃看看",
+      "name": "看看┃App",
       "type": 3,
       "api": "csp_KanKan",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
@@ -1274,7 +1274,7 @@
     },
     {
       "key": "天天",
-      "name": "LLTV┃天天",
+      "name": "天天┃App",
       "type": 3,
       "playerType": 1,
       "api": "csp_TTian",
@@ -1283,7 +1283,7 @@
     },
     {
       "key": "欣欣",
-      "name": "LLTV┃欣欣",
+      "name": "欣欣┃App",
       "type": 3,
       "playerType": 1,
       "api": "csp_qiao",
@@ -1295,7 +1295,7 @@
     },
     {
       "key": "tvbsk",
-      "name": "LLTV┃云播",
+      "name": "云播┃App",
       "type": 3,
       "playerType": 2,
       "api": "csp_Skapp",
@@ -1796,7 +1796,7 @@
 //以下无需适配
     {
       "key": "MV_vod",
-      "name": "LLTV┃MTV",
+      "name": "MTv┃合集",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -1805,7 +1805,7 @@
     },
     {
       "key": "drpy_js_斗鱼",
-      "name": "LLTV┃斗鱼",
+      "name": "斗鱼┃直播",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/斗鱼直播.js",
@@ -1815,7 +1815,7 @@
     },
     {
       "key": "drpy_js_虎牙",
-      "name": "LLTV┃虎牙",
+      "name": "虎牙┃直播",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "ext": "https://codeberg.org/ll8000/iav/raw/branch/main/js/虎牙直播.js",
@@ -1825,7 +1825,7 @@
     },
     {
       "key": "drpy_js_短视频",
-      "name": "LLTV┃短视频",
+      "name": "聚合┃短视频",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 0,
