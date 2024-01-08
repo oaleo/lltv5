@@ -446,7 +446,57 @@
       "ext": "http://www.xb6v.com",
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
+    {
+      "key": "jptv",
+      "name": "鸡婆┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xhkw1.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.jipo.tv/vsh/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#动漫$3#综艺$4#B站影视$50"
+      }
+    },
+    {
+      "key": "csp_觅知",
+      "name": "觅知┃资源",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/HeChengChaXiu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/觅知影视.json"
+    },
+    {
+      "key": "drpy_js_路漫漫",
+      "name": "路漫漫┃动漫",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/路漫漫.js"
+    },
+    {
+      "key": "MV_vod",
+      "name": "MTV┃合集",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 //以下需适配  qiaoji.jar~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    {
+      "key": "巧技三",
+      "name": "巧三┃App",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_qiao2",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji3"
+    },
     {
       "key": "Music_spider",
       "name": "Music",
@@ -457,6 +507,18 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": ""
+    },
+    {
+      "key": "欣欣",
+      "name": "欣欣┃App",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_qiao",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/xinxin"
     },
     {
       "key": "K影",
