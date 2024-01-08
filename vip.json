@@ -744,15 +744,6 @@
       "changeable": 1
     },
     {
-      "key": "天天影视",
-      "name": "天天┃资源",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn"
-    },
-    {
       "key": "星星影视",
       "name": "星星┃资源",
       "type": 3,
