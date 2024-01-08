@@ -20,16 +20,6 @@
       "ext": "https://czz9.com/"
     },
     {
-      "key": "哔嘀",
-      "name": "哔嘀",
-      "type": 3,
-      "api": "csp_Bdys",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "低端",
       "name": "低端",
       "type": 3,
@@ -90,39 +80,6 @@
       "changeable": 1
     },
     {
-      "key": "短剧网",
-      "name": "短剧网",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    
-    {
-      "key": "五五影视",
-      "name": "五五影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/五五影视.json"
-    },
-    {
-      "key": "子子影视",
-      "name": "子子影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/子子影视.json"
-    },
-    {
       "key": "荐片",
       "name": "荐片┃4K",
       "type": 3,
@@ -148,7 +105,7 @@
       "分类": "电影$1#剧集$2#综艺$4#动漫$3"}
     },
     {
-      "key": "星星",
+      "key": "星星app",
       "name": "星星┃App",
       "type": 3,
       "api": "csp_qiao",
@@ -275,6 +232,17 @@
      "ext":"https://jihulab.com/lltv5/vip/-/raw/main/json/6Vip.json"
     },
     {
+      "key": "New6v",
+      "name": "新6V┃磁力",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.xb6v.com",
+      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+    },
+    {
       "key": "TVB云播",
       "name": "云播┃资源",
       "type": 3,
@@ -393,7 +361,7 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/yt.js"
     },
     {
-      "key": "厂长",
+      "key": "厂长2",
       "name": "厂长┃资源",
       "type": 3,
       "api": "csp_Czsapp",
@@ -436,17 +404,6 @@
       "ext": "https://www.libvio.pro/"
     },
     {
-      "key": "New6v",
-      "name": "新6V┃磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.xb6v.com",
-      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
       "key": "jptv",
       "name": "鸡婆┃资源",
       "type": 3,
@@ -471,13 +428,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/觅知影视.json"
     },
-    {
-      "key": "drpy_js_路漫漫",
-      "name": "路漫漫┃动漫",
-      "type": 3,
-      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/路漫漫.js"
-    },
+    
     {
       "key": "MV_vod",
       "name": "MTV┃合集",
@@ -520,18 +471,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/xinxin"
     },
-    {
-      "key": "K影",
-      "name": "K影┃App",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_AppYsV2",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
-    },
+    
     {
       "key": "涂城",
       "name": "涂城┃App",
@@ -555,18 +495,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/xiake"
     },
-    {
-      "key": "超神",
-      "name": "超神┃App",
-      "type": 3,
-      "api": "csp_qiao",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/chaoshen"
-    },
+    
     {
       "key": "云云",
       "name": "云云┃App",
