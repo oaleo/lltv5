@@ -744,7 +744,7 @@
       "changeable": 1
     },
     {
-      "key": "天天",
+      "key": "天天影视",
       "name": "天天┃资源",
       "type": 3,
       "api": "csp_TTian",
@@ -753,7 +753,7 @@
       "ext": "http://op.ysdqjs.cn"
     },
     {
-      "key": "星星",
+      "key": "星星影视",
       "name": "星星┃资源",
       "type": 3,
       "api": "csp_App",
