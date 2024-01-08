@@ -97,7 +97,7 @@
 //以下无需适配
     {
       "key": "畅梦",
-      "name": "lltv┃畅梦",
+      "name": "LLTV┃畅梦",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -107,7 +107,7 @@
     },
     {
       "key": "厂长",
-      "name": "lltv┃厂长",
+      "name": "LLTV┃厂长",
       "type": 3,
       "playerType": "2",
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -115,7 +115,7 @@
     },
     {
       "key": "drpy_js_低端",
-      "name": "lltv┃低端",
+      "name": "LLTV┃低端",
       "type": 3,
       "playerType":2,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
@@ -123,7 +123,7 @@
     },
     {
       "key": "飞云",
-      "name": "lltv┃飞云",
+      "name": "LLTV┃飞云",
       "type": 3,
       "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
       "searchable": 1,
@@ -133,7 +133,7 @@
     },
     {
       "key": "小胡同学",
-      "name": "lltv┃小胡",
+      "name": "LLTV┃小胡",
       "type": 1,
       "playerType": 1,
       "api": "http://c.小胡.icu/api.php/provide/vod/"
