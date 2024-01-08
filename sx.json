@@ -8,8 +8,20 @@
 "sites":[ 
   
     {
+      "key": "南瓜",
+      "name": "南瓜┃备用",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "厂长",
-      "name": "厂长",
+      "name": "厂长┃备用",
       "type": 3,
       "api": "csp_Czsapp",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
@@ -21,25 +33,13 @@
     },
     {
       "key": "低端",
-      "name": "低端",
+      "name": "低端┃备用",
       "type": 3,
       "api": "csp_Ddys",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "南瓜",
-      "name": "南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/PizazzGY.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
     },
     {
       "key": "一起看",
@@ -499,7 +499,7 @@
       "name": "七七┃资源",
       "type": 3,
       "api": "csp_Kunyu77",
-      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fty.jar",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/fan.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
