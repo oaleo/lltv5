@@ -1358,7 +1358,7 @@
       "key": "天天",
       "name": "天天┃App",
       "type": 3,
-      "playerType": 1,
+      "playerType": 2,
       "api": "csp_TTian",
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/qiaoji/qiaoji.jar",
       "ext": "http://op.ysdqjs.cn"
