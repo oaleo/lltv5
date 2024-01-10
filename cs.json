@@ -172,13 +172,18 @@
     {
       "name": "精选3",
       "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "精选4",
+      "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "header": {
       "User-Agent": "okhttp/4.9.3"
       }
     },
     {
-      "name": "精选4",
+      "name": "精选5",
       "type": 1,
       "url": "https://jxjson.cf/ads.php?url=",
       "header": {
@@ -186,17 +191,17 @@
       }
     },
     {
-      "name": "精选5",
+      "name": "精选6",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
     },
     {
-      "name": "精选6",
+      "name": "精选7",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
     },
     {
-      "name": "精选7",
+      "name": "精选8",
       "type": 1,
       "url": "https://www.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
