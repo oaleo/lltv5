@@ -629,6 +629,16 @@
       "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/嘉靓.js"
     },
     {
+      "key": "drpy_js_酷吧",
+      "name": "酷吧┃资源",
+      "type": 3,
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/kuba.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
       "key": "乐鱼影视",
       "name": "乐鱼┃资源",
       "type": 3,
@@ -972,6 +982,50 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
+      "key": "Xunlei8",
+      "name": "迅雷┃资源",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
+      "changeable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "Hdhive",
+      "name": "影巢┃资源",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/tokenm.json$$$null$$$1"
+    },
+    {
+      "key": "csp_appys_影探",
+      "name": "影探┃资源",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://wvvipcms.lyyytv.cn:80/api.php/app/"
+    },
+    {
+      "key": "Ppxzy",
+      "name": "皮皮虾┃资源",
+      "type": 3,
+      "api": "csp_Ppxzy",
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/json/tokenm.json$$$https://ppxzy.net/$$$null$$$1"
+    },
+    {
       "key": "一起看 ",
       "name": "一起看┃资源",
       "type": 3,
@@ -980,6 +1034,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "drpy_js_磁力熊",
+      "name": "磁力熊┃资源",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://jihulab.com/lltv5/vip/-/raw/main/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": "https://jihulab.com/lltv5/vip/-/raw/main/js/cilixiong.js"
     },
     {
       "key": "免费看影视",
@@ -1196,10 +1261,10 @@
       "name": "CK┃资源",
       "type": 1,
       "api": "http://www.feifei67.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"
+      "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/pg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "APP影院",
@@ -2008,13 +2073,23 @@
     {
       "name": "精选3",
       "type": 0,
+      "url": "https://byg.ziqj5.shop/?url="
+    },
+    {
+      "name": "精选4",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "精选5",
+      "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "header": {
       "User-Agent": "okhttp/4.9.3"
       }
     },
     {
-      "name": "精选4",
+      "name": "精选6",
       "type": 1,
       "url": "https://jxjson.cf/ads.php?url=",
       "header": {
@@ -2022,17 +2097,17 @@
       }
     },
     {
-      "name": "精选5",
+      "name": "精选7",
       "type": 0,
       "url": "https://jx.xmflv.cc/?url="
     },
     {
-      "name": "精选6",
+      "name": "精选8",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url="
     },
     {
-      "name": "精选7",
+      "name": "精选9",
       "type": 1,
       "url": "https://www.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
