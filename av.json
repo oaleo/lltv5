@@ -164,14 +164,6 @@
       "jar": "https://jihulab.com/lltv5/vip/-/raw/main/jar/xb.jar"
     },
     {
-      "key": "chengren",
-      "name": "🔞伙伴天空",
-      "type": 1,
-      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "csp_KungFu404",
       "name": "┃阿里┃设置",
       "type": 3,
